@@ -1,0 +1,274 @@
+Week 4
+Lecture 6 
+Social Interaction
+CP650 - Lec 6 1
+Dr. Usama Mir 
+umir@wlu.ca
+
+Overview
+CP650 - Lec 6 2
+• What is social interaction?
+• The social mechanisms used in conversations
+• What is meant by social presence? 
+• Overview of technologies for supporting social 
+interactions
+• How has social media changedthe way we keep in touch?
+• New social phenomenon arising from being able to connect 
+online
+
+Social interaction(SI)
+CP650 - Lec 6 3
+• We live together, work together, play together, talk to each 
+other, and socialize
+• Social technologies developed to enable us to persist in 
+being social when apart
+• They differ in how they support us
+• Some encourage social interactions (for example, family games with
+Alexa)
+• Others have a negative impact on everyday conversations (Turkle,
+2015)…
+
+SI: Are we spending too much time in our own digital 
+bubbles?
+CP650 - Lec 6 4
+
+SI: Questions raised by social tech
+CP650 - Lec 6 5
+• Are F2F conversations being superseded by social media 
+interactions?
+• How many friends do you have on Facebook, LinkedIn, 
+WhatsApp, and so on versus real life?
+• How much do they overlap?
+• How are the ways that we live and interact with one another 
+changing?
+• Are the established rules and etiquettes still applicable 
+to online and offline?
+
+SI: Conversational mechanisms
+CP650 - Lec 6 6
+Various mechanisms and ‘rules’ are followed when holding a 
+conversation face to face, such as mutual greetings
+A: Hi there 
+B: Hi!
+C: Hi
+A: All right?
+C: Good, how’s it going? 
+A: Fine, how are you?
+C: OK
+B: So-so. How’s life treating you?
+
+SI: Conversational rules
+CP650 - Lec 6 7
+Sacks et al. (1978) conversation analysis of 
+conversations propose three basic rules:
+Rule 1:
+The current speaker chooses the next speaker by asking 
+an opinion, question, or request
+Rule 2:
+Another person decides to start speaking
+Rule 3:
+The current speaker continues talking
+
+SI: More conversational rules
+CP650 - Lec 6 8
+Turn-taking used to coordinate conversation
+A: Shall we meet at 8:00?
+B: Um, can we meet a bit later?
+A: Shall we meet at 8:00? 
+B:Wow, look at him?
+A:Yes what a funny hairdo!
+B: Um, can we meet a bit later?
+Back channeling to signal to continue and following
+• Uh-uh, umm, ahh
+
+SI: Further conversational rules
+CP650 - Lec 6 9
+Farewell rituals
+• Bye then, see you, yeah bye, see you later….
+Implicit and explicit cues
+• For instance, looking at watch or fidgeting with coat and 
+bags
+• Explicitly saying, “Oh dear, look at the time, I must go, I’m
+running late…”
+When someonesayssomethingthatis misunderstood:
+• Speakerwillrepeatwithemphasis:
+A:“Thisone?”
+B:“No,I meantthatone!”
+
+SI: What happens in online conversations?
+CP650 - Lec 6 10
+•Do the same conversational rules apply?
+•Are there different kinds of breakdowns?
+•How do people repair them for:
+• Email?
+• Instant messaging?
+• Texting?
+• Skype or other videoconferencing software?
+
+Remote conversations(RC)
+CP650 - Lec 6 11
+•Much research on how to support conversations 
+when people are ‘ a t a distance’ from each other
+•Many applications have been developed
+•For example, email, videoconferencing, instant 
+messaging, and chatrooms
+•Do they mimic or move beyond existing ways of 
+conversing?
+
+RC: VideoWindow system (Bellcore, 1989)
+CP650 - Lec 6 12
+•Shared space that allowed people 50 miles apart to 
+carry on a conversation as if in same room drinking 
+coffee together
+•3 x 8 foot ‘picture-window’ between two sites with
+video and audio
+•People did interact via the window, but strange 
+things happened (Kraut, 1990)
+
+RC: Diagram of VideoWindow in use
+CP650 - Lec 6 13
+
+RC: Findings of how VideoWindow System was used
+CP650 - Lec 6 14
+•Talked constantly about the system
+•Spoke more to other people in the same room 
+rather than in other room
+•When trying to get closer to someone in the other 
+place it had opposite effect—participants went out 
+of range of the camera and microphone
+•No way of monitoring this
+
+RC: Video conferencing and telepresence rooms
+• Many to choose to connect multiple people (for instance, 
+Zoom)
+• Customized telepresence rooms for groups
+CP650 - Lec 6 15
+
+RC: Telepresence robots
+Enable people to attend events who could not do so, such as 
+by controlling their robot remotely
+• In places such as schools, 
+conferences, and museums
+• Early example: Beam+
+• Often dressed up to appear 
+like the person to others at 
+the event
+• Positive experience of being 
+there
+Susan Lechelt at ACM  CHI
+CP650 - Lec 6 16
+
+RC: Social Presence - Facebook’s vision of socializing in a 3D  world using VR
+• Two avatars talking at a virtual table
+• Users experience each other through donning VR headsets
+CP650 - Lec 6 17
+
+RC: Social Presence - Fac ebo o k’s vision of socializing in a 3D  world using VR
+• How muchrealismandimmersionarenecessary..?
+CP650 - Lec 6 18
+
+RC: Social Presence – Second Life Example
+CP650 - Lec 6 19
+
+
+RC: Collaborative Tools – MIRO Example
+CP650 - Lec 6 20
+
+
+RC: Collaborative Tools – MIRO Example (2)
+CP650 - Lec 6 21
+
+
+RC: Co-presence
+• Co-located groups/people who want to collaborate
+• Many technologies have been designed to:
+• Enable groups to work, learn and socialize more effectively together
+• For example, tabletops, whiteboards, and people-in-the-box
+CP650 - Lec 6 22
+
+
+RC: Co-presence – Physical Coordination
+CP650 - Lec 6 23
+•When a group of people act or interact together, 
+they need to coordinate themselves
+• For example, when playing football or navigating a ship
+•To do so, they use:
+• Verbal and non-verbal communication
+• Schedules, rules, and conventions
+• Shared external representations
+
+RC: Co-presence - Awareness mechanisms
+CP650 - Lec 6 24
+• Involves knowing who is around, what is happening, and who 
+is talking with whom (Dourish and Bly, 1992)
+• Peripheral awareness
+• Keeping an eye on things happening in the periphery of vision
+• Overhearing and overseeing—allows tracking of what others are 
+doing without explicit cues
+• Situational awareness
+• Being aware of what is happening around you in order to understand 
+how information and your actions will affect ongoing and future 
+events
+• For example, air traffic control or an operating theatre
+
+RC: Co-presence - The ReflectTable
+• LEDs lit up to reflect how much each member of the group spoke
+• Used microphones in front of each individual to do this
+• Study showed those who spoke the most changed their behavior the 
+most
+• Those who spoke the least did not change their behavior
+• Why do you think this is?
+CP650 - Lec 6 25
+
+RC: Co-presence- Sococo floor plan of a virtual office:
+who is where and who meeting with whom
+CP650 - Lec 6 26
+https://www.sococo.com/
+
+RC: Co-presence - Playing together in same space
+• Visitors using an AR sandbox 
+at the V and A
+• Visitors sculpt landscapes 
+out of sand
+• System reacts with changing 
+superimposed digital colored 
+landscape
+• Enables creative forms of 
+collaboration
+CP650 - Lec 6 27
+
+Social engagement
+CP650 - Lec 6 28
+• Refers to participation in activities of a social group
+• Social exchange where people give or receive something 
+from others
+• Voluntary, unpaid and often altruistic (in the sense of sharing 
+and doing good for others)
+• Websites often used as hub to connect people
+• Retweeting is a powerful way of connecting millions of
+people…
+
+Social Engagement: Dilemma: Is it OK  to talk with a dead person using a 
+chatbot?
+CP650 - Lec 6 29
+• Eugenia Kuyda lost a close friend in a car accident who was 
+only in his 20s
+• She took all his texts sent over the course of his life and 
+made a chatbot using them
+• Chatbot responds to text messages so that Eugenia can talk 
+to her friend as if he was alive
+• Is this a creepy or comforting way to deal with grief?
+▪ Is it respectful of the dead person?
+
+Summary
+CP650 - Lec 6 30
+• Social interaction is central to our everyday lives
+• Social mechanisms, like turn-taking, enable us to collaborate 
+and coordinate our activities
+• Keeping aware of what others are doing and letting others 
+know what you are doing are important aspects of 
+collaborative working and socializing
+• Many technology systems have been built to support 
+telepresence, social presence, and co-presence
+• Social media has brought about significant changes in how 
+people keep in touch and manage their social lives

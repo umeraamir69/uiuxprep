@@ -1,26 +1,53 @@
 (function () {
   "use strict";
 
-  const DATA = window.LEC10_MCQS;
-  if (!Array.isArray(DATA) || DATA.length === 0) {
-    document.getElementById("questionText").textContent =
-      "Error: lec10-mcqs.js did not load. Keep index.html, app.js, and lec10-mcqs.js in the same folder.";
+  const BY_LECTURE = window.CP650_MCQS_BY_LECTURE;
+  if (!BY_LECTURE || typeof BY_LECTURE !== "object") {
+    document.body.innerHTML =
+      "<p style=\"padding:2rem;font-family:system-ui\">Error: mcqs-data.js did not load. Keep index.html, app.js, and mcqs-data.js in the same folder.</p>";
     return;
   }
 
+  const LECTURE_TITLES = {
+    1: "Ch.1 — Multidisciplinary interaction design",
+    2: "Design principles & accessibility",
+    3: "The process of interaction design",
+    4: "Conceptualizing interaction design",
+    5: "Cognitive aspects",
+    6: "Social interaction",
+    7: "Emotional interaction",
+    8: "Interface types",
+    9: "Data gathering I",
+    10: "Data gathering II (ontology, validity, sampling, ethics)",
+    11: "Qualitative data analysis",
+    12: "Field studies & analysis frameworks",
+    13: "Discovering requirements",
+    14: "Data at scale",
+    15: "Ideate, design, prototyping & construction",
+  };
+
+  let DATA = [];
+  let currentLecture = null;
   let order = [];
   let index = 0;
   let answered = false;
   let correctCount = 0;
   let attempted = 0;
 
+  const pickerView = document.getElementById("pickerView");
+  const quizView = document.getElementById("quizView");
+  const lectureGrid = document.getElementById("lectureGrid");
+  const backBtn = document.getElementById("backBtn");
+  const lectureBadge = document.getElementById("lectureBadge");
   const questionText = document.getElementById("questionText");
+  const questionMeta = document.getElementById("questionMeta");
   const optionsRoot = document.getElementById("optionsRoot");
   const feedback = document.getElementById("feedback");
   const nextBtn = document.getElementById("nextBtn");
   const progressText = document.getElementById("progressText");
   const scoreText = document.getElementById("scoreText");
   const shuffleToggle = document.getElementById("shuffleToggle");
+  const filterAnalytical = document.getElementById("filterAnalytical");
   const restartBtn = document.getElementById("restartBtn");
 
   function shuffleArray(arr) {
@@ -32,8 +59,22 @@
     return a;
   }
 
+  function stripTags(q) {
+    return q
+      .replace(/^\[L\d+\]\s*/i, "")
+      .replace(/^\(\d+\)\s*/, "")
+      .replace(/\s*\(v\d+\)\s*$/, "")
+      .trim();
+  }
+
   function buildOrder() {
-    const indices = DATA.map((_, i) => i);
+    let indices = DATA.map((_, i) => i);
+    if (filterAnalytical.checked) {
+      const filtered = indices.filter(
+        (i) => DATA[i].cat === "analysis" || DATA[i].cat === "application"
+      );
+      if (filtered.length > 0) indices = filtered;
+    }
     order = shuffleToggle.checked ? shuffleArray(indices) : indices;
     index = 0;
     answered = false;
@@ -41,11 +82,32 @@
     attempted = 0;
   }
 
-  function stripLeadingNumber(q) {
-    return q.replace(/^\(\d+\)\s*/, "").trim();
+  function showPicker() {
+    currentLecture = null;
+    pickerView.classList.remove("hidden");
+    quizView.classList.add("hidden");
+    quizView.setAttribute("aria-hidden", "true");
+  }
+
+  function startLecture(num) {
+    const key = String(num);
+    const list = BY_LECTURE[key];
+    if (!Array.isArray(list) || list.length === 0) {
+      alert("No questions loaded for Lecture " + key + ". Regenerate mcqs-data.js.");
+      return;
+    }
+    currentLecture = num;
+    DATA = list;
+    lectureBadge.textContent = "Lecture " + key + " · " + (LECTURE_TITLES[num] || "");
+    pickerView.classList.add("hidden");
+    quizView.classList.remove("hidden");
+    quizView.setAttribute("aria-hidden", "false");
+    buildOrder();
+    renderQuestion();
   }
 
   function renderQuestion() {
+    if (!DATA.length) return;
     answered = false;
     feedback.classList.add("hidden");
     feedback.textContent = "";
@@ -55,8 +117,10 @@
 
     const qi = order[index];
     const item = DATA[qi];
-    const qClean = stripLeadingNumber(item.q);
+    const qClean = stripTags(item.q);
 
+    const cat = item.cat || "recall";
+    questionMeta.textContent = cat === "recall" ? "Recall" : cat === "application" ? "Application" : "Analysis";
     questionText.textContent = qClean;
     optionsRoot.innerHTML = "";
 
@@ -75,7 +139,7 @@
     scoreText.textContent = `Score: ${correctCount} / ${attempted}`;
   }
 
-  function onSelect(selectedIdx, item, clickedBtn) {
+  function onSelect(selectedIdx, item) {
     if (answered) return;
     answered = true;
     attempted += 1;
@@ -119,18 +183,38 @@
       index += 1;
       renderQuestion();
     } else {
+      questionMeta.textContent = "Done";
       questionText.textContent = "You finished this run.";
       optionsRoot.innerHTML = "";
       feedback.classList.remove("hidden");
       feedback.classList.remove("bad");
       feedback.classList.add("ok");
-      feedback.textContent = `Final score: ${correctCount} out of ${attempted} answered (${order.length} questions in this set). Use Restart for another pass.`;
+      feedback.textContent = `Final score: ${correctCount} out of ${attempted} answered (${order.length} questions in this set). Use Restart or pick another lecture.`;
       nextBtn.classList.add("hidden");
       progressText.textContent = "Complete";
     }
   }
 
+  function initPicker() {
+    for (let n = 1; n <= 15; n++) {
+      const key = String(n);
+      const list = BY_LECTURE[key];
+      const count = Array.isArray(list) ? list.length : 0;
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "lecture-tile";
+      btn.innerHTML = `<span class="tile-num">${n}</span><span class="tile-title">${LECTURE_TITLES[n] || "Lecture " + n}</span><span class="tile-count">${count} MCQs</span>`;
+      btn.disabled = count === 0;
+      btn.addEventListener("click", () => startLecture(n));
+      lectureGrid.appendChild(btn);
+    }
+  }
+
   nextBtn.addEventListener("click", nextQuestion);
+
+  backBtn.addEventListener("click", () => {
+    showPicker();
+  });
 
   restartBtn.addEventListener("click", () => {
     buildOrder();
@@ -142,12 +226,17 @@
     renderQuestion();
   });
 
+  filterAnalytical.addEventListener("change", () => {
+    buildOrder();
+    renderQuestion();
+  });
+
   document.addEventListener("keydown", (e) => {
     if (e.key === "Enter" && !nextBtn.classList.contains("hidden") && !nextBtn.disabled) {
       nextQuestion();
     }
   });
 
-  buildOrder();
-  renderQuestion();
+  initPicker();
+  showPicker();
 })();

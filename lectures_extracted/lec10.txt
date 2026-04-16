@@ -1,0 +1,351 @@
+CP650 - Lec 10 1
+Dr. Usama Mir 
+umir@wlu.ca
+Week 8
+Lecture 10
+DATA GATHERING II
+
+Ontology vs Epistemology in Research
+CP650 - Lec 10 2
+• Ontology: addresses "what is"
+• Epistemology: addresses "how do we know“
+• Ontology: deals with reality of entities
+• Epistemology: deals with methods of acquiring knowledge
+• Ontology: concerned with categorizing entities
+• Epistemology: concerned with evaluating evidence
+
+Ontology vs Epistemology in Research
+CP650 - Lec 10 3
+• Ontology in UX  research: determining if a website is
+considered a single entity or multiple entities
+• Epistemology in UX  research: determining if usability testing 
+is the most effective method for evaluating user satisfaction 
+with a website
+• Ontology in UX  research: determining if chatbot is 
+considered as human or machine
+• Epistemology in UX  research: determining if A/B testing is an 
+appropriate method for evaluating the effectiveness of a 
+chatbot's conversational design
+
+What is Qualitative Research?
+CP650 - Lec 10 4
+• Qualitative research involves collecting and analyzing 
+non-numerical data (e.g., text, video, or audio) to 
+understand concepts, opinions, or experiences. It can 
+be used to gather in-depth insights into a problem or 
+generate new ideas for research.
+https://www.scribbr.com/methodology/qualitative-research/
+
+Nuances of Qualitative Research
+CP650 - Lec 10 5
+• Data interpretation needed
+• Observation/measurement changes phenomenon
+• Numbers, equations, words are symbolic, not reality
+• Validity is a goal, not a product
+
+Issues with Qualitative Research
+CP650 - Lec 10 6
+
+Reliability in Research(1)
+CP650 - Lec 10 7
+• Validity, reliability and generalisability have been called the
+‘holy trinity’ of the sciences (Kvale 1996).
+
+Reliabilityin Research (2)
+CP650 - Lec 10 8
+• Reliability: consistency of research findings
+• Repeatability of results under same conditions
+• Reduces random errors, chance influences
+• Two types: test-retest, inter-rater
+• Test-retest: consistency over time on same individuals
+• Inter-rater: consistency of results among multiple judges
+• Ensures accuracy and trustworthiness of findings.
+
+Validity in Research
+CP650 - Lec 10 9
+• Validity: accuracy of research findings
+• Ensures conclusions are accurate and meaningful
+• Ensures findings can be replicated, generalizable
+• Two types: internal and external
+• Internal: findings accurately reflect phenomenon
+• External: findings generalizable to other settings/populations
+• Important for reliability and trustworthiness of findings.
+
+Internal Validity for UX  Studies
+CP650 - Lec 10 10
+• Study compares two sites (A and B)
+• Participants shown site A first, then site B
+• Same tasks completed on both sites
+• This study design may not produce accurate results
+• May not accurately identify the better design
+
+Internal Validity for UX  Studies
+CP650 - Lec 10 11
+• Study setup favors design B
+• Participants already familiar with testing situation and task 
+domain
+• May have expectations and know what's expected of them
+• Lacks internal validity
+• Solution is to alternate which site goes first and have half of 
+the users try site B first
+
+External Validity for UX  Studies
+CP650 - Lec 10 12
+A studyhasexternalvalidityiftheparticipantsandthestudy 
+setuparerepresentativefor thereal-world situationin which 
+thedesignis used but: 
+• Recruiting study participants from the general population
+may not be valid for seniors
+• Testing mobile design on desktop may not generalize to real- 
+world use
+• Studies may lack external validity
+• Further study may be required to confirm results.
+
+Recommendations for Study Design: Internal Validity
+CP650 - Lec 10 13
+• Randomize task order to avoid bias
+• People take longer and make more errors on first tasks
+• Tasks at end of session may show effect of fatigue
+• Use warmup tasks to mitigate learning phase and make 
+participants comfortable
+• Ensure warmup tasks are not included in analysis
+• Sometimes, task order may not be feasible to randomize
+
+Recommendations for Study Design: External Validity
+CP650 - Lec 10 14
+• Recruit representative participants matching target audience
+demographics and goals
+• External validity may not be ensured by demographics alone
+• Strive to find participants with similar goals as users
+• Replicate natural usage environment for best results
+• Environment plays role in usability, test in location it will be 
+used.
+
+Reactivity in Research
+CP650 - Lec 10 15
+• Reactivity refers to change in behavior due to observation
+• Can occur in quantitative and qualitative research
+• Examples include Hawthorne effect, conformity effect, 
+and social desirability bias
+• Can affect research validity and generalizability.
+
+Reactivity in Research: Hawthorn Effect
+CP650 - Lec 10 16
+• Hawthorne effect: phenomenon where participants change
+behavior/performance due to increased attention in study
+• Named after experiments at Hawthorne Works in 
+1920s/1930s
+• Can lead to inaccurate results if not controlled for in study
+design.
+
+Reactivity in Research: Conformity Effect
+CP650 - Lec 10 17
+• Conformity effect refers to the tendency for individuals to 
+conform to the actions or opinions of a group, in order to fit 
+in or be liked by others.
+• It can occur in both quantitative and qualitative research.
+• Examples include the Asch conformity experiments, where 
+participants conformed to the incorrect answer given by a 
+group, and groupthink, where individuals conform to group 
+decision making without critically evaluating the decision.
+• Conformity effect can lead to inaccurate research results if
+not controlled for in the study design.
+
+Reactivity in Research: Conformity Effect
+CP650 - Lec 10 18
+• https://www.youtube.com/watch?v=TrTk6DsEJ2Q&ab_chann
+el=HappinessAccelerator
+
+Reactivity in Research: Conformity Effect
+CP650 - Lec 10 19
+• Blind study design: Participants and/or researchers do not 
+know the group assignments (control or experimental 
+group)
+• Double-blind study design: Both Participants and researchers 
+do not know the group assignments.
+• Helps to control for observer expectancy effect by reducing 
+researcher bias.
+• Commonly used in clinical trials to control for placebo 
+effect.
+
+Reactivity in Research: Social Desirability Effect
+CP650 - Lec 10 20
+• Social desirability effect: phenomenon where participants give 
+responses that they believe are socially acceptable or 
+desirable, rather than their true beliefs or behavior.
+• Can occur in both quantitative and qualitative research.
+• Examples include participants over-reporting positive
+behaviors or under-reporting negative behaviors.
+• Can lead to inaccurate research results if not controlled for 
+in the study design.
+• Anonymous surveys or indirect questioning methods can
+help control for this effect.
+
+Reactivity in Research: Social Desirability Effect
+CP650 - Lec 10 21
+• https://www.youtube.com/watch?v=J930Rut_J6E&ab_channel
+=NationalGeographic
+
+Sampling
+CP650 - Lec 10 22
+• Sampling: selecting a subset of a population to study
+• Representativeness: ensuring sample is representative of 
+population
+• Sample size: determining appropriate number of individuals 
+to include
+• Sampling bias: potential for sample to not accurately 
+represent population
+
+Sampling
+CP650 - Lec 10 23
+• Quant research: sample characteristics, size more important 
+than relative size
+• Qual research: not statistical representativeness, but full 
+range of views, themes and possibilities.
+
+Sampling
+CP650 - Lec 10 24
+• The appropriate sample design will depend on the following
+criteria:
+• Degree of accuracy required
+• Nature of the project local versus national project
+• Need for statistical analysis
+• Resources (i.e. time / money)
+
+Sampling Categories
+CP650 - Lec 10 25
+• Probability sampling: random selection of individuals
+• Non-probability sampling: non-random selection of 
+individualsex. quota sampling
+• Convenience sampling: selecting individuals easily accessible
+• Stratified sampling: dividing population into subgroups and 
+selecting from each
+• Cluster sampling: dividing population into clusters and 
+randomly selecting clusters
+• Snowball sampling: 
+recruiting participants through referrals
+
+Promoting Validity & Reliability in Research
+CP650 - Lec 10 26
+• Credibility: Active listening, reflection
+• Confirmability: Direct participatory, documented evidence 
+from primary sources
+• Meaning-in-context: Understanding data in holistic contexts
+• Recurrent patterning: Identifying patterns through 
+repeated experiences
+• Transferability: Examining general similarities of findings 
+in similar situations
+Leininger 1994
+
+Promoting Validity & Reliability in Research
+CP650 - Lec 10 27
+• Credibility
+• Applicability
+• Consistency
+• Neutrality
+Lincoln and Guba 1990
+
+Promoting Validity & Reliability in Research
+CP650 - Lec 10 28
+• Member checks: Confirming data and interpretations with
+participants
+• Also called member tests of validity, host verification
+• Can be conducted continuously and both formally and 
+informally
+• Seeking diversity
+• Allows for rangeof realitiesandperspectives
+• Examples: Peer reviews, diary keeping, discussions 
+with colleagues etc. 
+Merriam 2002
+
+Promoting Validity & Reliability in Research
+CP650 - Lec 10 29
+• Audit Trails: Detailed account of methods, procedures,
+decision points
+• Raw data
+• Data reduction/analysis products
+• Data reconstruction/synthesis products
+• Process notes (journal)
+• Materials on intentions/dispositions
+Merriam 2002
+
+Audit Trail: An Example
+CP650 - Lec 10 30
+https://link.springer.com/chapter/10.1007/978-3-642-04125-9_47
+
+Ethics in Qualitative Research
+CP650 - Lec 10 31
+• Validity and reliability depend on investigator's ethics
+• Ethical practice based on individual researcher's values and 
+ethics
+• Protection of subjects, informed consent, privacy, and deception 
+must be considered
+• Credibility of researcher, rigorous methods, and understanding 
+of qualitative inquiry essential for credibility of qualitative 
+research
+• Credibility includes: training, experience, track record, status, self- 
+presentation, intellectual rigor, professional integrity, and 
+methodological competence
+• Trust in study's integrity and researcher's ethical stance necessary.
+
+Ethical Issues Checklist
+CP650 - Lec 10 32
+• Patton (2002) identifies the following ten items to beconsidered when engaging in qualitative research:
+1. Explaining purpose of the inquiry and methods to be used
+2. Promises
+3. Risk assessment
+4. Confidentiality
+5. Informed consent
+6. Data access and ownership
+7. Interviewer mental health
+8. Advice (who will be your counselor on ethical matters)
+9. Data collection boundaries
+10. Ethical versus legal conduct
+
+Ethical Guidelines
+CP650 - Lec 10 33
+• Research Ethics Board approval may be required for certain types of 
+research, and a detailed research plan is necessary for approval
+• Research participants often expect their anonymity to be protected
+• Ethics guidelines may be formal or informal, depending on
+the industry
+• Researchethicsconcernsfocuson risk andconsent
+
+Risk
+CP650 - Lec 10 34
+• Research should minimize the potential for harm to
+participants
+• In medical research, harm is often clear
+• In user research, it can be more difficult to anticipate harm
+• Identities of research participants are often undisclosed to 
+protect against potential harm
+• Research can unintentionally do harm through disclosures 
+made during the research process
+• It is important to consider potential harm when conducting 
+research.
+
+Privacy and Confidentiality
+CP650 - Lec 10 35
+• Privacy and confidentiality are important considerations in
+research ethics
+• Researchers should ensure that research participants cannot 
+be identified from their responses
+• This is important for both published and stored data
+• Numeric codes or aliases may be used to protect 
+participants' identities
+• The more personal or "human" the research, the higher the 
+risk of participants being identified by their responses
+• Researchers should consider the potential for unintended 
+harm through disclosures during research
+
+Consent
+CP650 - Lec 10 36
+• Research involving human participants must follow the
+principle of informed consent
+• Participants must be fully aware of potential risks and 
+understand the extent of those risks
+• Risks cannot be hidden or minimized, even if they are minor
+• In research where participants may reasonably expect harm, 
+the benefits must outweigh the risks
+• Participants must fully understand the risks and agree to take 
+them

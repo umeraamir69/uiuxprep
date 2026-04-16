@@ -1,0 +1,321 @@
+Week 11
+Lecture 15
+Ideate, Design, Prototyping And 
+Construction
+Dr. Usama Mir 
+umir@wlu.ca
+1
+
+Chapter 12
+2
+
+Overview
+• Prototyping
+• Conceptual design
+• Concrete design
+• Using scenarios
+• Generating prototypes
+• Construction
+3
+
+Prototyping
+• What is a prototype?
+• Why prototype?
+• Different kinds of prototyping
+▪ Low fidelity
+▪ High fidelity
+• Compromises in prototyping
+▪ Vertical
+▪ Horizontal
+• Final product needs to be engineered
+4
+
+Prototyping: What is a prototype?
+• One manifestation of a design that allows stakeholders to 
+interact with it
+• In other design fields, a prototype is a small-scale model:
+▪ A miniature car
+▪ A miniature building or town
+Source: PalmPilot wooden model © Mark Richards
+5
+
+Prototyping: Examples
+6
+
+
+Prototyping: What is a prototype in interaction design?
+• In interaction design, a prototype can be (among other 
+things):
+• A series of screen sketches
+• A storyboard, for example, a cartoon-like series of scenes
+• A PowerPoint slide show
+• A video simulating the use of a system
+• A lump of wood (for instance, the PalmPilot)
+• A cardboard mock-up
+• A piece of software with limited functionality written in the 
+target language or in another language
+7
+
+Prototyping: Why prototype?
+• Evaluation and feedback are central to interaction design
+• Stakeholders can see, hold, and interact with a prototype more easily
+than a document or a drawing
+• Team members can communicate effectively
+• Ideas can be tested out
+• Prototyping encourages reflection: an important aspect of design
+• Prototypes answer questions and support designers in choosing 
+between alternatives
+8
+
+Prototyping: An Example 
+9
+
+
+Prototyping: Low-fidelity(LF) Prototyping
+• Uses a medium which is unlike the final medium, for example, 
+paper or cardboard
+• Is quick, cheap, and easily changed
+• Examples:
+▪ Sketches of screens, task sequences, and so on
+▪ ‘Post-it ’ notes
+▪ Storyboards
+▪ ‘Wizard-of-Oz’
+10
+
+Prototyping: LF: Storyboards
+• It is a series of sketches showing how a user 
+might progress through a task using the product
+• Often used with scenarios, bringing in more detail 
+and a chance to role play
+11
+
+Prototyping: LF: Example storyboard
+12
+
+Prototyping: LF: Sketching
+•Low-fidelity prototyping often relies on sketching
+• Don’t be inhibited about drawing ability —  Practice 
+simple symbols
+13
+
+Prototyping: LF: Index cards(1)
+• Index cards (3 x 5 
+inches)
+• Each card represents 
+one element of 
+interaction
+• In evaluation, can step 
+through the cards
+14
+
+Prototyping: LF: Index cards(2)
+15
+
+
+Prototyping: LF: ‘Wizard-of-Oz’ 
+>Blurb blurb
+>Do this
+>Why?
+• The user thinks they are interacting with a computer, but a 
+human is responding to output rather than the system
+• Usually done early in design to understand users’
+expectations
+User
+16
+
+Prototyping: LF: Activity
+Produce a storyboard that depicts how to fill a car with 
+fuel.
+17
+
+
+Prototyping: High-fidelity(HF) 
+• Uses materials that you would expect to be in the final 
+product
+• Prototype looks more like the final system than a low- 
+fidelity version
+• High-fidelity prototypes can be developed by integrating
+existing hardware and software components
+• Danger that users think they have a complete system…see
+compromises
+18
+
+Prototyping: HF: Compromises
+• Prototyping involve compromises
+• For software-based prototyping, maybe there is a slow 
+response? sketchy icons? limited functionality?
+• Two common types of compromise:
+• Horizontal:
+Provides a wide range of functions, but with little detail
+• Vertical:
+Provides a lot of detail for only a few functions
+• Compromises in prototypes must not be ignored. Product 
+needs engineering
+19
+
+Prototyping: HF: Example
+20
+https://dribbble.com/shots/25740162-UI-UX-Design-for-Finance-
+Dashboard
+
+Prototyping: HF: Filters and Manifestations (1)
+The Anatomy of Prototyping: Filters and Manifestations
+Prototypes act as filters, for example, to emphasize specific aspects of a product being 
+explored by the prototype (and to de-emphasize or omit others), and as manifestations of 
+designs, for example, to help designers develop their design ideas through external 
+representations (Lim et al., 2008).
+Three key principles underpin the anatomy of prototypes:
+Fundamental prototyping principle: Prototyping is an activity with the purpose of creating a 
+manifestation that, in its simplest form, filters the qualities in which designers are 
+interested without distorting the understanding of the whole.
+Economic principle of prototyping: The best prototype is one that, in the simplest and the 
+most efficient way, makes the possibilities and limitations of a design idea visible and 
+measurable.
+Anatomy of prototypes: Prototypes are filters that traverse a design space, i.e., by building 
+different prototypes that are constrained in different ways, a designer can consider a wide 
+range of possibilities within the design space. Prototypes are also manifestations of specific 
+design ideas that concretize and externalize conceptual ideas.
+21
+
+Prototyping: HF: Filters and Manifestations (2)
+22
+
+
+Conceptual design(CD)
+• A conceptual model is an outline of what people can do with 
+a product and what concepts are needed to understand and 
+interact with it
+• Understand problem space and current requirements; 
+empathize with users
+• Creativity and brainstorming techniques
+• Mood board may capture desired feel
+• Consider alternatives: scenarios and prototyping helps
+23
+
+CD: Mood Board for a personal safety product
+24
+http://johnnyhuang.design/guardllama.html
+
+CD: Plus and minus scenarios
+25
+
+
+CD: Building scenarios
+26
+
+CD: Interface metaphors (1)
+27
+- Interface metaphors combine familiar knowledge with new knowledge 
+in a way that will help people understand the product. 
+- For example, consider an educational system to teach 6-year-olds 
+mathematics. 
+- Tom Erickson suggests a 3-step process: 
+• Identify functional requirements 
+• Under which bits of the system will cause problems 
+• Generate metaphors 
+
+CD: Interface metaphors (2)
+28
+1. How much structure does the metaphor provide? A good metaphor 
+will provide structure—preferably familiar structure.
+2. How much of the metaphor is relevant to the problem? One of the 
+difficulties of using metaphors is that users may think they 
+understand more than they do and start applying inappropriate 
+elements of the metaphor to the product, leading to confusion or 
+false expectations.
+3. Is the interface metaphor easy to represent? A good metaphor will 
+be associated with particular physical, visual, and audio elements, 
+as well as words.
+4. Will your audience understand the metaphor?
+5. How extensible is the metaphor? Does it have extra aspects that 
+may be useful later?
+
+Concrete design
+• Difference between conceptual and concrete is emphasis
+• Many aspects to concrete design
+▪ Color, icons, buttons, interaction devices, and so on
+• Accessibility
+▪ Web Content Accessibility Guidelines (WCAG)
+• Inclusiveness
+▪ Covers cultural backgrounds, language, gender, and economics
+29
+
+Concretedesign: Example
+30
+A paper prototype for the home view of an astronomy visualization package, illustrating some aspects of concrete design. On the left side 
+is a large area for displaying the data, and on the right side there is an expanding side menu containing icons for additional functionality. 
+In the middle is a list of data variables. The screen layout, relative sizes and locations of interface elements, and design of specific icons 
+are all aspects of concrete design.
+
+Generating prototypes
+• Generate a storyboard from a scenario
+▪ Break down scenario into steps
+▪ Create a scene for each step
+• Sketching out a storyboard prompts designers to think 
+about design issues
+• Generate a card-based prototype from a storyboard or
+from a use case
+▪ Consider each step in use case – what interaction element is 
+needed
+▪ Draw a card that captures it
+31
+
+Generating prototypes: Travel Organizer (Storyboard)
+32
+
+
+Generatingprototypes: Travel Organizer (Card-Based)
+33
+
+Generatingprototypes: Explore the user’s experience
+26 27
+• Use personas, card-based prototypes, or stickies to model 
+the user experience
+• Visual representation called:
+▪ Design map
+▪ Customer or user journey map
+▪ Experience map
+• Two common representations
+▪ Wheel
+▪ Timeline
+34
+
+Generatingprototypes: Exploretheuser’s experience – Wheel 
+(experience map)
+Source: LEGO
+26 2835
+
+Generatingprototypes: Exploretheuser’s experience –
+Timeline (experience map)
+Source: Adlin and Pruitt (2010), p134. Used courtesy of Morgan Kaufmann.
+28 2936
+
+Construction: SDKs
+• Software Development Kits
+▪ Programming tools and components to develop for a specific
+platforms, for example, iOS
+• Includes: IDE, documentation, drivers, sample code, and 
+application programming interfaces (APIs)
+• Makes development much easier
+• Examples:
+▪ Microsoft’s Kinect SDK  for motion tracking
+▪ Building voice-based services with Amazon's Alexa Skills Kit: 
+developer.amazon.com/alexa-skills-kit.
+▪ Constructing augmented reality experiences with Apple's 
+ARKit: developer.apple.com/arkit.
+37
+
+Construction: Physical computing
+38
+The Lilypad Arduino kit
+
+Summary
+• Prototyping may be low fidelity (such as paper-based) or high 
+fidelity (such as software-based)
+• Existing software and hardware helps create prototypes
+• Two aspects to design: conceptual and concrete
+• Conceptual design develops an outline of what users can do 
+and what concepts are needed to understand the product.
+• Concrete design specifies design details, for example, layout 
+or navigation
+39

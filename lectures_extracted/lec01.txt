@@ -1,0 +1,203 @@
+CP650 - Lecture1 1
+Exploring the Multidisciplinary  
+Nature ofInteractionDesign
+U s a m a  M i r  
+u m i r @ w l u . c a 
+Lecture 1 (Week 1)
+      Chapter 1
+
+Textbook
+Y vonneRogers,Helen Sharp, andJennyPreece(6th Edition)
+CP650 - Lecture1 2
+
+BadDesigns
+• Elevatorcontrolsandlabelson thebottomrow all look the
+same,so itis easyto pushalabelbymistake instead ofa
+control button.
+• Peopledo notmakesamemistakeforthelabelsand buttons
+on thetoprow. Why not?
+www.baddesigns.com
+CP650 - Lecture1 3
+
+Why is this vending machine so bad?
+• Need to pushbuttonfirstto activatereader
+• Normally insertbillfirstbeforemakingselection
+CP650 - Lecture1 4
+
+Good Design
+• Marbleansweringmachine(Bishop,1995)
+• Basedon how everydayobjectsbehave
+• Easy,intuitive,andapleasure to use
+• Only requiresone-stepactionsto performcoretasks
+CP650 - Lecture1 5
+
+Good andBadDesign
+Why is theTiV o remotemuchbetterdesignedthanstandard remote
+controls?
+• Peanutshapedto fitin hand
+• Logicallayoutandcolor-coded,distinctivebuttons
+• Easy-to-locate buttons
+CP650 - Lecture1 6
+The question is how did they come up with  such a good 
+design? 
+
+Dilemma
+Which isthebestwayto interactwithasmartTV?Why?
+• Peckingusingagridkeyboardviaaremotecontrol
+• Swipingacrosstwoalphanumericrows usingatouchpadon aremote control
+• V oicecontrolusingremoteor smartspeaker
+CP650 - Lecture1 7
+
+Switching to Digital 
+CP650 - Lecture1 8
+
+
+What to Design
+CP650 - Lecture1 9
+• Need to take into account:
+• Who theusersare
+• What activitiesare beingcarriedout
+• Where interaction is takingplace
+• Need to optimizeuserinteractions
+• So thatthey matchtheusersactivitiesandneeds
+
+What is InteractionDesign?
+CP650 - Lecture1 10
+• “Designing interactiveproducts to support the way
+peoplecommunicateandinteractin their everyday and 
+workinglives.”
+Sharp,Rogers,andPreece (2019)
+• “Thedesignof spacesfor humancommunication  
+andinteraction.”
+Winograd(1997)
+
+Goals ofInteractionDesign
+CP650 - Lecture1 11
+• Developusableproducts
+• Usabilitymeanseasyto learn,effective to use,and  
+providesanenjoyableexperience
+• Involve usersin thedesign process
+
+User Experience Example
+CP650 - Lecture1 12
+The digital world overlaying the physical experienced when 
+wearing Snap AR Spectacles
+
+What Kind ofDesign?
+CP650 - Lecture1 13
+• Number of othertermsusedto emphasizewhatis being
+designed,for example:
+• User interfacedesign,softwaredesign,user-centereddesign,
+productdesign,webdesign,experiencedesign(UX)
+• Interactiondesignis theumbrellatermcoveringall of
+theseaspects:
+• Fundamental to alldisciplines,fields,andapproaches  concerned
+withresearchinganddesigningcomputer-based systemsforpeople
+
+InteractionDesign (ID)
+CP650 - Lecture1 14
+
+
+AcademicDisciplines
+CP650 - Lecture1 15
+• Academicdisciplinescontributingto ID:
+• Psychology
+• SocialSciences
+• Computing Sciences
+• Engineering
+• Ergonomics
+• Informatics
+
+DesignPractices
+CP650 - Lecture1 16
+• Designpracticescontributingto ID:
+• Graphicdesign
+• Productdesign
+• Artist-design
+• Industrialdesign
+• Filmindustry
+
+Interdisciplinary Fields
+CP650 - Lecture1 17
+• Interdisciplinaryfieldsthat‘do’interactiondesign:
+• HCI
+• UbiquitousComputing
+• HumanFactors
+• Cognitive Ergonomics
+• InformationSystems
+
+Since we first created Figure on slide 14, many other computer-related 
+fields have emerged where the user is considered central. Would it make 
+sense to add these, and, if so, how? Can you also name some new fields?
+CP650 - Lecture 1 18
+
+Workingin MultidisciplinaryTeams
+CP650 - Lecture1 19
+• Many peoplefrom differentbackgroundsinvolved
+• Differentperspectivesandwaysofseeingandtalkingabout things
+• Benefits:More ideasanddesignsgenerated
+• Disadvantages:Difficultto communicateandprogress  
+forward thedesignsbeingcreate
+
+InteractionDesign in Business
+CP650 - Lecture1 20
+Nielsen Norman Group:“helpcompaniesentertheage ofthe
+consumer,designinghuman-centeredproductsand services”
+Cooper: “Fromresearchandproductto goal-related 
+design”
+IDEO:“creates products, services and environments for
+companiespioneeringnew ways to provide value to their
+customers”
+
+The User Experience
+CP650 - Lecture1 21
+• How a productbehaves andis usedby peoplein the real
+world
+• The waypeoplefeelaboutitandtheirpleasureandsatisfactionwhen usingit,
+lookingatit,holdingit,andopeningor closingit
+• “Everyproductthatis usedbysomeonehasauserexperience: newspapers,
+ketchupbottles,recliningarmchairs,cardigansweaters.” (Garrett,2010)
+• “Allaspectsoftheend-user's interaction with thecompany,its
+services,andits products.(NielsenandNorman,2014)
+• Cannot design auser experience−only can design for a
+userexperience
+
+DefiningUser Experience
+CP650 - Lecture1 22
+• How users perceive aproduct: 
+suchaswhether a  smartwatchis seenassleekor chunky ,andtheir
+emotional reactionto it,suchaswhether peoplehave apositive 
+experiencewhenusingit(HornbækandHertzum,2017)
+• Hassenzahl’s (2010) modeloftheuserexperience
+• Pragmatic:
+• how simple,practical,andobviousitis fortheuserto achieve their
+goals
+• Hedonic:
+• how stimulatingtheinteractionis to users
+
+iPod User Experience:A Success?
+• Qualityuserexperiencefrom thestart
+• Simple,elegant,distinctbrand,pleasurable,musthavefashion item,
+catchy names,cool
+CP650 - Lecture1 23
+
+CharacteristicsofInteractionDesign
+CP650 - Lecture1 24
+• Users shouldbeinvolvedthroughoutthe 
+developmentoftheproject
+• Specificusabilityanduserexperiencegoalsneedto be
+identified,clearlydocumented,andagreedto at the
+beginningof theproject
+• Iterationis neededthroughthecoreactivities
+
+Usability Goals
+CP650 - Lecture1 25
+• Effective to use
+• Efficientto use
+• Safe to use
+• Have good utility
+• Easyto learn
+• Easyto rememberhow touse
+
+User ExperienceGoals
+CP650 - Lecture1 26

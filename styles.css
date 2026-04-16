@@ -30,9 +30,95 @@ body {
 }
 
 .app {
-  max-width: 720px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 1.5rem 1.25rem 3rem;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.picker-hint {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 1rem 0 0.75rem;
+}
+
+.lecture-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.65rem;
+}
+
+.lecture-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  text-align: left;
+  padding: 0.85rem 1rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.lecture-tile:hover:not(:disabled) {
+  border-color: var(--accent-dim);
+  background: rgba(61, 139, 253, 0.08);
+}
+
+.lecture-tile:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.tile-num {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.tile-title {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.tile-count {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.quiz-view {
+  margin-top: 0.5rem;
+}
+
+.quiz-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.lecture-badge {
+  font-size: 0.8rem;
+  color: var(--muted);
+  flex: 1;
+  min-width: 0;
+}
+
+.meta {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin: 0 0 0.5rem;
 }
 
 .header h1 {

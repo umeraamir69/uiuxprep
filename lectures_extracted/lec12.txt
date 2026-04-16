@@ -1,0 +1,242 @@
+Field Studies and Data Analysis, 
+Interpretation, and 
+Presentation:Types of Analysis, 
+Grounded Theory, and 
+Frameworks
+Week 10 - Lecture 12
+CP650-Lec 11-2 1
+Dr. Usama Mir 
+umir@wlu.ca
+
+Introduction
+• Advantages of observing users in their natural environment:
+• Provides more information about real-life challenges
+• Reflects a more accurate and natural experience using the product
+• Can observe multi-tasking and distractions that would not occur in 
+a lab environment
+• Field visits provide information about users' 
+environment that can't be obtained elsewhere
+Source:Wish Work
+CP650-Lec 11-2 2
+
+The Field Visit Process(1)
+CP650-Lec 11-2 3
+• Field observation can be enjoyable
+• Field observation can also be exhausting
+• Involves actively uncovering insights
+• Involves writing and recording information
+• Involves keeping the process moving
+• Involves extracting interesting information from participants
+
+The Field Visit Process(2)
+Sou rce: Enago.com
+CP650-Lec 11-2 4
+
+The Field Visit Process(3)
+CP650-Lec 11-2 5
+• Remember the Small Details
+• Be conscious of being a visitor in someone else's space
+• Give participants an idea of what to expect
+• Be friendly and empathetic to put participants at ease
+• Ensureteammembersfollowsiteexpectations
+• Payattentionto behaviorsandexpectationson site
+(e.g. shoes offhousehold)
+• Write expectationsfor productuse
+• Takenote of unexpectedsituations
+• Look for areaof furtherinvestigation
+
+Types of Field Observation(1)
+CP650-Lec 11-2 6
+•Several possible relationship models are listed in the 
+textbook.
+•Master/Apprentice:
+• Observe the user as if you are learning from them.
+• Consider them the expert and focus on taking in 
+everything they do.
+• Ask questions or encourage them to narrate their actions
+with a focus on understanding what is happening.
+
+Types of Field Observation(2)
+CP650-Lec 11-2 7
+•Partnership:
+• Approach the activity or process as a joint discovery.
+• Work together to discover more about the ways of 
+working with the product or process/service.
+• Ask questions that bring problems to the surface as they
+arise
+• Give the research participant space to talk about what 
+they are doing and why.
+
+Types of Field Observation(3)
+CP650-Lec 11-2 8
+•Interviewer/Interviewee:
+• Avoid asking questions that only reveal information.
+• Encourage the participant to talk through their 
+experience.
+• Don’t jump in with questions right away.
+• Ask questions to know what they perceive as significant 
+or notable.
+• Let them offer the information on their own.
+
+Types of Field Observation(4)
+CP650-Lec 11-2 9
+•Expert/Novice:
+• Consider yourself a novice.
+• Let the research participant know that you are there to 
+understand their experience or practice.
+• Don’t intervene to solve their problems.
+• Observe the problems to inform your research.
+
+How to Observe - More general guidelines
+CP650-Lec 11-2 10
+•Learning from the environment
+• Document your observations
+• Consider lightlevels,temperature,dust,dirt,moisture
+• People'srelationshipswitheachother andtheobjects 
+aroundthem
+
+Field Research in Action: Summary
+CP650-Lec 11-2 11
+•Video
+https://www.youtube.com/watch?v=bjZjO9D26Jk&ab
+_channel=KevinLiang
+
+Remote Field Studies
+CP650-Lec 11-2 12
+•Video
+https://www.youtube.com/watch?v=smzwIsi2Zto&ab
+_channel=NNgroup
+
+Understanding Differences
+CP650-Lec 11-2 13
+•Video: Field Studies vs. Ethnographic Studies 
+vs. Contextual Inquiry
+https://www.youtube.com/watch?v=ULrHIFkwDqM& 
+ab_channel=NNgroup
+
+Analysis:Which Analytical Framework?
+CP650-Lec 11-2 14
+
+Conversation Analysis- Martin Porcheronetal. (2018)
+•Examines the semantics of a conversation in fine 
+detail
+•An extract of the conversation between a family and 
+Alexa
+CP650-Lec 11-2 15
+
+Discourse Analysis
+CP650-Lec 11-2 16
+•Focuses on dialogue; that is, the meaning of what is 
+said and how words convey meaning
+•Language is viewed as a constructive tool
+•Discourse analysis is useful when trying to identify 
+subtle meaning
+
+Disclosure Analysis - Example
+CP650-Lec 11-2 17
+
+
+Discourse Analysis
+CP650-Lec 11-2 18
+•Video: 
+https://www.youtube.com/watch?v=R2o743ikYeY&a 
+b_channel=EvanAshworth
+
+Content Analysis
+CP650-Lec 11-2 19
+•Involves classifying data into themes or categories 
+and studying their frequencies
+•Can be used for any “text”: video, newspapers,
+advertisements, images, and sounds
+•Often used in conjunction with other techniques
+
+ContentAnalysis (Examples)
+For example, Yolande Strengers et al. (2020) focused on how visions for the 
+smart home were being discussed in consumer, news, and trade articles. They 
+analyzed 270 articles, including 166 feature images, published between 2000 
+and 2016 to understand the lifestyle expectations they promoted. Their findings 
+indicate that the visions promote an enhanced quality of life including effortless 
+energy-saving but also new opportunities to consume energy. 
+Julia Himmelsbach et al.'s (2019) study of diversity in HCI studies focused on 
+frequency counts. Using predefined frameworks of diversity dimensions, they 
+examined articles from CHI 2006, 2011, and 2016 to see how consideration of 
+diversity in HCI studies has changed over this period. Their results showed that 
+research still examined a limited number and set of dimensions, for example, the 
+dimensions of Class and Education changed from 0.38 to 0.51 mean 
+occurrences, and 1.46 to 1.33 mean occurrences, respectively, while sexual 
+orientation increased from 0 to 0.07 mean occurrences.
+CP650-Lec 11-2 20
+
+Interaction Analysis
+CP650-Lec 11-2 21
+• A way to investigate and understand interactions
+between people, artifacts, and technologies
+• Based on empirical observations such as videos
+• Inductive process in teams, collaboratively
+• Contents of the material is logged
+• Materialsareextracted,classified,or removed
+• Instancesof a salienteventareassembledand 
+playedone aftertheother
+
+Interaction Analysis: Example 
+CP650-Lec 11-2 22
+An example of interaction analysis being used in HCI is Naomi Polinsky et al.'s 
+(2021) study of how parents and children collaborate when programming a robot to 
+visit a series of locations on a map. They were interested in how parents and children 
+supported each other through this form of communication. Specifically, they were 
+interested in the symbols used and what elements of those symbols were most salient 
+for their collaborative work. The pairs’ coding interactions were recorded through 
+two channels: a tablet that was used to program the robot, and a separate video 
+recording of the pairs’ activities. For analysis, these recordings were synced. 
+Following the steps of interaction analysis, Naomi Polinsky and her colleagues 
+generated multi-modal transcripts of activity from the two recordings, selected two 
+cases that illustrated challenges due to parents’ and children's different 
+interpretations of symbols, and analyzed the recordings to provide insights about 
+these differences and how the challenges were overcome. One of their findings was 
+that the physical representational tool supported collaboration better than the digital 
+tool. From their analysis they developed guidelines for codable robot design: to 
+provide representational tools that invite shared meaning making; and that the 
+representational tools should support translation into robot instructions.
+
+Grounded Theory
+CP650-Lec 11-2 23
+•Seeks to develop theory from systematic analysis of 
+empirical data
+•Three levels of ‘coding’
+•Open: Identify categories. Similar to TA process
+•Axial: Flesh out and link to subcategories
+•Selective: Form theoretical scheme
+
+Grounded Theory – Example (Idle Games 1)
+CP650-Lec 11-2 24
+
+
+Grounded Theory – Example (Idle Games 2)
+CP650-Lec 11-2 25
+
+
+Grounded Theory – Example (Idle Games 3)
+CP650-Lec 11-2 26
+
+
+Tools to support data analysis
+CP650-Lec 11-2 27
+Two well-known tools that support some of these data analysis 
+activities are Nvivo and Dedoose. 
+For example, Nvivo supports the annotation and coding of data 
+including PDF documents, photos, and video and audio files. 
+Using Nvivo, field notes can be searched for keywords or phrases 
+to support coding or content analysis; codes and data can be 
+explored, merged, and manipulated in several ways. The 
+information can also be printed in a variety of forms such as a list 
+of every occasion a word or phrase is used in the data, and a tree 
+structure showing the relationships among codes. Like all 
+software packages, Nvivo has advantages and disadvantages, but 
+it is particularly powerful for handling large sets of data and can 
+generate output for statistical packages.
+
+Interpreting and presenting the findings
+CP650-Lec 11-2 28
+
+Interpreting and presenting the findings
+CP650-Lec 11-2 29

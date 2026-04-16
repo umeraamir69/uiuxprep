@@ -3,44 +3,61 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CP650 — Lecture 10 Quiz (Data Gathering II)</title>
+  <title>CP650 — Lecture MCQ Practice</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="app">
     <header class="header">
-      <h1>Lecture 10 — Data Gathering II</h1>
-      <p class="subtitle">CP650 · Practice MCQs (ontology, qualitative methods, validity, sampling, ethics)</p>
+      <h1>CP650 — Practice MCQs</h1>
+      <p class="subtitle">Choose a lecture (slides 1–15), then answer one question at a time.</p>
     </header>
 
-    <section class="toolbar" aria-label="Quiz controls">
-      <label class="shuffle-label">
-        <input type="checkbox" id="shuffleToggle" checked />
-        Shuffle question order
-      </label>
-      <button type="button" id="restartBtn" class="btn btn-secondary">Restart</button>
+    <section id="pickerView" class="picker" aria-label="Choose lecture">
+      <p class="picker-hint">Select which lecture you want to practice:</p>
+      <div class="lecture-grid" id="lectureGrid"></div>
     </section>
 
-    <section class="stats" aria-live="polite">
-      <span id="progressText">Question 1 of —</span>
-      <span class="score" id="scoreText">Score: 0 / 0</span>
-    </section>
-
-    <main class="card" id="quizCard">
-      <p class="question" id="questionText">Loading…</p>
-      <div class="options" id="optionsRoot" role="radiogroup" aria-labelledby="questionText"></div>
-      <div class="feedback hidden" id="feedback" role="status"></div>
-      <div class="actions">
-        <button type="button" id="nextBtn" class="btn btn-primary hidden" disabled>Next question</button>
+    <section id="quizView" class="quiz-view hidden" aria-hidden="true">
+      <div class="quiz-bar">
+        <button type="button" id="backBtn" class="btn btn-secondary">← Change lecture</button>
+        <span class="lecture-badge" id="lectureBadge"></span>
       </div>
-    </main>
+
+      <section class="toolbar" aria-label="Quiz controls">
+        <label class="shuffle-label">
+          <input type="checkbox" id="shuffleToggle" checked />
+          Shuffle question order
+        </label>
+        <label class="shuffle-label">
+          <input type="checkbox" id="filterAnalytical" />
+          Analytical &amp; application only
+        </label>
+        <button type="button" id="restartBtn" class="btn btn-secondary">Restart this lecture</button>
+      </section>
+
+      <section class="stats" aria-live="polite">
+        <span id="progressText">Question 1 of —</span>
+        <span class="score" id="scoreText">Score: 0 / 0</span>
+      </section>
+
+      <main class="card" id="quizCard">
+        <p class="meta" id="questionMeta"></p>
+        <p class="question" id="questionText">Loading…</p>
+        <div class="options" id="optionsRoot" role="radiogroup" aria-labelledby="questionText"></div>
+        <div class="feedback hidden" id="feedback" role="status"></div>
+        <div class="actions">
+          <button type="button" id="nextBtn" class="btn btn-primary hidden" disabled>Next question</button>
+        </div>
+      </main>
+    </section>
 
     <footer class="footer">
-      <p>Open <code>index.html</code> locally — data loads from <code>lec10-mcqs.js</code>. Regenerate with <code>generate_lec10_mcqs.py</code>.</p>
+      <p>Data: <code>mcqs-data.js</code> · Generate with <code>generate_cp650_mcqs.py</code> (needs <code>lec10-mcqs.json</code> for Lecture 10).</p>
     </footer>
   </div>
 
-  <script src="lec10-mcqs.js"></script>
+  <script src="mcqs-data.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

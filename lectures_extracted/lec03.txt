@@ -1,0 +1,326 @@
+Week 2
+Lecture 3
+The Process of Interaction  
+Design
+CP650 - Lec 3 1
+Dr. Usama Mir 
+umir@wlu.ca 
+
+Overview
+• What is involved in InteractionDesign?
+• Understandingtheproblemspace
+• Importanceof involvingusers
+• Degreesof userinvolvement
+• What is a user-centeredapproach?
+• Four basicactivitiesof interactiondesign
+CP650 - Lec 3 2
+
+What is involved in interaction design?
+CP650 - Lec 3 3
+It is a process:
+• Focusedon discoveringrequirements,designingto
+fulfil requirements,producingprototypesand 
+evaluatingthem
+• Focusedon usersandtheirgoals
+• Involvestrade-offsto balanceconflictingrequirements
+• Generating alternatives and choosing between them  is 
+key
+
+What is involved in interaction design?
+CP650 - Lec 3 4
+Differentapproaches:
+• User-centereddesign,
+• Activity-centereddesign,
+• Systems design.
+
+The Double Diamond of Design
+https://www.uxpin.com/studio/blog/double-diamond-design-process/ 
+CP650 - Lec 3 5
+
+Understanding the problemspace
+CP650 - Lec 3 6
+Explore
+• What is thecurrentuserexperience?
+• Why is a changeneeded?
+• How will thischangeimprove thesituation?
+
+Importanceof involvingusers
+CP650 - Lec 3 7
+Expectationmanagement
+• Realistic expectations
+• No surprises,no disappointments
+• Timely training
+• Communication,but no hype
+Ownership
+• Make theusers active stakeholders
+• More likely to forgive or acceptproblems
+• Can makea bigdifferencein acceptanceandsuccessof 
+product
+
+Degreesof user involvement
+CP650 - Lec 3 8
+• Memberof thedesignteam
+• Fulltime:continuousinput,but lose touchwith other users in community
+• Part time:continuousinput,but a lot of work
+• Short term:inconsistentacross projectlife
+• Face-to-facegroupor individualactivities
+
+Degreesof user involvement
+CP650 - Lec 3 9
+• Online contributionsfrom thousandsof users
+• Online FeedbackExchange(OFE) systems
+• Crowdsourcingdesignideas
+• Citizen science
+• User involvementafterproductrelease
+
+What is a User-centeredApproach?
+CP650 - Lec 3 10
+• Earlyfocuson usersandtasks:directlystudying
+cognitive, behavioral,anthropomorphic,andattitudinal  
+characteristics
+• Empiricalmeasurement:users’ reactionsand
+performance to scenarios,manuals,simulations,and
+prototypesare  observed,recorded,andanalyzed
+• Iterativedesign:whenproblemsarefoundin user
+testing, fixthemandcarry out more tests
+
+Four Activities of Interaction Design
+Exemplifies a user-centereddesignapproach
+CP650 - Lec 3 11
+
+Google DesignSprints(Knappetal.,2016)
+Source:GoogleDesignSprints(usedcourtesyofAgileMarketing)
+CP650 - Lec 3 12
+
+Some practicalissues
+CP650 - Lec 3 13
+• Who are theusers?
+• What are theusers’needs?
+• How to generatealternative designs?
+• How to chooseamongalternatives?
+• How to integrate interaction designactivitieswith other  
+lifecyclemodels?
+
+Who are the users/stakeholders?
+CP650 - Lec 3 14
+Not obvious
+• 382 distincttypesof users for smartphoneapps(ShaZhao et 
+al,2016)
+• Many productsare intended for useby large sectionsof
+thepopulation,so useris“everybody”
+• More targetedproductsareassociatedwithspecificroles
+Stakeholders
+• Identifyingstakeholdershelpsidentifygroupsto includein 
+interaction designactivities
+
+• Users rarely know what is possible,instead:
+• Explore theproblem space
+• Investigateuseractivitiesto seewhatcanbeimproved
+• Try out ideas with potentialusers
+CP650 - Lec 3 15
+What are the users’needs?
+
+How to generatealternatives
+CP650 - Lec 3 16
+• Where do alternative designscome from?
+• ‘Flairandcreativity’:researchandsynthesis
+• Cross-fertilizationof ideasfromdifferentperspectives
+• Users cangeneratedifferentdesigns
+• Seek inspiration:similarproducts anddomain,or differentproducts  
+anddomain
+
+How to generatealternatives
+CP650 - Lec 3 17
+
+How to chooseamongalternatives
+CP650 - Lec 3 18
+• Technicalfeasibility
+• Evaluationwith usersor peers
+• Prototypesnot staticdocumentationbecausebehavioris key
+• A/B Testing
+• Online method to inform the choice between alternatives
+• Nontrivial to set appropriate metrics and choose user group 
+sets
+• Quality thresholds
+• Different stakeholder groups have different quality thresholds
+• Usability and user experience goals lead to relevant criteria
+
+IntegrateDesignActivities
+CP650 - Lec 3 19
+• Integratinginteractiondesignactivitiesin lifecyclemodels 
+fromotherdisciplinesrequirescarefulplanning
+• Software developmentlifecyclemodelsare prominent
+• Integratingwithagilesoftwaredevelopmentis promising 
+because:
+• It incorporatestightiterations
+• It champions early andregularfeedback
+• It handles emergentrequirements
+• It aimsto strikea balancebetweenflexibilityandstructure
+
+Chapter13
+INTERACTION  
+DESIGN IN 
+PRACTICE
+CP650 - Lec 3 20
+
+Overview
+•AgileUX
+•DesignPatterns
+•Open-SourceResources
+•Tools for InteractionDesign
+CP650 - Lec 3 21
+
+Agiledevelopment
+CP650 - Lec 3 22
+• Short (one to three week) timeboxes of iterative development  
+(sprint, iteration,cycle)
+• Early andrepeatedcustomer/user feedback
+• Re-prioritizationof work basedon customeror userso that 
+emergentrequirementscanbe handled
+• Many approaches,for example,eXtremeProgramming(XP),  
+Scrum,and Kanban. 
+
+TechnicalDebt in UX
+CP650 - Lec 3 23
+• Makingcompromisesthatareexpedientin short term,butcause 
+problemsin long term
+• Refactoringto correctpragmatictrade-offs
+• UX debtarisesfrom trade-offs
+• A history of neglectingUX
+• Largeportfolio of productsdevelopedindependently
+
+AgileUX
+CP650 - Lec 3 24
+• Integratestechniquesfrom interaction designandagilemethods
+• ID and Agile have common characteristics such as 
+iteration, user-involvement, and focus on a measurable 
+common criteria
+• InAgile iterations,requirementsare elaboratedandre-
+prioritized,ratherthanspecifiedup-front
+
+AgileUX (continued)
+CP650 - Lec 3 25
+• All techniquesin UX are stillrelevant,butwhen to useandhow  
+muchneedscarefulplanning
+• Focuson theproduct,not design,as deliverable
+• Cross-functional teams
+• Threepracticalareas:userresearch,aligningwork practices,and 
+documentation
+
+User Research
+CP650 - Lec 3 26
+• Seeksto characterizeusers,tasks,andcontextthroughdata 
+gathering andanalysis
+• Detaileduser researchcannotbe fittedwithina limitedtimebox
+• Someuser researchcanbeperformedin iteration0 (zero),before 
+implementationstarts
+• Ongoingprogramof userresearchovera longerperiodof time
+• Example = LeanUX
+
+Aligningwork practices
+CP650 - Lec 3 27
+•Designinga completeproductupfront causesproblems  
+because of re-prioritization
+•Someupfront work is needed(technicalandUX)
+•Use a parallel tracksapproach:
+• Createproductvisionbeforedevelopmentstarts
+• Do designwork one iterationaheadof development
+• Someteamswork two iterations ahead
+
+Paralleltracks approachtoAgileUX
+Sourc e:Sy ,D.(2007)Adaptingusabilityinvestigationsfor development,J o u r n a lofUs ab i li t yStudies2(3),May ,112–130.User
+Experience ProfessionalsAssociation.
+CP650 - Lec 3 28
+
+Travel Organizer Example with Agile
+CP650 - Lec 3 29
+1. Prioritize the main activities
+2. Design them and send them to the development team 
+3. Postpone the reqs and design of unprioritized activities 
+until a product which allows users to choose a vacation 
+is delivered
+4. After delivery , customer can decide for unprioritized 
+activities
+
+Documentation
+CP650 - Lec 3 30
+• Common communication approach for UX designers
+• Agileencouragesminimaldocumentationso more timecanbe 
+spent on design anddiscussion
+• Only usedocumentationwhereneeded.Ask:
+• Can theamountof timespenton documentationbe reduced?
+• Who usesdocumentation?
+• What is theminimum neededby customers?
+• How efficient is thesign-offprocess?
+• Is thereduplicationanywhere?
+• How polisheddoesdocumentationneed to be?
+
+Documentation:How polished?
+(low fidelity)
+Sourc e:Ratcliffe,L.andMcNeill,M.(2012)AgileExperienceDesign.New Riders.
+CP650 - Lec 3 31
+
+Documentation:how polished?
+(high fidelity)
+Sourc e:Ratcliffe,L.andMcNeill,M.(2012)AgileExperienceDesign.New Riders.
+CP650 - Lec 3 32
+
+DesignPatterns (DPs)
+CP650 - Lec 3 33
+• Principles and idiomatic solutions built by experienced 
+OO developers to guide in the creation of software. 
+• In OO Design, a pattern is a named description of a 
+problem and solution that can be applied to new 
+contexts 
+• Ideally a pattern advises on how to apply its solution 
+in varying circumstances and considers the forces and 
+trade-offs
+• Patternsoftenareassociatedwithsoftwarecomponents,for 
+example,GitHub or platform websites
+
+DP Example: High Cohesion
+CP650 - Lec 3 34
+Problem
+-How to keep complexity manageable?
+Solution
+-If elements are used together then keep them 
+together
+Benefits
+-Easy to manage 
+-Easy to understand 
+-Supports reuse
+
+
+Design Patterns (DPs)
+• Best practice : Use patterns each time it’s possible.
+• Bad practice : Use patterns everywhere and for 
+everything => Lead to over architecture or unbalanced 
+and inefficient code
+• Patterns generally lead to:
+• More general design, More adaptability
+• Less maintainable architecture
+• You have to analyze and always find the good tradeoff 
+between genericity and specialization.
+CP650 - Lec 3 35
+
+Open-SourceResources
+CP650 - Lec 3 36
+•Components,frameworks,systemsavailablefreeof 
+charge
+•Community-driven
+•Availablefor interactiondesign:
+• Designpattern libraries https://python-patterns.guide/ 
+• Bootstrap framework
+
+Tools for Interaction Design
+CP650 - Lec 3 37
+•Tools support allaspectsof thedesignprocess:
+• Creativity,sketching,simulation,brainstorming,library  
+search,mindmapping,andvideocapture
+•Tools integrate togetherto speedup prototyping
+•Toolinglandscapechangesallthetime
+•Interactive wireframesor mockupscanbe  
+produced
+•Higher-fidelityprototypescanbe producedby 
+linkinginteractivewireframesto designpattern 
+librarywithsoftwarecomponents

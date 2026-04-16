@@ -1,0 +1,247 @@
+What is Interaction Design II:  
+Design Principles and  Accessibility
+1
+Dr. Usama Mir 
+umir@wlu.ca 
+CP650 - Lec 2
+Lecture 2 (Week 1)
+      Chapter 1
+
+Accessibility andInclusiveness
+2
+• Accessibility:
+• Theextentto whichaninteractiveproductis accessibleby asmany
+peopleas possible
+• Focusis on peoplewithdisabilities;for instance,those usingandroid 
+OS or apple voiceover
+• Inclusiveness:
+• Makingproductsandservicesthat accommodatethewidest
+possiblenumberofpeople
+• For example,smartphones designedfor allandmade 
+availableto everyoneregardlessof theirdisability ,
+education,age,or income
+CP650 - Lec 2
+
+Disabilities
+3
+• Whether someoneis disabledchangesovertimewithage,
+or recovery from anaccident
+• The severityandimpactof animpairmentcanvaryoverthe 
+courseof a dayor in differentenvironmentalconditions
+• T echnologiesaredesignedto necessitatea certaintypeof 
+interactionthatis oftenimpossiblefor someonewithan 
+impairment
+CP650 - Lec 2
+
+Understanding Disability
+4
+• Disabilities canbeclassifiedas:
+• Sensory impairment (such as loss ofvisionor hearing)
+• Physicalimpairment(havingloss of functionsto one or morepartsof 
+the bodyaftera stroke or spinalcord injury)
+• Cognitive(includinglearningimpairmentor loss of memory/cognitive
+function dueto old age)
+• Eachtypecanbe furtherdefinedin termsof capability:
+• For example,someonemighthaveonlyperipheralvision,be color
+blind,or have no lightperception
+CP650 - Lec 2
+
+UnderstandingDisability:Impairment
+5
+• Impairment canbe categorized:
+• Permanent
+• (forinstance,long-termwheelchairuser)
+• Temporary
+• (thatis,afteranaccident or illness)
+• Situational
+• (forexample,a noisyenvironmentmeansthata person
+ can’t hear)
+CP650 - Lec 2
+
+Being Cool about Disability
+• Prostheticscanbedesigned  to movebeyondbeing  functional
+(andoftenugly) to beingdesirableand fashionable
+• Peoplenow refer to
+“wearingtheirwheels,”  rather than“usinga  wheelchair”
+Fashionable leg cover designedbyAlleles Design Studio
+6CP650 - Lec 2
+
+
+DesignPrinciples
+7
+• Generalizableabstractionsfor thinkingabout different
+aspects of design
+• The do’s anddon'ts of interaction design
+• What to provideand whatnot to provideat theinterface
+• Derivedfroma mixof theory-basedknowledge,experience,
+andcommon-sense
+CP650 - Lec 2
+
+Visibility
+• Can seethestateof a device andpossibleactions
+• Car controls are positionedin a way thatthey canbe easily  
+found andused
+8CP650 - Lec 2
+
+Visibility- Poor Interface
+•This is a control panelfor anelevator
+•How does it work?
+•Pusha button for thefloor you want?
+•Nothinghappens.Pushanyotherbutton?Stillnothing.
+• What do you needto do?
+• It is not visibleas to what to do!
+www.baddesigns.com
+9CP650 - Lec 2
+
+Visibility- Improvingon a Poor Interface
+10
+• With thiselevator ,you needto insertyour room cardin the
+slotby thebuttons to gettheelevatorto work!
+• How wouldyou make thisaction more visible?
+• Make the card reader more obvious
+• Provideanauditory messagethatsayswhatto do (whichlanguage?)
+• Providea biglabelnextto thecardreaderthatflasheswhensomeone 
+enters
+• Make what hasto bedoneobvious
+CP650 - Lec 2
+
+Further on Visibility
+•Invisibleautomatic  
+controls canmake it  
+more difficult to use
+11CP650 - Lec 2
+
+Feedback
+• Sendinginformationbackto theuser aboutwhathasbeen
+done
+• Includessound,highlighting,animation,andcombinationsof 
+these
+• For example,whenscreenbuttonis clicked,itprovidessoundor red
+highlight feedback:
+12CP650 - Lec 2
+
+Constraints
+• Restrictingthepossibleactionsthatcanbe 
+performed
+• Helpspreventuserfromselectingincorrectoptions
+• Physicalobjectscanbedesignedto constrainthings. (For
+example,therebeingonlyonewayyoucaninserta key into a lock)
+13CP650 - Lec 2
+
+Logical or Ambiguous Design?
+• Where do you plug the mouse?
+• Where do you plugthekeyboard,in thetop or 
+bottomconnector?
+• Do the color-coded icons help?
+4014CP650 - Lec 2
+
+Mapping:How to DesignThemMore Logically?
+• Provides direct adjacent mapping between icon and  
+connector
+• Provides color coding that associates the connectors 
+with the labels
+• Any other daily life examples of logical constraint? 
+15CP650 - Lec 2
+
+CP650 - Lec 2 16
+Logical Constraint Example
+
+
+Consistency
+17
+• Designinterfacesto havesimilaroperationsanduse 
+similarelementsfor similartasks.
+• (forexample,always useCtrl key plusfirstinitial of the
+command for an  operation:Ctrl+c,Ctrl+s,Ctrl+o)
+• The mainbenefitis thatconsistent interfacesare  
+easierto learn anduse
+• T ypesof consistency:aesthetic, internal, and
+external
+CP650 - Lec 2
+
+Consistency
+18CP650 - Lec 2
+
+When consistencybreaksdown
+19
+• Whathappens if there is more thanone command  
+starting with the sameletter? (for example,save,  
+spelling,select,style)
+• Y ouhaveto findotherinitialsor combinationsof 
+keys,thereby breaking the consistencyrule(for  
+example,Ctrl+s,Ctrl+Sp,Ctrl+shift+l)
+• Increaseslearning burdenon user,making them  
+moreproneto errors
+CP650 - Lec 2
+
+Internaland ExternalConsistency
+20
+• Internalconsistency refers to designing operations  
+to behave thesamewithinanapplication
+• Difficult to achieve withcomplex interfaces
+• Externalconsistencyrefersto designingoperations, 
+interfaces,andso on to be thesameacross 
+applications anddevices
+• Veryrarelythecase,basedon differentdesigner’spreference
+CP650 - Lec 2
+
+KeypadNumbers Layout
+21
+A caseof externalinconsistency
+1 2 3
+4 5 6
+7 8 9
+0
+7 8 9
+4 5 6
+1 2 3
+0
+(a) phones,remotecontrols (b) calculators,computerkeypads
+CP650 - Lec 2
+
+Affordance: To give a Clue
+22
+• Refersto anattributeof anobjectthatallowspeopleto 
+know how to useit.(For example,a mousebuttoninvitespushing,a 
+door handleaffords pulling)
+• Norman(1988) usedthetermto discussthedesign of
+everyday objects
+• Has sincebeenpopularizedin interactiondesignto discuss 
+how to designinterfaceobjects(forexample,scrollbarsto enable 
+moving up anddown;icons to click on)
+• Affordance also depends on the capability of users. ???
+CP650 - Lec 2
+
+Affordances:To Give a Clue
+23CP650 - Lec 2
+
+“Affordances”in InteractionDesign?
+24
+• Interfacesare virtualanddo not have affordances like
+physicalobjects
+• Norman arguesthatitdoes not makesenseto talkabout
+interfaces in terms of‘real’affordances
+• Instead,interfacesarebetterconceptualizedas‘perceived’
+affordances:
+• Learned conventions of arbitrary mappings betweenactionand  
+effectatthe interface
+• Somemappings are better thanothers
+CP650 - Lec 2
+
+One of the main design principles for website design is 
+simplicity. Jakob Nielsen (1999) originally proposed that 
+designers go through all of their design elements and 
+remove them one by one. If a design works just as well 
+without an element, then remove it. Do you think this is a 
+good design principle these days? 
+CP650 - Lec 2 25
+Simplicity is certainly an important design principle. Many designers try to 
+cram too much into a screenful of space, making it unwieldy for people to 
+find the information in which they are interested. Removing design elements 
+to see what can be discarded without affecting the overall function of the 
+website can be a salutary lesson. Unnecessary icons, buttons, boxes, lines, 
+graphics, shading, and text can be stripped, leaving a cleaner, crisper, and 
+easier-to-navigate website. However, graphics, shading, coloring, branding 
+and formatting can make a site aesthetically pleasing and enjoyable to use. 
+Good interaction design involves getting the right balance between aesthetic 
+appeal and the optimal amount and kind of information. 

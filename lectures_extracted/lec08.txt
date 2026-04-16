@@ -1,0 +1,821 @@
+Week 5
+Lecture 8  
+Interfaces
+CP650 - Lec 8 1
+Dr. Usama Mir 
+umir@wlu.ca 
+
+Overview
+CP650 - Lec 8 2
+•Interfacetypes
+▪ Highlightthemaindesignandresearchconsiderationsfor eachof the 
+differentinterfaces
+•Consider whichinterface is bestfor a given  
+applicationor activity
+
+20 interface types covered
+CP650 - Lec 8 3
+1. Command
+2. Graphical
+3. Multimedia
+4.Virtual reality
+5.Web
+6. Mobile
+7.Appliance
+8.Voice
+9. Pen
+10.Touch
+11. Gesture
+12. Haptic
+13. Multimodal
+14. Shareable
+15.Tangible
+16.Augmented Reality
+17.Wearables
+18. Robots and drones
+19. Brain–computer interaction
+20. Smart
+
+1. Command line interfaces
+CP650 - Lec 8 4
+• Commandssuchas abbreviations(for instance,ls) typedin at  
+thepromptto whichthesystemresponds(forexample,by 
+listing currentfiles)
+• Someare hard wired atkeyboard,while otherscanbe  
+assigned to keys
+• Efficient,precise,andfast
+• Large overheadto learning setof commands
+
+Research anddesignconsiderations
+CP650 - Lec 8 5
+• Consistencyis mostimportantdesignprinciple
+▪ For example,always usefirstletter of command
+• Commandinterfaces popularfor web scripting
+
+2. Graphicaluser interfaces (GUIs)
+CP650 - Lec 8 6
+• Xerox Star first started GUIs(WIMP)
+• Windows
+▪Sectionsof thescreenthatcanbe scrolled,stretched, 
+overlapped,opened,closed,andmovedaroundthescreen 
+usingthemouse
+• Icons
+▪Pictogramsthatrepresentapplications,objects, 
+commands,andtools thatwere openedwhen clicked on
+
+Graphicaluser interfaces (GUIs)
+CP650 - Lec 8 7
+• Menus
+▪Listsof optionsthatcanbe scrolledthroughandselected
+• Pointingdevice
+▪A mouse controlling thecursor as a pointof entry to the  
+windows,menus,andicons on thescreen
+
+Exampleof first-generationGUI
+CP650 - Lec 8 8
+
+Simplesmartwatchmenuswith1,2,or 3 options
+CP650 - Lec 8 9
+
+Window design
+Thumbnailsof top websitesvisitedandsuggestedhighlights
+CP650 - Lec 8 10
+
+Selectinga countryfroma scrollingwindow
+CP650 - Lec 8 11
+
+Is this methodany better?
+CP650 - Lec 8 12
+
+Menu styles
+CP650 - Lec 8 13
+Flat list:
+Good for showinglargenumberof optionsatthe same
+time when display is small
+Drop -down:Shows moreoptionson samescreen(for 
+example,cascading)
+Pop-up:When pressed,commandkeyfor relevantoptions
+Contextual:
+Providesaccessto often-usedcommands  associated
+with a particularitem
+Collapsible:
+T oggles between+ and− iconson a headerto expandor
+contractits contents
+Mega:All optionsshownusing2D drop-down layout
+
+Flat List Menu
+CP650 - Lec 8 14
+
+
+Contextual Menu Style 
+CP650 - Lec 8 15
+
+
+Template for a collapsible menu
+CP650 - Lec 8 16
+
+
+A megamenu
+CP650 - Lec 8 17
+
+Research anddesignconsiderations
+CP650 - Lec 8 18
+• Window management
+▪ Enablesusersto movefluidlybetweendifferentwindows(and 
+monitors)
+▪ How to switchattentionbetweenwindowswithoutgetting 
+distracted
+• Design principles of spacing, grouping, and simplicity should 
+be used
+• Which terms to use for menu options (for example,“front” 
+versus“bringto front”
+• Megamenuseasierto navigatethandrop-down ones
+
+Icondesign
+CP650 - Lec 8 19
+•Icons canbe designedto be compactandvariably  
+positionedon a screen
+•Can be highly inviting, emotionally appealing, and 
+feel alive
+• The mapping between the representation and underlying 
+referent can be:
+▪ Similar 
+▪ (for example, a picture of a file to represent the object file)
+▪ Analogical 
+▪ (for instance, a picture of a pair of scissors to represent ‘cut’)
+▪ Arbitrary 
+▪ (such as the use of an X  to represent ‘delete’)
+
+Iconforms
+CP650 - Lec 8 20
+• The mosteffective icons are similarones
+• Manyoperationsareactionsmakingitmoredifficultto 
+representthem
+▪Use a combinationof objectsandsymbolsthatcapture 
+thesalientpart of anaction
+▪T ext labels can be used alongside icons to help 
+identification for small icon sets
+
+Flat2D iconsfor a smartphoneanda smartwatch
+CP650 - Lec 8 21
+
+3. Multimedia
+CP650 - Lec 8 22
+•Combines differentmediawithin a singleinterface  
+with variousforms of interactivity
+▪Graphics,text,video,sound,andanimation
+• Users clickon links in animageor text
+▪Another part of theprogram
+▪An animationor a videoclipis played
+▪Users canreturnto where they were or move on to  
+anotherplace
+•Can providebetter ways of presentinginformation  
+thana singlemediacan
+
+Pros andcons
+CP650 - Lec 8 23
+• Facilitatesrapidaccessto multiplerepresentations
+of information
+• Can providebetterwaysof presentinginformationthan
+can any mediaalone
+• Can enableeasierlearning,betterunderstanding,
+more  engagement,andmore pleasure
+• Can encourageusersto exploredifferentpartsof a game
+or story
+
+Multimedialearning app designedfor tablet
+CP650 - Lec 8 24
+
+Research anddesignconsiderations
+CP650 - Lec 8 25
+• How to designmultimediato helpusers explore,keeptrack  
+of,andintegratethemultiplerepresentations
+▪ Providehands-on interactivitiesandsimulationsthattheuserhasto 
+complete to solve a task
+▪ Providequizzes,electronicnotebooks,andgames
+• Multimediagood for supportingcertainactivities,suchas  
+browsing,butless optimalfor readingatlength
+
+4. Virtual reality
+CP650 - Lec 8 26
+• Computer-generatedgraphicalsimulationsproviding:
+▪ “theillusionof participationin a syntheticenvironmentratherthan 
+externalobservationof suchanenvironment”(Gigante,1993)
+• Providenew kindsof experience,enabling usersto interact  
+with objectsandnavigatein 3D space
+• Createhighly-engaging userexperiences
+
+Pros andcons
+CP650 - Lec 8 27
+• Can havea higherlevelof fidelitywithobjectsthat
+they representcomparedto multimedia
+• Inducesa senseof presencewheresomeoneis
+totally engrossedby theexperience
+▪ “astateof consciousness,the(psychological)senseof beingin the 
+virtualenvironment”(SlaterandWilbur,1999)
+• Providesdifferentviewpoints:firstandthirdperson
+• Early head-mounteddisplays were uncomfortableto wear  
+andcouldcausemotionsicknessanddisorientation
+• LighterVR headsetsarenow available(forexample,HTC 
+Vive)with more accurateheadtracking
+
+Applicationareas
+CP650 - Lec 8 28
+• Videogames
+• Arcadegamesfor socialgroups
+• Therapy for fears
+• Experiencehow othersfeelemotions
+▪ For example,empathy andcompassion
+• Enrichuser’splanningexperiencefor traveldestinations
+• Architecture,design,andeducation
+
+Virtual Dashboard: Virtual Product Dashboard 
+CP650 - Lec 8 29
+https://www.viture.com/dashboard?scene=neckband 
+
+Research anddesignconsiderations
+CP650 - Lec 8 30
+• Much research on how to design safe and realistic VRs 
+to facilitatetraining
+▪ For example,flyingsimulators
+▪ Helppeopleovercomephobias(forexample,spidersor talkingin 
+public)
+▪ How to control interactionsandmovements(forexample,by
+using headandbody movements)
+▪ How bestto interact with information(for instance by using
+keypads, pointing,andjoystickbuttons)
+
+5. Websitedesign
+CP650 - Lec 8 31
+• Earlywebsiteswerelargelytext-based,providinghyperlinks
+• Concern was with how bestto structure informationto  
+enableusersto navigateandaccessthemeasilyandquickly
+• Nowadays,moreemphasisis on makingpagesdistinctive, 
+striking,andaesthetically pleasing
+• Need to thinkof how to designinformationfor multiple 
+platforms—keyboardor touch?
+▪ For example,smartphones,tablets,andPCs
+
+Usability versusaesthetics?
+CP650 - Lec 8 32
+• V anillaor multi-flavordesign?
+▪ Easeof findingsomethingversusaestheticandenjoyableexperience
+• Web designersare:
+▪ “thinking greatliterature”
+• Users readtheweb like a:
+▪ “billboard going by at60 miles anhour” (Krug,2014)
+• Need to determinehow to branda webpageto catchand 
+keep‘eyeballs’
+
+Breadcrumbsfor navigation
+Breadcrumbsare category labels:
+• Enableusersto look atother pageswithoutlosingtrackof where 
+they have comefrom
+• Very usable
+• Enableone-clickaccessto higher sitelevels
+• Attractfirsttimevisitorsto continueto browsea websitehaving 
+viewedthelandingpage
+CP650 - Lec 8 33
+
+In-your-facewebads
+CP650 - Lec 8 34
+• Web advertisingis oftenintrusiveandpervasive
+• Flashing,aggressive,persistent,andannoying
+• Often requires actionto getrid of
+• What is thealternative?
+▪ Use of adblockers
+
+Research anddesignconsiderations
+CP650 - Lec 8 35
+• Many books andguidelines on websitedesign
+• Veen’s (2001) three core questionsto considerwhen  
+designing any website:
+1. Where amI?
+2. Where canI go?
+3. What’s here?
+
+Activity
+CP650 - Lec 8 36
+• Look ata fashionbrand’swebsite,for example,Nike.com
+• What kindof websiteis it?
+• How does itcontravenethedesignprinciplesoutlinedby 
+Veen?
+• Does it matter?
+• What kindof user experienceis itprovidingfor?
+• What was your experienceof engagingwith it?
+
+6. Mobileinterfaces
+CP650 - Lec 8 37
+• Handhelddevicesintendedto be usedwhileon the move
+• Havebecomepervasive,increasinglyusedin allaspectsof 
+everyday andworkinglife
+▪ For example,phones, fitnesstrackers,andsmartwatches
+• Larger-sizedtabletsusedin mobilesettings
+▪ Includingthoseusedby flightattendants,marketingprofessionals,and 
+atcarrentalreturns
+
+QR codesandsmartphones
+CP650 - Lec 8 38
+
+Research anddesignconsiderations
+CP650 - Lec 8 39
+• Mobileinterfacescanbecumbersometo usefor thosewith 
+poor manualdexterityor ‘fat’fingers
+• Key concernis hitarea:
+▪ Area on thephonedisplaythattheusertouchesto makesomething 
+happen,suchas a key ,anicon,a button,or anapp
+▪ Spaceneedsto bebigenoughforallfingersto pressaccurately
+▪ Iftoo small,theusermayaccidentallypressthewrong key
+▪ Fitts’lawcanbeusedto helpdesignrightspacing
+o Minimum tappableareasshouldbe44 pointsx 44 pointsfor allcontrols
+
+7. Appliances
+CP650 - Lec 8 40
+• Everyday devicesin home,publicplaces,or car
+▪ For example,washingmachines,remotes,toasters,printers,and 
+navigationsystems)
+• And personaldevices
+▪ For instance,digitalclockanddigitalcamera
+• Used for short periods
+▪ For example, startingthewashingmachine,watching a program,
+buyinga ticket,changingthetime,or takinga snapshot
+• Need to beusablewithminimal,ifany ,learning
+
+Simple toaster control
+CP650 - Lec 8 41
+
+Research anddesignconsiderations
+CP650 - Lec 8 42
+•Need to designas transientinterfaceswith
+short interactions
+•Simpleinterfaces
+•Consider trade-offbetweensoftandhardcontrols
+▪For example, useof buttonsor keys,dials,or scrolling
+
+8. VoiceUser Interfaces
+CP650 - Lec 8 43
+• Involvesa persontalkingwitha spokenlanguageapp,for 
+example, timetable,travelplanner ,or phoneservice
+• Used mostfor inquiringaboutspecificinformation,for 
+example,flighttimesor to performa transaction,suchas 
+buyinga ticket
+• Also usedby peoplewith visualimpairments
+▪ For example,speechrecognitionword processors,pagescanners, 
+webreaders,andhomecontrol systems
+
+Have speech interfaces comeof age?
+CP650 - Lec 8 44
+
+Modelinghumanconversations
+CP650 - Lec 8 45
+• Peopleofteninterrupteachotherin a conversation
+▪ Especiallywhenorderingin a restaurant,ratherthanletthewaitergo 
+throughallof theoptions
+• Speechtechnology hasa similarfeature called‘barge-in’
+▪ Users canchooseanoptionbeforethesystemhasfinishedlistingall 
+of theoptionsavailable
+
+StructuringVUI dialogs
+CP650 - Lec 8 46
+•Directeddialogsarewherethesystemis in control 
+of theconversation
+▪Where itasksspecificquestionsandrequiresspecific 
+responses
+•More flexiblesystemsallowtheuserto takethe 
+initiative:
+▪For example,“I’dliketo go to ParisnextMondayfor two 
+weeks.”
+
+StructuringVUI dialogs
+CP650 - Lec 8 47
+•But morechanceof error ,sincecallermightassume 
+thatthe systemis like a human
+•Guidedpromptscanhelpcallersbackon track
+▪For example,“SorryI didnot getallthat.Did you sayyou 
+wanted to fly nextMonday?”
+
+Voiceassistants(forexample,Alexa)
+CP650 - Lec 8 48
+• Have becomepopularin many homes
+• Allow allto useratherthanbeingsingleuse
+• Supportfamiliesplayinggames,interactivestorytelling,jokes, 
+andso forth
+• Can encouragesocialandemotionalbonding
+• Y oungchildren(under4),however ,finditdifficultto be 
+understood by thevoiceassistants
+▪ Frustrating for them
+
+Research anddesignconsiderations
+CP650 - Lec 8 49
+•How to designsystems thatcankeepconversation  
+on track
+▪Help peoplenavigateefficientlythrougha menusystem
+▪Enablethemto recover easily from errors
+▪Guidethosewho arevagueor ambiguousin their 
+requestsfor information or services
+•T ypeof voiceactor(forexample,male,female, 
+neutral,or dialect)
+▪Do peopleprefer to listen to andare more patientwith a  
+femaleor malevoice,a northernor southernaccent?
+
+9. Pen-baseddevices
+CP650 - Lec 8 50
+• Enablepeopleto write,draw ,select,andmoveobjectsatan 
+interface usinglight pensor styluses
+▪ Capitalizeon thewell-honeddrawingskillsdevelopedfromchildhood
+• Digital ink, for example,Anoto, use a combination of 
+ordinary ink penwith digitalcamerathatdigitally records  
+everythingwrittenwiththepenon specialpaper
+
+TheAnoto penbeingusedanditsinternalcomponents
+CP650 - Lec 8 51
+
+Advantages
+CP650 - Lec 8 52
+• Allows usersto annotateexistingdocumentsquicklyand 
+easily
+• Can be usedto fillin paper-basedformsthatcanreadilybe 
+convertedto a digitalrecordusingstandardtypeface
+• Can be usedby remoteteamsto communicateandwork on 
+thesamedocuments
+
+10. Touchscreens
+CP650 - Lec 8 53
+• Singletouchscreensareusedin walk-up kiosks(suchas 
+ticketmachinesandATMs) to detectthepresenceand  
+location of a person’s touchon thedisplay
+• Multi-touchsurfacessupporta rangeof moredynamicfinger 
+tip actions, for example, swiping, flicking, pinching, pushing, 
+andtapping
+
+A multi-touch surface
+CP650 - Lec 8 54
+
+Research anddesignconsiderations
+CP650 - Lec 8 55
+• Core designconcernsincludewhethersize,orientation,and 
+shape of touchdisplays effectcollaboration
+• Much faster to scroll through wheels, carousels, and bars of 
+thumbnailimages or lists of optionsby finger flicking
+• Gestures need to be learned for multi-touch, so asmall set of 
+gesturesfor commoncommandsis preferable
+• More cumbersome, error-prone, and slower to type using a virtual 
+keyboardon a touchdisplaythanusinga physicalkeyboard
+
+11. Gesture-basedsystems
+CP650 - Lec 8 56
+• Gestures involve movingarms andhandsto communicate
+• Uses camerarecognition,sensor,andcomputervision  
+techniques
+▪ Recognize people’s armandhandgestures in a room
+▪ Gesturesneedto bepresentedsequentiallyto beunderstood 
+(comparewiththewaysentencesareconstructed)
+
+Gestures usedin the operatingtheater
+Recognizescoregesturesfor manipulatingMRI or CT imagesusingMicrosoftKinect
+CP650 - Lec 8 57
+
+Research anddesignconsiderations
+CP650 - Lec 8 58
+•How does computer recognizeanddelineateuser’s
+gestures?
+▪Start andendpoints?
+▪Differencebetweendeicticandhandwaving
+•How realisticmust themirrored graphical  
+representationof theuserbein order for themto 
+bebelievable?
+
+12. Hapticinterfaces
+CP650 - Lec 8 59
+• Providetactilefeedback
+▪ By applying vibration and forces to a person’s body , using actuators 
+thatareembeddedin theirclothingor a devicetheyarecarrying,such 
+as a smartphone
+• Vibrotactilefeedbackcanbe usedto simulatethesenseof  
+touchbetweenremotepeoplewho wantto communicate
+• Ultrahapticscreatestheillusionof touchin midairusing 
+ultrasoundto make theillusion of 3D shapes
+
+Realtimevibrotactilefeedback
+• Providesnudgeswhen  
+playingviolin incorrectly
+• Uses motioncapture to  
+sensearmmovementsthat  
+deviatefrom model
+• Nudges are short vibrations  
+on arms andhands
+CP650 - Lec 8 60
+
+Exoskeletonwithartificialmusclesthatusesbubblehapticfeedback
+CP650 - Lec 8 61
+
+Research anddesignconsiderations
+CP650 - Lec 8 62
+• Where bestto placeactuatorson body
+• Whether to usesingleor sequenceof‘touches’
+• When to buzzandhow intense
+• How does thewearer feelit in differentcontexts?
+• What kindof new smartphone/smartwatchappscanuse  
+vibrotactilecreatively?
+▪ For example,slow tapping to feellike water drops meantto indicate
+thatit is aboutto rain,andheavytappingto indicatea thunderstorm
+is looming
+
+Activity
+I want you to give me an example of something recent you saw 
+which is related to the things we have discussed so far. It should 
+something unique 
+CP650 - Lec 8 63
+
+13. MultimodalInterfaces
+CP650 - Lec 8 64
+• Provideenricheduserexperiences
+▪ By multiplyinghow information is experiencedanddetectedusing  
+differentmodalities,suchas touch,sight,sound,andspeech
+▪ Supportmoreflexible,efficient,andexpressivemeansof human-
+computer interaction
+▪ Most commonis speechandvision
+• Can be combinedwithmulti-sensorinputto enableother 
+aspectsof thehumanbodyto be tracked
+▪ For example,eyegaze,facialexpression,andlipmovements
+▪ Providesinputfor customizinguserinterfaces
+
+Trackinga person’s movements
+• Kinect camera can detect multimodalinput in real time using RGA camera for facial
+recognitionand gestures,depthcamerafor movementtracking,and microphonesfor voice
+recognition
+• Used to buildmodelof personandrepresentedas avataron displayprogrammedto movejust
+likethem
+CP650 - Lec 8 65
+
+Multimodal sensors and displays 
+CP650 - Lec 8 66
+Source: Mulsemedia Communication Research Challenges for Metaverse in 6G Wireless Systems
+
+Research anddesignconsiderations
+CP650 - Lec 8 67
+• Need to recognizeandanalyzeuserbehavior,for
+example, speech,gesture,handwriting,or eyegaze
+• Much harderto calibratethesethansinglemodalitysystems
+• What is gainedfromcombiningdifferentinputandoutputs
+
+14. Shareableinterfaces
+CP650 - Lec 8 68
+Designedfor morethanone personto use:
+• Providemultipleinputsandsometimesallowsimultaneousinputby 
+co-located groups
+• Largewalldisplayswherepeopleusetheirown pensor gestures
+• Interactive tabletops where smallgroups interactwith information  
+usingtheirfingertips
+• For example,DiamondT ouch,SmartT able,andSurface
+
+A smartboardandaninteractivetabletopinterface
+CP650 - Lec 8 69
+
+Research anddesignconsiderations
+CP650 - Lec 8 70
+• Core designconcernsincludewhethersize,orientation,and
+shapeof thedisplayhaveaneffecton collaboration
+• Horizontalsurfacescomparedwithverticalones support
+more turn-takingandcollaborativeworkingin co-located
+groups
+• Providinglarger-sizedtabletopsdoes not improvegroup
+workingbutencouragesmore division of labor
+• Havingbothpersonalandsharedspacesenablesgroupsto
+work on theirown andin a group
+▪ Cross-devicesystemshavebeendevelopedto supportseamless 
+switchingbetweenthese,forexample,SurfaceConstellations
+
+15. TangibleInterfaces
+CP650 - Lec 8 71
+• Typeof sensor-basedinteraction,where physicalobjects,for  
+example,bricks,arecoupledwithdigitalrepresentations
+• When aperson manipulates the physical object/s, it causes a 
+digitaleffectto occur ,for example,ananimation
+• Digitaleffectscantakeplacein a numberof mediaand 
+places,or they canbe embeddedin thephysicalobject
+
+Examples
+• Urp
+▪ Physicalmodelsofbuildingsmovedaroundon
+tabletop
+▪ Used in combination with tokensfor windand
+shadows
+Digitalshadowssurroundingthemto change
+overtime
+• MagicCubes
+▪ Connectphysicalelectroniccomponentsand
+sensorsto makedigital eventsoccur(for
+example,changecolordependingon how much 
+shaken)
+CP650 - Lec 8 72
+
+
+Benefits
+CP650 - Lec 8 73
+▪ Allows for more thanone person to explore theinterfacetogether
+▪ Objectscanbeplacedon top of eachother ,besideeachother ,and 
+inside eachother
+▪ Encouragesdifferentwaysof representingandexploringa problem 
+space
+▪ Can lead to greaterinsight,learning,andproblem-solvingthanwith  
+other kinds of interfaces
+▪ Can facilitatecreativityandreflection
+
+Research anddesignconsiderations
+CP650 - Lec 8 74
+• What kindof couplingto usebetweenthephysical
+action anddigitaleffect
+▪ Ifitis to supportlearning,thenanexplicitmappingbetweenaction 
+andeffectis critical
+▪ Ifitis for entertainment,thenitcanbebetterto designitto bemore 
+implicit andunexpected
+• What kind of physical artifact to use
+▪ Bricks, cubes, and other component sets are 
+most commonly used because of flexibility and 
+simplicity
+▪ Stickies and cardboard tokens can also be used 
+for placing material onto a surface
+
+16. AugmentedReality
+CP650 - Lec 8 75
+• Augmentedreality:Virtualrepresentationsaresuperimposed 
+on physicaldevicesandobjects
+• PokémonGo madeit a householdgame
+▪ Used smartphonecameraandGPS to placevirtualcharactersonto 
+objectsin theenvironmentas iftheyreallyarethere
+• Many otherapplicationsincluding medicine,navigation,air  
+trafficcontrol,games,andeverydayexploring
+
+Other examples
+CP650 - Lec 8 76
+In medicine
+• Virtual objects, for example, x-rays and scans, are overlaid on 
+part of a patient’s body
+• Aid thephysician’sunderstandingof whatis beingexamined 
+or operated
+In airtrafficcontrol
+• Dynamicinformationaboutaircraftoverlaidon a video  
+screenshowingtherealplanes,andso on landing,takingoff, 
+andtaxiing
+• Helps identify planesdifficultto make out
+
+Augmentedrealityoverlayon a carwindshield
+CP650 - Lec 8 77
+
+AR that usesforward facing camera
+CP650 - Lec 8 78
+• Enablesvirtualtry-ons (forexample,Snapchatfilters)
+• AT mirrors setup in retailstores for tryingon make-up,  
+sunglasses,jewelry
+▪ Convenient,engaging,andeasyto comparemorechoices
+▪ Butcannotfeeltheweight,texture,or smellof whatis beingtriedon
+• Can be usedto enableusersto stepinto a character(for  
+example,DavidBowie,QueenVictoria)
+
+Singerstryingon thevirtuallook of two charactersfromthe 
+operaAkhnaten
+CP650 - Lec 8 79
+
+Research anddesignconsiderations
+CP650 - Lec 8 80
+• What kindof digitalaugmentation?
+▪ When andwhere in physicalenvironment?
+▪ Needs to standout but not distractfrom ongoingtask
+▪ Needs to beableto alignwith realworld objects
+▪ What happensif theAR is slightly off?
+• What kindof device?
+▪ Smartphone,tablet,headup displayor other?
+
+17. Wearables
+CP650 - Lec 8 81
+• Firstdevelopmentswerehead- andeyewear-mounted 
+camerasthatenableduserto record what was seenandto  
+accessdigitalinformation
+• Sincethen,jewelry ,head-mountedcaps,smartfabrics,glasses, 
+shoes,andjacketshave allbeenused
+▪ Providestheuserwitha meansof interactingwithdigitalinformation 
+while on themove
+• Applications include automatic diaries, tour guides, cycle 
+indicators, andfashionclothing
+
+Ray ban meta 
+CP650 - Lec 8 82
+https://tinker.ly/ray-ban-meta-smart-glasses-the-future-of-wearable-technology/ 
+
+Research anddesignconsiderations
+CP650 - Lec 8 83
+• Comfort
+▪ Needs to belight,small,not getin theway,fashionable,andpreferably  
+hiddenin theclothing
+• Hygiene
+▪ Is it possibleto wash or cleantheclothing onceworn?
+• Usability
+▪ How doestheusercontrol thedevicesthatareembeddedin the 
+clothing?
+
+18. Robots
+CP650 - Lec 8 84
+Main types
+• Remoterobots usedin hazardous settings
+▪ Can becontrolledto investigatebombsandother dangerous  
+materials
+• Domesticrobots helpingaround thehouse
+▪ Can pickup objectsanddo daily chores like vacuuming
+• Petrobots as humancompanions
+▪ Havetherapeuticqualities,helpingto reducestressandloneliness
+• Sociablerobots thatwork collaboratively with humans
+▪ Encouragesocialbehaviors
+
+Social robots:Mel andParo
+•Cute andcuddly
+•Can open andcloseeyes andmake sounds and  
+movements
+Source:Imagescourtesyof MitsubishiElectricResearchLabs.
+CP650 - Lec 8 85
+
+Drone beingusedto surveythestateof a vineyard
+CP650 - Lec 8 86
+
+Research anddesignconsiderations
+CP650 - Lec 8 87
+•How do humansreactto physicalrobots
+designed to exhibitbehaviors (for example,
+makingfacial  expressions) compared with virtual
+ones?
+•Shouldrobots bedesignedto be human-like or
+look  likeandbehavelikerobots thatservea
+clearly- definedpurpose?
+•Should the interaction be designed to enable people  
+to interact with the robot as if it was another  
+human being or more human-computer-like (for 
+example, pressing buttons to issue commands)?
+
+Research anddesignconsiderations
+CP650 - Lec 8 88
+•Is itacceptableto useunmanneddronesto takea 
+seriesof imagesor videosof fields,towns,and  
+privatepropertywithoutpermissionor people 
+knowing what is happening?
+
+19. Brain-computerinterfaces
+CP650 - Lec 8 89
+• Brain-computerinterfaces (BCI) providea communication  
+pathwaybetweena person’sbrainwavesandanexternal 
+device,suchas a cursor on a screen
+• Personis trainedto concentrateon thetask,for example, 
+movingthecursor
+• BCIs work throughdetectingchangesin theneural 
+functioningin the brain
+• BCIs apps:
+▪ Games (for example,BrainBall)
+▪ Enablepeoplewho areparalyzedto control robots
+
+A brain-computerinterface beingusedby a womanwho is  
+paralyzedto select letters on thescreen
+CP650 - Lec 8 90
+
+20. Smartinterfaces
+CP650 - Lec 8 91
+• Smart:phones,speakers,watches,cars,buildings,cites
+• Smartrefersto havingsomeintelligenceandconnectedto 
+theinternet andotherdevices
+• Context-aware
+▪ Understand whatis happeningaroundthemandexecuteappropriateactions, 
+for example,a Nestthermostat
+• Human-buildinginteraction
+▪ Buildingsaredesignedto senseandacton behalfof theinhabitantsbutalso 
+allowthemto havesomecontrolandinteractionwiththeautomatedsystems
+
+inFORM Interface
+CP650 - Lec 8 92
+
+
+Which interface?
+CP650 - Lec 8 93
+• Which interface to use will depend on task, users, context, 
+cost,robustness,andso on
+• Is multimediabetterthantangibleinterfaces for learning?
+• Is speechas effectiveas a command-basedinterface?
+• Is a multimodalinterfacemoreeffectivethana mono-modal 
+interface?
+• Will wearableinterfacesbe betterthanmobileinterfacesfor 
+helpingpeopleto findinformationin foreigncities?
+• Are virtualenvironmentstheultimateinterfacefor playing 
+games?
+• Are shareableinterfacesbetteratsupportingcommunication 
+andcollaborationcomparedwithusingnetworkeddesktop 
+PCs?
+
+Summary
+CP650 - Lec 8 94
+• Many innovative interfaces have emergedin last 30 years,  
+including speech,wearable,mobile,brain,andtangible
+• This raisesmanydesignandresearchquestionsas to decide 
+which to use
+▪ For example,how bestto represent information to theuserso that  
+they cancarry out ongoingactivityor task
+• New smartinterfacesthatarecontext-awareandmonitor 
+people
+▪ Raisingnewethicalissuesconcernedwithwhatdatais beingcollected 
+andwhat it is used for

@@ -1,0 +1,376 @@
+CP650 - Lec 11 1
+Dr. Usama Mir 
+umir@wlu.ca
+Week 9
+Lecture11 (Chap 9)  
+Qualitative Data Analysis
+
+Summary of Data Gathering Types
+CP650 - Lec 11 2
+
+
+Quantitative vs. Qualitative
+Quantitative data is in the form of numbers, or data that can easily be translated into 
+numbers. Examples are the number of years’ experience the interviewees have, the 
+number of projects a department handles at a time, or the number of minutes it takes 
+to perform a task. 
+CP650 - Lec 11 3
+Qualitative data is in the form of words and images, and it includes descriptions, 
+quotes from interviewees, vignettes of activity, and photos. It is possible to express 
+qualitative data in numerical form, but it is not always meaningful to do so 
+
+Quantitative Data: Example (1)
+CP650 - Lec 11 4
+
+
+Quantitative Data: Example (2)
+CP650 - Lec 11 5
+
+
+Quantitative Data: Example (3)
+CP650 - Lec 11 6
+R programming in one hour - a crash 
+course for beginners - YouTube
+
+Quantitative Data: Example (4)
+CP650 - Lec 11 7
+
+
+Systematic Qualitative Data Analysis(1)
+CP650 - Lec 11 8
+• Qualitativedataincludesattitudinaldata(thoughts,beliefs, 
+needs)andbehavioraldata(observationsof behavior)
+• Analyzing data can be overwhelming due to large quantity 
+of Information
+• It is easy to be biased by personal views and 
+overlook important insights
+• Qualitative analysis can be systematic and replicable
+• Different methods answer different questions
+
+SystematicQualitativeDataAnalysis (2)
+Analyzing Video Material
+A good way to start a video analysis is to watch what has been recorded all the way through while writing a high-
+level narrative of what happens, noting where in the video there are any potentially interesting events. How to 
+decide which is an interesting event will depend on what is being observed. For example, in a study of the 
+interruptions that occur in an open plan office, an event might be each time that a person takes a break from an 
+ongoing activity, for instance, when a phone rings, someone walks into their cubicle, or email arrives. If it is a 
+study of how pairs of students use an online collaborative learning tool, then activities such as turn-taking, 
+speaking over one another, any exchanges in the chat, and periods when one or the other is distracted would be 
+appropriate to record.
+Chronological and video times can be used to index events. These may not be the same, since recordings can run 
+at different speeds from real time and video can be edited. Video can be augmented with captured screens or 
+logged data of people's interactions with a product, and transcription. There are various logging and screen 
+capture tools available for this purpose, which enable interactions to be played back as a movie, showing screen 
+objects being opened, moved, selected, and so on. These can then be played in parallel with the video to provide 
+different perspectives on the talk, physical interactions, and the system's responses that occur. Having a 
+combination of data streams can enable more detailed and fine-grained patterns of behavior to be interpreted 
+(Heath et al., 2010).
+Coding data using a coding scheme is integral to the analytic process. Anne Nassauer and Nicolas Legewie (2022) 
+emphasize reliability as a guiding principle in analysis, meaning that the study is consistent in its procedure so 
+that others can assess its research steps. They also emphasize the importance of considering alternative 
+interpretations and provide some useful practical tips on video analysis, including how to construct clear and 
+transparent concepts that enable reflection and critique, how to construct and apply a coding scheme, and how 
+to overcome a range of challenges. For example, they highlight that coding decisions can be ambiguous, 
+subjective, or incorrect. Even the best coding schemes can include codes that just don't work unambiguously all 
+of the time. Subjectivity leads to different coding decisions by different researchers, and coding decisions may be 
+incorrect simply because a mistake was made. To help overcome these challenges, they suggest making coding a 
+team effort and drawing in expert knowledge of the study area. 9
+
+SystematicQualitativeDataAnalysis: Data Capture and Transcription
+CP650 - Lec 11 10
+Proper data capture is crucial for successful analysis.
+This includes making detailed notes, transcribing and 
+editing interviews, labeling media files, and breaking up 
+large data sets into smaller, more manageable pieces.
+Filtering data is necessary to focus on the most relevant and 
+important information within the constraints of a research 
+project.
+Coding data 
+▪ Helps organize and make sense of it by identifying patterns
+and themes.
+▪ Ongoing data processing and debriefing with team members can help 
+ensure accuracy and identify emerging insights.
+
+Thematic Analysis(TA): An Overview
+CP650 - Lec 11 11
+• Thematic analysis is a method of organizing and analyzing
+qualitative data
+• It involves finding themes by tagging observations and 
+quotations with appropriate codes
+• A theme is a description of a belief, practice, need, or other
+phenomenon discovered from the data
+• Themes emerge when related findings appear multiple times 
+across participants or data sources
+
+TA: Challenges of Analyzing Qualitative Data
+CP650 - Lec 11 12
+• Large quantity of data can be time-consuming to read 
+and analyze
+• Rich data with many details can lead to superficial 
+or descriptive analysis
+• Contradicting data can result in findings that are not
+definitive
+• Without clear goals, analysis can lack focus and 
+be misdirected
+• Thematic analysis helps to address these challenges by 
+providing a systematic process for organizing and 
+analyzing data.
+
+TA: Example showing diverse discussions related to 
+addiction and recovery occurring on the subreddits (1)
+CP650 - Lec 11 13
+
+
+CP650 - Lec 11 14
+TA: Example showing diverse discussions related to 
+addiction and recovery occurring on the subreddits (2)
+Paraphrased Example Quote
+
+
+T A  :  Tools and Methods
+CP650 - Lec 11 15
+• Thematic analysis can be done in various ways based on data,
+context, and researcher's personal style
+• 3 common methods include: software, journaling, and affinity 
+diagramming techniques
+
+TA Using Software
+CP650 - Lec 11 16
+• Data-analysis software can be used to code and analyze large
+amounts of qualitative data
+• Examples of data-analysis software include Dovetail, 
+EnjoyHQ, Delve, Aurelius, NVivo, Dedoose, and MAXQDA
+• Benefits of using software include thorough analysis, ability to
+collaborate, and accessibility of raw data and results
+• Drawbacks include time-consuming analysis, expense of 
+subscriptions or licenses, and need for software learning
+
+TA UsingSoftware: Example (1)
+CP650 - Lec 11 17
+https://www.xfive.co/blog/dovetail-thematic-analysis-clutch-reviews/
+
+
+TA UsingSoftware: Example (2)
+CP650 - Lec 11 18
+https://www.xfive.co/blog/dovetail-thematic-analysis-clutch-reviews/
+
+TA through Journaling
+CP650 - Lec 11 19
+• Journaling involves manually annotating and highlighting data,
+followed by writing down thoughts and ideas
+• This method encourages reflection and results in a record of 
+how themes were arrived at
+• Benefits include being cheap and flexible, but it can be
+difficult to do collaboratively
+
+TA: Affinity Diagramming Techniques
+CP650 - Lec 11 20
+• Affinity diagramming involves highlighting, cutting out, and 
+reassembling data into meaningful groups until themes 
+emerge
+• Benefits include being able to be done collaboratively, quick 
+theme identification, being cheap and flexible, and being visual 
+and iterative
+• Drawbacks include not being as thorough as other methods 
+and being difficult to do with very varied or large amounts of 
+data
+
+AffinityDiagramming: Example (1)
+CP650 - Lec 11 21
+https://www.nngroup.com/articles/affinity-diagram/
+
+AffinityDiagramming: Example (2)
+CP650 - Lec 11 22
+
+
+TA: Steps to Conduct
+CP650 - Lec 11 23
+• Thematic analysis involves 5 phases: gathering data, reading all 
+data, coding text, taking a break, and evaluating themes
+• Phase 1: Gather all data, including transcripts, field notes, and 
+diary study entries
+• Phase 2: Read all data from beginning to end, and involve 
+team in a workshop to engage with text and discuss findings
+• Phase 3: Code text based on content, using descriptive codes 
+and potentially interpretive codes
+• Phase 4:Take a break and come back to the analysis later
+• Phase 5: Evaluate themes for good fit, potentially involving 
+team in review and discussion of themes
+
+TA Phase 1: Gather Data
+• Start with raw data, such as transcripts, field notes, and diary
+study entries
+• Transcribe audio recordings for analysis instead of relying 
+on memory or notes
+Source: NNGroup
+CP650 - Lec 11 24
+
+TA Phase 2: Read All Data from Beginning to End
+CP650 - Lec 11 25
+• Familiarize yourself with the data before beginning analysis
+• Involve team in workshop to engage with text and 
+discuss findings
+• Print and display research questions for reference
+• Have each team member read and highlight important bits 
+in transcripts or entries
+• Discuss as a group what was noticed or found surprising
+
+Phase 3: Code Text Based on Content
+• Review each segment of text and assign a descriptive code
+that describes the data
+• Add interpretive codes if appropriate
+• Code can be created before or after grouping data
+Source: NNGroup
+CP650 - Lec 11 26
+
+
+TA: Introduction to Codes and Coding
+CP650 - Lec 11 27
+• Definition: A code is a label for a segment of text that
+describes its content
+• Good analogy: A code is like a keyword that describes an 
+article or a hashtag that describes a tweet
+
+TA: Introductionto Codes andCoding
+• Coding: refers to the process of labeling text with codes
+• Allows for easy comparison and analysis of data to uncover 
+themes
+• Often, researchers will also have a description and examples
+of each code to ensure consistency in coding
+Source: NNGroup
+CP650 - Lec 11 28
+
+TA: Descriptive and Interpretive Codes
+CP650 - Lec 11 29
+• Descriptive:They describe what the data is about
+• Interpretive:
+They are an analytical reading of the data, adding
+the researcher’s interpretive lens to it.
+
+TA: Interview 1(1)
+CP650 - Lec 11 30
+• Interviewer: Hello, can you please introduce yourself?
+• Participant 1 (P1): Hi, I'm Sarah.
+• Interviewer: Great, thank you for participating in this study. 
+Can you tell us how often do you use Netflix?
+• P1: I use Netflix almost every day.
+
+TA: Interview 1(2)
+CP650 - Lec 11 31
+• Interviewer: Hello, can you please introduce yourself?
+• Participant 1 (P1): Hi, I'm Sarah.
+• Interviewer: Great, thank you for participating in this study. 
+Can you tell us how often do you use Netflix?
+• P1: I use Netflix almostevery day. [P1_DC_ daily user/active
+user]
+• P1: Participant 1
+• DC: Descriptive Code
+• Frequency of Use: Participants use Netflix frequently, as seen 
+in the quote "I use Netflix almost every day." (Frequency: 1)
+
+TA: Interview1(3)
+CP650 - Lec 11 32
+• Interviewer: Can you describe your first experience with
+Netflix?
+• P1: My first experience with Netflix was really good. I had 
+heard a lot of good things about it and was excited to try it 
+out. I signed up for the free trial and was really impressed 
+with the selection of shows and movies available. I was 
+hooked from the start.
+
+TA: Interview1(4)
+• Interviewer: Can you describe your first experience with
+Netflix?
+CP650 - Lec 11 33
+My first experience with Netflix was really good.• P1: I had
+heard a lot of good things about it and was excited to try it
+[P1_DC_positive word of mouth]out . I signed up for the
+[P1_DC_free trial]free trial and was really impressed with
+the selection of shows and movies available trial[P1_DC_  a
+lot of content].I was hooked from the start.
+•
+•
+[P1_IC_positive first experience]
+[P1_IC_addictive first experience]
+• IC: Interpretive Code
+
+TA: Interview1(5)
+Theme Interpretive Code Descriptive Code
+Theme I: Positive First Experience: 
+Participants had a positive first 
+experience with Netflix, as seen in 
+the quote/quotes "My first 
+experience with Netflix was really 
+good." (Frequency: 1)
+[P1_IC_positive first experience] 
+“My first experience with Netflix 
+was really good.“
+[P1_DC_positive word of mouth]
+[P1_IC_addictive first experience]
+“I was hooked from the start.”
+[P1_DC_free trial]
+[P1_DC_ a lot of content]
+CP650 - Lec 11 34
+• Frequency Count:The number of times an observation occurs (frequency) for a
+data item (variable) can be shown for both quantitative and qualitative data.
+• For qualitative data this directly correlates with quotes, citations, references, 
+snippets, etc.
+
+TA: Interview1(6)
+Theme Interpretive Code Descriptive Code
+Theme I: Positive First Experience: 
+Participants had a positive first 
+experience with Netflix, as seen in 
+the quote "My first experience 
+with Netflix was really good." 
+(Frequency: 1)
+[P1_IC_positive first experience] 
+“My first experience with Netflix 
+was really good.“
+[P1_DC_positive word of mouth]
+[P1_IC_addictive first experience]
+“I was hooked from the start.”
+[P1_DC_free trial]
+[P1_DC_ a lot of content]
+CP650 - Lec 11 35
+
+TA: Interview1(7)
+CP650 - Lec 11 36
+• Themes: Content Selection: Participants were impressed 
+with the selection of shows and movies available on Netflix, 
+as seen in the quote "I was really impressed with the 
+selection of shows and movies available." (Frequency: 1)
+• Descriptive Code: NewContent
+• Interpretive Code: 'Always something new to watch'
+
+TA Process: Example (1)
+CP650 - Lec 11 37
+Source:  https://www.userinterviews.com/ux-research-field-guide-chapter/research-analysis
+
+TA Process: Example (2)
+CP650 - Lec 11 38
+Source:  https://www.userinterviews.com/ux-research-field-guide-chapter/research-analysis
+
+
+TA Process: Example (3)
+Source:  https://www.userinterviews.com/ux-research-field-guide-chapter/research-analysis
+CP650 - Lec 11 39
+
+TA: Using Mind Maps (1) 
+Source:  https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux
+CP650 - Lec 11 40
+
+TA: UsingMind Maps (2)
+Source: https://www.evalacademy.com/articles/interpreting-themes-from-qualitative-data-thematic-analysis
+CP650 - Lec 11 41
+
+TA: Using Spreadsheet
+Source: https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux
+CP650 - Lec 11 42
+
+TA: Defining Themes After the Coding Process
+Source: https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux
+CP650 - Lec 11 43
+
+TA: Sample Criteria for Identifying Usability Problems (UPs) 
+CP650 - Lec 11 44

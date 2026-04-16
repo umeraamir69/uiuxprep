@@ -1,0 +1,153 @@
+Week 11
+Lecture 14 
+Data at Scale
+Dr. Usama Mir 
+umir@wlu.ca
+1
+
+Chapter 10 
+DATA AT SCALE
+2
+
+What is data at scale?
+• Data at scale is also known as big data
+• It describes numbers, images of people, places and things,
+conversations, video recordings, sensor data, and so on
+• Huge potential for solving problems
+• But you must know how to collect, analyze, and 
+communicate findings
+• Also involves dangers to people’s privacy
+3
+
+Collecting data at scale?
+• Easy to collect masses of data, but then what do you do 
+with it?
+• What are the rules and policies that apply when 
+collecting data about people? For example,tracking
+people’sactivitiesas theymove throughHeathrowand
+otherairportsfor securityreasons mayalsoviolatetheir
+privacy.
+• Also, scraping and crowdsourcing data, personal 
+data collection directly and indirectly through 
+devices, and sentiment and social network analysis.
+4
+
+Collecting personal data at Heathrow airport
+Source: Mark Zakian / Alamy Stock Photo
+5
+
+Source:https://ebird.org/science/status-and-trends/comrav
+Approaches for Data Collection: Crowdsourcing data
+• Clicking on this link (Common Raven) will allow you to see 
+how the abundance of raven changes during each week of 
+the year. (Purple indicates high abundance and yellow 
+indicates low abundance.)
+6
+
+Approaches for Data Collection: Citizen science and privacy
+Source: iNaturalist.org
+7
+
+Approaches for Data Collection: Sentiment Analysis
+8
+• Sentiment analysis is a technique that is used to infer the effect of 
+what a group of people or a crowd is feeling or saying
+• Some sentiment systems provide more qualitative measures by 
+identifying if the positive or negative sentiment is associated with a 
+specific feeling, for example anger, sadness, or fear (negative 
+feelings) or happiness, joy, or enthusiasm (positive feelings)
+• Info is extracted from people’s tweets, posts, reviews, and facial 
+expressions
+• Algos are then applied 
+• Tools such as DisplayR and CrowdFlower can be used
+
+Approaches for Data Collection: Social network analysis
+• US Senators voting 
+relationships in 1989 (top), 
+1997 (middle), and 2013 
+(bottom)
+• Red represents Republicans 
+and blue represents 
+Democrats
+Source: Forbes
+9
+
+Approaches for Data Collection: Students’ activity(1)
+Source: StudentLife Study
+10
+Combining multiple sources of data
+
+Approaches for Data Collection: Students’activity (2)
+Source: StudentLife Study
+11
+Combining multiple sources of data
+
+Visualizing and exploring data
+• A simplified path for data to be meaningful
+Source: Used courtesy of Dr. Artur Lugmyr
+12
+
+Visualizingandexploringdata: Market Maps
+Source: Used courtesy of FINVIZ
+13
+
+Across U.S. Companies, Tax Rates Vary Greatly -
+Interactive Feature - NYTimes.com
+Visualizingandexploringdata: D3 Approach
+D3: Data-Driven Documents
+14
+
+Visualizingandexploringdata: Weather data
+• (a) Actual weather data
+• (b) Wundermap of data 
+from the same area at the 
+same time
+Source:Weather Underground
+15
+
+Visualizingandexploringdata: Different dashboards (1)
+16
+
+
+Visualizingandexploringdata: Different dashboards (2)
+17
+
+
+Visualizingandexploringd a t a :  DeepCam’s face-tracking software
+Source: DeepCam
+18
+
+Ethics: Data ethics principles (FATE)
+Fairness:
+Is the treatment just and without favoritism or discrimination?
+Accountability:
+Is the data accurate and correct?
+Transparency:
+Are the decisions being made by a system visible?
+Explainability:
+Can people understand the explanations provided by the system?
+The goal of FATE is to make decisions made by computer systems just
+and fair.
+And then there is Privacy as well
+19
+
+Ethics: IEEE/ACM Code of Ethics
+20
+Code of Ethics
+IEEE Governing Documents | IEEE
+
+Further Reading on Big Data Analysis 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485391
+21
+
+Summary
+• This chapter discussed how data at scale is collected, analyzed, and 
+communicated.
+• The data can be qualitative or qualitative.
+• It comes from different sources, for example, sensors, social media, documents,
+and facial recognition data.
+• Privacy is a big concern because data from different sources can be brought 
+together to reveal patterns of behavior.
+• The FATE frameworks suggests ethical principles to guide UX  design: Fairness, 
+Accountability, Transparency, and Explainability.
+22

@@ -1,0 +1,467 @@
+Week 8
+Lecture 9 (Chap 8) 
+DATA GATHERING
+CP650 - Lec 9 1
+Dr. Usama Mir 
+umir@wlu.ca 
+
+Aims
+CP650 - Lec 9 2
+• Discuss how to planandrun a successfuldatagathering
+program.
+• Enablesyou to planandrun aninterview.
+• Empowers you to designa simple questionnaire.
+• Enablesyou to planandcarryout anobservation.
+
+Five key issues
+CP650 - Lec 9 3
+1. Setting goals
+• Decide how to analyzedataoncecollected
+2. Identifying participants
+• Decide from whom to gather data
+• How many participants are needed
+3. Relationship with participants
+• Clearandprofessional
+• Informedconsentwhen appropriate
+
+Five key issues
+CP650 - Lec 9 4
+4. T riangulation
+• Look atdatafrom more thanone perspective
+• Collectmore thanone typeof data,for instance,qualitative 
+datafromexperimentsandqualitativedatafrominterviews
+• The Power of Triangulation in Design Research | by Fjord | 
+Design Voices | Medium
+5. Pilot studies
+• Small trialof mainstudy
+
+Capturing data
+CP650 - Lec 9 5
+• Notes,audio,video,andphotographscanbe usedindividually
+or in combination:
+▪ Notes plus photographs
+▪ Audio plus photographs
+▪ Video
+• Differentchallengesandadvantageswitheachtypeof data 
+recording
+
+Sample consent form
+CP650 - Lec 9 6
+
+
+Interviews
+CP650 - Lec 9 7
+
+Interviews (1)
+CP650 - Lec 9 8
+Unstructured: Not directedbya script.Richbutnot 
+replicable.
+Structured:Tightly scripted,oftenlike a questionnaire.  
+Replicablebutmay lack richness.
+• “Which of the following apps do you use most frequently: Prime 
+Video, GoogleTV, or Netflix?”
+• “How often do you watch streamed content: every day, once a 
+week, once a month, less often than once a month?”
+• “Do you ever purchase anything online: Yes/No? If your answer is 
+Yes, approximately how often do you purchase things online: 
+every day, once a week, once a month, less frequently than once 
+a month?”
+
+Interviews (2)
+CP650 - Lec 9 9
+Semi-structured: Guided by a script, but interesting issues can be 
+explored in more depth. Can provide a good  balance between richness and 
+replicability.
+
+
+Interviews (3)
+CP650 - Lec 9 10
+Focus groups: A group interview
+• Normally, three to ten people are involved, and the discussion 
+is led by a trained facilitator
+• Participants are selected to provide a representative sample 
+of the target population
+
+• Two types:
+▪ ‘Closedquestions’havea predeterminedanswerformat,for 
+example,‘yes’or ‘no’
+▪ ‘Openquestions’do not havea predeterminedformat
+CP650 - Lec 9 11
+Interview questions (1)
+
+Interview questions (2)
+CP650 - Lec 9 12
+
+
+Interview questions (3)
+CP650 - Lec 9 13
+
+
+• Avoid:
+▪ Long questions
+▪ Compoundsentences— split theminto two
+▪ Jargonandlanguagethattheintervieweemaynot understand
+▪ Leading questions thatmake assumptions,for example,why do you
+like …?
+▪ Unconsciousbiases,forinstance,genderstereotypes
+https://www.nngroup.com/videos/interview-mistakes-to-
+avoid/ 
+CP650 - Lec 9 14
+Interview questions (4)
+
+Running theinterview
+CP650 - Lec 9 15
+Introduction:
+Introduce yourself,explainthegoalsof theinterview ,reassureaboutthe 
+ethicalissues,askto record,andpresenttheinformedconsentform.
+Warm-up:
+Make firstquestions easy and non-threatening.
+Main body:
+Presentquestions in a logicalorder
+A cool-off period:
+Includea feweasyquestionsto defusetensionattheend
+Closure:
+Thankinterviewee,signaltheend,forexample,switchrecorder off.
+
+Other forms of interviews
+CP650 - Lec 9 16
+Digitalconferencingsystemssuchas Skype,Zoom,email,and 
+smartphonescanbe usedto conductinterviews.Some 
+advantages are:
+• Participantsarein theirown environmentso aremore
+relaxed
+• Participants don’t needto travel
+• Participants don’t needto worry about what to wear
+• For interviews involvingsensitive issues,it is easierfor  
+intervieweesto be anonymous
+
+Enrichingthe interview process
+Props: Devices for prompting interviewee, for example, 
+use a prototype, scenario
+CP650 - Lec 9 17
+
+CP650 - Lec 9 18
+Questionnaires
+
+Questionnaires
+CP650 - Lec 9 19
+• Questions canbeclosedor open
+• Closed questionsare easierto analyze,andmay be  
+distributed andanalyzedby computer
+• Theycanbe administeredto largepopulations
+• Disseminated by paper,emailand the web
+• Samplingcanbe a problemwhenthesizeof a populationis 
+unknown as is common onlineevaluation
+
+Questionnairedesign
+CP650 - Lec 9 20
+• The impact of a questioncanbe influenced by question
+order
+• Y oumayneeddifferentversionsof thequestionnairefor 
+differentpopulations
+• Provideclearinstructionson how to completethe 
+questionnaire
+• Avoid very long questions and questionnaires
+• Decide on whether phrases will all be positive, all 
+negative,  or mixed
+
+Question andresponse format
+CP650 - Lec 9 21
+• ‘Yes’and‘No’checkboxes
+• Checkboxes thatoffer many options
+• Ratingscales
+• Likert scales
+• Semanticscales
+• 3,5,7 or more points
+• Use open-ended questions at the end
+
+Question and response format: Example
+CP650 - Lec 9 22
+
+
+Question and response format: Different Scales
+CP650 - Lec 9 23
+
+
+Activity: Find 4 Problems
+CP650 - Lec 9 24
+
+
+Encouraging a good response (1)
+CP650 - Lec 9 25
+• Make sure that thepurpose of studyis clear
+• Promiseanonymity
+• Ensure thatquestionnaire is welldesigned
+• Offer a short versionfor thosewho do not have timeto 
+completea long questionnaire
+
+Encouraging a good response (2)
+CP650 - Lec 9 26
+• Ifmailed,includea stamped,addressedenvelope
+• Follow-up withemails,phonecalls,or letters
+• Providean incentive
+• 40 percentresponserateis good,20 percentis often
+acceptable
+
+Exampleof anonline questionnaire
+• Questionnaire shows check boxes,radio boxes,andpull-
+downmenus
+CP650 - Lec 9 27
+
+Problems with online questionnaires
+CP650 - Lec 9 28
+•Samplingis problematicifpopulationsizeis 
+unknown
+•Preventing individualsfrom respondingmore than  
+oncecan be a problem
+•Individualshave also been known to change  
+questions in emailquestionnaires
+
+Deployingonline questionnaires
+CP650 - Lec 9 29
+• Planthetimeline
+• Designoffline
+• Program/complete onlinetemplate
+• T estthesurveyto makesurethatitbehavesas you would 
+expect
+• T estitwitha groupthatwillnot bepartof thesurveyto 
+check thatthequestionsare clear
+• Recruitparticipants
+
+CP650 - Lec 9 30
+Observation 
+
+Observation (1)
+CP650 - Lec 9 31
+•Directobservationin thefield
+▪Structuringframeworks
+▪Degreeof participation(insideror outsider)
+▪Ethnography
+•Directobservationin controlled environments
+•Indirectobservation:trackingusers’activities
+▪Diaries
+▪Interaction logging
+▪Web analytics
+▪Videoandphotographscollectedremotelyby dronesor 
+otherequipment
+https://www.qualtrics.com/experience-management/research/ethnographic-research/ 
+
+Observation (2)
+Figure 8.8 Mars Exploration Rover
+S ou rc e:Reproducedbypermission of NASA JetPropulsion 
+Laboratory (NASA-JPL).
+CP650 - Lec 9 32
+
+Structuring frameworks to guideobservation
+CP650 - Lec 9 33
+•Threeeasy-to-remember parts:
+The person:Who?
+The place:Where?
+The thing:What?
+
+Structuring frameworks to guideobservation
+CP650 - Lec 9 34
+•A more detailedframework (Robson,2014):
+Space: What is thephysicalspacelikeandhow is itlaidout?
+Actors: What arethenamesandrelevantdetailsof thepeople 
+involved?
+Activities:
+What are the actors doing andwhy?
+Objects:What physicalobjectsarepresent,suchas furniture
+Events:
+Is whatyou observe partof a specialevent? 
+Time:What is the sequenceof events?
+Goals: What aretheactors trying to accomplish?
+Feelings:
+What is themood of thegroupandof individuals?
+
+Planning and conducting observationin the field
+CP650 - Lec 9 35
+• Decide on how involvedyou willbe:frompassiveobserver
+to active participant
+• How to gain acceptance
+• How to handlesensitivetopics,for example,culture,private 
+spaces,and so on
+• How to collectthedata:
+▪ Whatdatato collect
+▪ What equipment to use
+▪ When to stopobserving
+
+Ethnography
+CP650 - Lec 9 36
+• Ethnographyis a philosophywitha setof techniquesthat
+include participantobservation andinterviews
+• Ethnographersimmersethemselves in theculture thatthey
+study
+• A researcher’s degree of participation canvary
+• Analyzingvideo anddatalogs canbe time-consuming
+• Collectionsof comments,incidents,andartifactsaremade
+
+More on Ethnography
+CP650 - Lec 9 37
+• Co-operationof peoplebeingobservedis required
+• Informantsare useful
+• Data analysis is continuous
+• Interpretivist technique
+• Questions getrefined as understandinggrows
+• Reports usually containexamples
+https://www.indeed.com/career-advice/career-
+development/examples-of-ethnography 
+https://pdxscholar.library.pdx.edu/cgi/viewcon
+tent.cgi?article=5428&context=open_access_e
+tds 
+
+Ethnography Examples
+• Observing a group of children playing
+• Observing employees in a corporate office
+• Observing medical personnel in a high-volume hospital
+• Observing an indigenous village
+• Observing a high school classroom
+• Observing motorcycle riders
+CP650 - Lec 9 38
+
+OnlineEthnography
+CP650 - Lec 9 39
+• Virtual,Online,Netnography
+• Online andofflineactivity
+• Interaction onlinediffers from face-to-face
+• Ethicalconsiderationsandpresentationof resultsare 
+different
+
+Online ethnography: Read this (1)
+Doing Ethnography Online
+As collaboration and social activity online have increased, ethnographers have adapted their 
+approach to study the various forms of computer-mediated activity (Rotman et al., 2013; 
+Bauwens and Genoud, 2014). This practice has various names: online ethnography (Rotman et 
+al., 2012), virtual ethnography (Hine, 2008), netnography (Kozinets, 2020), mobile 
+ethnography (Muskat, 2020) and digital ethnography (Pink et al., 2016). Whether online or 
+offline techniques are used, or a combination of both, depends on the community or activity 
+being studied. Since participant observation is a hallmark of ethnography, it is not surprising 
+that ethnography is increasingly used to understand people's behavior in online social spaces 
+both for its own sake and to inform the design of the technology that supports interaction 
+online.
+Why is it necessary to distinguish between online and face-to-face ethnography? It is 
+important because interaction online is different from interaction in person (Winter and Lavis, 
+2019). For example, communication in person is richer (through gesture, facial expression, 
+tone of voice, and so on) than online communication, and participants may feel that 
+anonymity is more easily achieved when communicating online. In addition, virtual worlds 
+have a persistence, due to regular archiving, that does not typically occur in face-to-face 
+situations. This makes characteristics of the communication different, including how 
+ethnographers behave and how they report their findings. Ethical issues need to be 
+considered for any research involving humans and living organisms, but when working online, 
+it can be easy to forget that people exist behind the textual comments and avatars being 
+analyzed. It is therefore important to “listen” carefully, reflect, and remember ethical 
+practices (Winter and Lavis, 2019).
+CP650 - Lec 9 40
+
+Online ethnography: Read this (2)
+For observational studies in large social spaces, such as digital libraries or Facebook, 
+there are different ethical issues to consider. For example, obtaining informed 
+consent requires different tactics, and the presentation of results needs to be 
+modified too. Instead of relying on individuals explicitly agreeing to take part in a 
+study, the researcher must rely on implicit agreement by their continuing to take 
+part. Quotes from participants in the community, even if anonymized in the report, 
+can easily be attributed by a simple search of the community archive or the IP 
+address of the sender, so care is needed to protect their privacy.
+Special tools may be developed to support ethnographic data collection. Mobilab is 
+an online collaborative platform that was developed for citizens living in 
+Switzerland to report and discuss their daily mobility during an eight-week period 
+using their mobile phones, tablets, and computers (Bauwens and Genoud, 2014). 
+Mobilab enabled the researchers to more easily engage in discussion with 
+participants on a variety of topics, including trucks parking on a bikeway. 
+CP650 - Lec 9 41
+
+Observations and materialsthatmightbe collected 
+for ethnography (1) (Crabtree,2003)
+CP650 - Lec 9 42
+• Activityor job descriptions
+• Rulesandproceduresthatgovernparticularactivities
+• Descriptions of activities observed
+• Recordingsof thetalktakingplacebetweenparties
+• Informalinterviewswithparticipantsexplainingthedetailof 
+observedactivities
+
+• Diagrams of thephysicallayout,including thepositionof
+artifacts
+• Other informationcollected when observingactivities:
+▪ Photographsof artifacts(documents,diagrams,forms,computers,and
+so forth)
+▪ Videosofartifacts
+▪ Descriptions of artifacts
+▪ Workflow diagrams showingthe sequentialorder of tasks
+▪ Processmapsshowingconnectionsbetweenactivities
+CP650 - Lec 9 43
+Observations and materials that might be collected 
+for ethnography (2) (Crabtree, 2003)
+
+Activity (1) 
+• Scenario 1: A usability consultant joins a group of tourists who have each been given a 
+wearable navigation device that fits onto a wrist strap to test on a visit to Stockholm. After 
+sightseeing for the day, they use the device to find a list of restaurants within 2 kilometers 
+of their current position. Several are listed, and they find the phone numbers of a few, call 
+them to ask about their menus, select one, make a booking, and head off to the restaurant. 
+The usability consultant observes some difficulty operating the devices, especially on the 
+move. Discussion with the group supports the evaluator's impression that there are 
+problems with the interface, but on balance the device is useful, and the group is pleased to 
+get a table at a good restaurant nearby.
+• Scenario 2: A usability consultant observes how participants perform a preplanned task 
+using the wearable navigation device in a usability laboratory. The task requires the 
+participants to find the phone number of a restaurant called Matisse. It takes them several 
+minutes to do this, and they appear to have problems. The video recording and interaction 
+log suggest that the interface is quirky and the audio interaction is of poor quality. This is 
+supported by participants’ answers on a user satisfaction questionnaire.
+1. What are the advantages and disadvantages of these two types of observation?
+2. When might each type of observation be useful?
+CP650 - Lec 9 44
+
+Activity (2): Sample Answers 
+CP650 - Lec 9 45
+1. The advantages of observation in the wild are that the observer saw how the 
+device could be used in a real situation to solve a real problem. The disadvantage is 
+that the observer was an insider in the group, so how objective could they be? 
+The lab study is easier to replicate, so several users can perform the same task, 
+specific usability problems can be identified, participants’ performance can be 
+compared, and averages for such measures as the time it took to do a specific task 
+and the number of errors can be calculated. The observer could also be more 
+objective as an outsider. The disadvantage is that the study is artificial and says 
+nothing about how the device would be used in a natural setting.
+2. Both types of observation have merits, depending on the goals of the study. The 
+lab study is useful for examining details of the interaction style to make sure that 
+usability problems with the interface are diagnosed and corrected. The other study 
+reveals how the navigation device is used in a natural setting and how it integrates 
+with or changes people's behavior. According to Kjeldskov and Skov (2014), there is 
+no definitive answer to which kind of study is preferable for mobile devices. They 
+suggest that the real question is when and how to engage with longitudinal, i.e., 
+long-term, in-the-wild studies. 
+
+Activity to try later 
+CP650 - Lec 9 46
+
+
+Choosingandcombining techniques
+CP650 - Lec 9 47
+
+
+Adapting techniques for different settings (1)
+CP650 - Lec 9 48
+
+
+Adapting techniques for different settings (2)
+CP650 - Lec 9 49
+
+
+Summary
+CP650 - Lec 9 50
+• Datagathering sessionsshould have cleargoals
+• An informedconsentmay beneeded
+• Fivekeyissuesof datagatheringare:goals,choosingparticipants, 
+triangulation,participantrelationship,pilot
+• Data mayberecordedusinghandwrittennotes,audioor videorecording,
+a camera,or any combination of these
+• Interviews maybestructured,semi-structured,or unstructured
+• Focus groups are group interviews
+• Questionnairesmaybeon paper ,online,or telephone
+• Observationmaybedirector indirect,in thefield,or in controlled
+settings
+• T echniquescanbecombineddependingon thestudyfocus,participants, 
+natureof technique,andavailableresourcesandtime

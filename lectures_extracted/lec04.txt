@@ -1,0 +1,482 @@
+Week 2: 
+Lecture 4 (Self Reading)
+Conceptualizing Interaction
+Design
+CP650 - Lec 4 1
+Dr. Usama Mir 
+umir@wlu.ca
+
+Conceptualizing Design
+CP650 - Lec 4 2
+Proof of concept (PoC)
+• Conceptualize what the proposed product will do
+Why the need to conceptualizing design?
+• To scrutinize vague ideas and assumptions about the benefits of 
+the proposed product in terms of their feasibility
+• How realistic is it to develop?
+• How desirable and useful?
+
+PoC of a Smart Home 
+CP650 - Lec 4 3
+https://www.mdpi.com/1424-8220/21/11/3784
+
+What is an assumption?
+• Taking something for granted when it needs further 
+investigation
+• For example, people will want to watch TV while driving
+Technotopic Narratives and Networked Subjects: Preparations for Everyday Life in Cooltown
+CP650 - Lec 4 4
+
+What is a claim?
+CP650 - Lec 4 5
+• A claim is stating something to be true when it is still open 
+to question
+• For example,“a multimodal style of interaction for controlling GPS —
+one that involves speaking while driving —  is safe.”
+
+Activity: How will enabling robot waiters to speak to 
+customers enhance their experience?
+S ou rce: Xinhua, Guo Cheng
+CP650 - Lec 4 6
+
+What is the problem being addressed?
+CP650 - Lec 4 7
+• The benefits:
+• The robot could take orders and entertain customers by having a 
+conversation with them
+• The robot could make recommendations for different customers,
+such as restless children or fussy eaters
+• But just assumptions
+• The real problem being addressed:
+“It is difficult to recruit good wait staff who provide the level of
+customer service to which we have become accustomed.”
+
+Working through assumptions
+CP650 - Lec 4 8
+• Many unknowns need to be considered in the initial stages of 
+a design project
+• Where do your ideas come from?
+• What sources of inspiration were used?
+• Is there any theory or research that can be used to inform them?
+• During the early ideation process
+• Ask questions, reconsider assumptions, and articulate concerns
+
+A framework for analyzing the problem space
+CP650 - Lec 4 9
+• Are there problems with an existing product or user 
+experience? If so, what are they?
+• Why do you think there are problems?
+• How do you think your proposed design ideas might
+overcome these?
+• If you are designing for a new user experience, how do you 
+think your proposed design ideas support, change, or extend 
+current ways of doing things?
+
+Activity
+•What were the assumptions and claims made about 
+watching 3D TV?
+Figure 3.2 A family watching 3D TV
+Source: Andrey Popov, Shutterstock
+CP650 - Lec 4 10
+
+Assumptions and claims: how realistic?
+CP650 - Lec 4 11
+•There was no existing problem to overcome
+• What was being proposed was a new way of experiencing TV
+•An assumption
+• People would really enjoy the enhanced clarity and color detail 
+provided by 3D
+•A claim
+• People would not mind paying a lot more for a new 3D-
+enabled TV screen because of the new experience
+
+Benefits of conceptualizing
+CP650 - Lec 4 12
+Orientation
+• Enables design teams to ask specific questions about how the 
+conceptual model will be understood
+Open-minded
+• Prevents design teams from becoming narrowly focused early
+on
+Common ground
+• Allows design teams to establish a set of commonly agreed
+terms
+
+Conceptual model
+CP650 - Lec 4 13
+•A conceptual model is:
+“…a high-level description of how a system is organized
+and operates” (Johnson and Henderson, 2002, p26)
+•A conceptual model enables:
+“…designers to straighten out their thinking before they 
+start laying out their widgets” (Johnson and Henderson, 2002, 
+p28)
+•Provides a working strategy and framework of 
+general concepts and their interrelations
+
+Conceptual models
+CP650 - Lec 4 14
+•Many kinds and ways of classifying them
+•The best conceptual models are often those that 
+appear:
+• Obvious and simple
+• The operations they support are intuitive to use
+
+Components
+CP650 - Lec 4 15
+•Metaphors and analogies
+• Understand what a product is for and how to use it for an 
+activity
+•Concepts that people are exposed to through the 
+product
+• Task–Domain objects, their attributes, and operations (for
+example, saving, revisiting, organizing)
+•Relationship and mappings between these concepts
+
+Interface metaphors
+CP650 - Lec 4 16
+• Interface designed to be similar to a physical entity but also 
+has own properties
+• For example, desktop metaphor, and web portals
+• Can be based on activity, object, or a combination of both
+• Exploit user’s familiar knowledge, helping them to 
+understand ‘the unfamiliar’
+• Conjures up the essence of the unfamiliar activity, enabling 
+users to leverage this to understand more aspects of the 
+unfamiliar functionality
+
+Examples of interface metaphors
+CP650 - Lec 4 17
+• Conceptualizing what users are doing
+• For instance, typing….
+• A conceptual model instantiated at the interface
+• For example, the desktop metaphor
+• Visualizing an operation
+• For instance, an icon of a shopping cart into which the user places 
+items
+
+The card metaphor
+• The card is a very popular UI. 
+Why?
+• It has familiar form factor
+• It can easily be flicked through, sorted, and
+themed
+• It structures content into meaningful 
+chunks (similar to how paragraphs are 
+used to chunk a set of related sentences 
+into distinct sections)
+• Its material properties give the 
+appearance of the surface of paper
+Figure 3.5 Google Now card for 
+restaurant recommendation in 
+Germany
+Source: Johannes Shonning
+CP650 - Lec 4 18
+
+Benefits of interface metaphors
+CP650 - Lec 4 19
+• Makes learning new systems easier
+• Helps users understand the underlying conceptual 
+model
+• Can be very innovative and enable the realm of computers 
+and their applications to be made more accessible to a 
+greater diversity of users
+
+Problems with interface metaphors
+CP650 - Lec 4 20
+• Break conventional and cultural rules
+• For instance, recycle bin placed on desktop
+• Forces users to understand only the system in terms of the
+Metaphor
+• Designers can inadvertently use bad existing designs and 
+transfer the bad parts over
+• Limits designers’ imagination in coming up with new
+conceptual models
+
+Interaction types
+CP650 - Lec 4 21
+• Instructing
+• Issuing commands and selecting options
+• Conversing
+• Interacting with a system as if having a conversation
+• Manipulating
+• Interacting with objects in a virtual or physical space by manipulating 
+them
+• Exploring
+• Moving through a virtual environment or a physical space
+• Responding
+• The system initiates the interaction and the user chooses whether to
+respond
+
+1. Instructing
+CP650 - Lec 4 22
+•Where users instruct a system and tell it what 
+to do
+• For example:Tell the time, print a file, or save a file
+•Very common conceptual model underlying a 
+diversity of devices and systems
+• For instance:Word processors,VCRs, and vending machines
+•The main benefit is that instructing supports 
+quick and efficient interaction
+• Good for repetitive kinds of actions performed on multiple 
+objects
+
+Which is easiest and why?
+CP650 - Lec 4 23
+
+2. Conversing
+CP650 - Lec 4 24
+• Underlying model of having a conversation with another 
+human
+• Ranges from simple voice recognition menu-driven systems 
+to more complex ‘natural language’ dialogs
+• Examples include timetables, search engines, advice-giving 
+systems, and help systems
+• Also virtual agents, chatbots, toys, and pet robots designed to
+converse with you
+
+Conversing 
+CP650 - Lec 4 25
+
+
+Pros and cons of conversational model
+CP650 - Lec 4 26
+•Allows users, especially novices, to interact with a 
+system in a way that is familiar to them
+• Can make them feel comfortable, at ease, and less scared
+•Misunderstandings can arise when the system does 
+not know how to parse what the user says
+• For example, voice assistants can misunderstand what children say
+
+CP650 - Lec 4 27
+
+3. Manipulating
+CP650 - Lec 4 28
+• Involves dragging, selecting, opening, closing and zooming 
+actions on virtual objects
+• Exploit’s users’ knowledge of how they move and manipulate 
+in the physical world
+• Can involve actions using physical controllers (for example, 
+Nintendo Wii) or air gestures (such as, Microsoft Kinect) to 
+control the movements of an on-screen avatar
+• Tagged physical objects (for instance, balls) that are 
+manipulated in a physical world result in physical/digital 
+events (such as animation)
+
+Manipulating
+CP650 - Lec 4 29
+
+
+Benefits of direct manipulation
+CP650 - Lec 4 30
+• Novices can learn the basic functionality quickly
+• Experienced users can work extremely rapidly to carry out a 
+wide range of tasks−even defining new functions
+• Intermittent users can retain operational concepts over time
+• Error messages rarely needed
+• Users can immediately see if their actions are furthering
+their goals, and if not, do something else
+• Users experience less anxiety
+• Users gain confidence and mastery and feel in control
+
+Disadvantages of DM
+CP650 - Lec 4 31
+•Not all tasks can be described by objects, and not all 
+actions can be done directly
+•Some tasks are better achieved through delegating, 
+for example, spell checking
+•Can become screen space ‘gobblers’
+•Moving a cursor using a mouse or touchpad can be 
+slower than pressing function keys to do the same 
+actions
+
+4. Exploring
+CP650 - Lec 4 32
+•Involves moving through virtual or physical 
+environments
+• Users can explore aspects of a virtual 3D environment
+• Physical environments can also be embedded with sensors 
+that when detect the presence of someone will trigger 
+digital or physical events to happen
+•Many examples of virtual environments, including 
+cities, parks, buildings, rooms, and datasets
+• Enable users to fly over them and zoom in and out of 
+different parts
+
+Seeing things larger than life in VR
+Cyber-Insects in the CAVE
+CP650 - Lec 4 33
+Source: Alexei A. Sharov
+
+Exploring data in VR
+Image courtesy of Kalev Leetaru, National Center for Supercomputing Applications, University of Illinois.
+CP650 - Lec 4 34
+
+5. Responding
+CP650 - Lec 4 35
+•System takes the initiative to alert user to
+something that it “thinks” is of interest
+•System does this by:
+• Detecting the location and-or presence of someone in a 
+vicinity and notifies them on their phone or watch
+• What it has learned from their repeated behaviors
+
+Responding
+CP650 - Lec 4 36
+•Examples:
+• Alerts the user of a nearby coffee bar where some friends 
+are meeting
+• User’s fitness tracker notifies them of a milestone reached
+•Automatic system response without any requests 
+made by the user
+This type is suggested by Christopher Lueg et al. (2018)
+
+Potential cons of system-initiated notifications
+CP650 - Lec 4 37
+•Can get tiresome or frustrating if too many 
+notifications or the system gets it wrong
+•What does it do when it gets something wrong?
+• Does it apologize?
+• Does it allow the user to correct the advise or information?
+
+Choosing an interaction type
+CP650 - Lec 4 38
+• Direct manipulation is good for ‘doing’ types of tasks, for 
+example, designing, drawing, flying, driving, or sizing windows
+• Issuing instructions is good for repetitive tasks, for example, 
+spell-checking and file management
+• Having a conversation is good for certain services, for 
+instance, finding information or requesting music
+• Hybrid conceptual models are good for supporting multiple
+ways of carrying out the same actions
+
+Interaction types vs interface styles
+CP650 - Lec 4 39
+Interaction type:
+• A description of what the user is doing when interacting 
+with a system, for example, instructing, talking, browsing, 
+or responding
+Interface style:
+• The kind of interface used to support the interaction, for 
+instance, command, menu-based, gesture, or voice
+
+Many kinds of interface styles available
+CP650 - Lec 4 40
+• Command
+• Speech
+• Data-entry
+• Form fill-in
+• Query
+• Graphical
+• Web
+• Pen
+• Augmented reality
+• Gesture
+
+Other sources
+CP650 - Lec 4 41
+Conceptual knowledge that is used to inform design and guide 
+research include:
+• Paradigms
+• Visions
+• Theories
+• Models
+• Frameworks
+
+Paradigm
+CP650 - Lec 4 42
+• Inspiration for a conceptual model
+• General approach adopted by a community for carrying out 
+research
+• Shared assumptions, concepts, values, and practices
+• For example, desktop, ubiquitous computing, in the wild
+
+Examples of new paradigms in HCI
+CP650 - Lec 4 43
+• Ubiquitous computing
+• Pervasive computing
+• Wearable computing
+• Internet of Things (IoT)
+• http://youtu.be/sfE
+bMV295Kk.
+
+Visions
+CP650 - Lec 4 44
+• A driving force that frames research and development
+• Invites people to imagine what life will be like in 10-, 15-, or 
+20-years’ time
+• For example,Apple’s 1987 knowledge navigator
+• Smart cities, smart health
+• Human-centered AI
+• Provide concrete scenarios of how society can use the next
+generation of imagined technologies
+• Also raise ethical questions such as, privacy and trust
+• http://youtu.be/HGYFEI6uLy0
+• https://youtu.be/AyihacflLto
+
+Theory
+CP650 - Lec 4 45
+•Explanation of a phenomenon
+• For example, information processing that explains how 
+the mind, or some aspect of it, is assumed to work
+• Can help identify factors relevant to the design and 
+evaluation of interactive products
+• Such as cognitive, social, and affective
+•Can be used to predict what users will do with 
+different interfaces
+
+Models
+CP650 - Lec 4 46
+A simplification of an HCI  phenomenon
+•Enables designers to predict and evaluate 
+alternative designs
+•Abstracted from a theory coming from a 
+contributing discipline, for example:
+▪ Don Norman’s (1996) model of the Seven Stages of Action
+▪ Marc Hassenzahl’s (2010) model of the user experience
+
+Frameworks
+CP650 - Lec 4 47
+• Set of interrelated concepts and-or specific questions for
+‘what to look for’
+• Provide advice on how to design user experiences
+• Helping designers think about how to conceptualize learning, working, 
+socializing, fun, and emotion
+• Focus on how to design particular kinds of interfaces to 
+evoke certain responses
+• Come in various forms:
+• Such as steps, questions, concepts, challenges, principles, tactics, and 
+dimensions
+• DiCoT (Furniss and Blandford, 2006), was developed to 
+analyze qualitative data at the system level, allowing 
+researchers to understand how technologies are used by 
+teams of people in work or home settings
+
+A classic HCI framework(Google it)
+CP650 - Lec 4 48
+Don Norman’s (1988) framework of the relationship 
+between the design of a conceptual model and a 
+user’s understanding of it
+Consists of three interacting components:
+•The Designer’s Model
+• The model the designer has of how the system should work
+•System Image
+• How the system actually works, which is portrayed to the user
+through the interface, manuals, help facilities, and so on
+•The User’s Model
+• How the user understands how the system works
+
+Summary
+CP650 - Lec 4 49
+• Developing a conceptual model involves:
+• Understanding the problem space
+• Being clear about your assumptions and claims
+• Specifying how the proposed design will support users
+• A conceptual model is a high-level description of a product 
+in terms of:
+• What users can do with it and the concepts they need to understand
+how to interact with it
+• Interaction types provide a way of thinking about how to
+support user’s activities
+• Paradigms, visions, theories, models, and frameworks
+• Provide ways of framing design and research

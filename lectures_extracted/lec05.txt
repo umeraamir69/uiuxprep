@@ -1,0 +1,408 @@
+Week 3: 
+Lecture 5 – Chapter 4 
+COGNITI VE ASPECTS
+CP650 - Lec 5 1
+Dr. Usama Mir 
+umir@wlu.ca 
+
+Overview
+CP650 - Lec 5 2
+•Whatis cognition?
+•Why it is importantto understandin HCI
+•Describehow cognition hasbeen applied to  
+interactiondesign
+•Explainwhatarementalmodelsandhow to elicit 
+them
+•Cover relevanttheoriesof cognition
+
+What is cognition?
+CP650 - Lec 5 3
+•Thinking,remembering,learning,daydreaming,  
+decision-making,seeing,reading,talking,writing…
+•Ways of classifyingcognition ata higher level:
+▪Experientialvs.reflectivecognition(Norman,1993)
+▪Fast vs slow thinking (Kahneman, 2011)
+
+Fastvs slow thinking?
+CP650 - Lec 5 4
+•2 + 2 =
+•21 × 29 =
+
+How canunderstandingcognitionhelp?
+CP650 - Lec 5 5
+•Providesknowledgeaboutwhatuserscan
+and cannot be expected to do
+•Identifiesandexplainsthenatureandcauses
+of problemsthatusers encounter
+•Providestheories,modelingtools,guidance,and 
+methodsthatcanleadto thedesignof better 
+interactive products
+
+Cognitiveprocesses
+CP650 - Lec 5 6
+•Attention
+•Perception
+•Memory
+•Learning
+•Reading,speaking andlistening
+
+Attention
+CP650 - Lec 5 7
+• Selecting thingson which to concentrateata pointin time  
+from the mass of stimuliaround us
+• Allows us to focus on informationthatis relevantto
+what we are doing
+• Involves audioand/or visualsenses
+• Focusedand divided attention
+• Enablesus to be selectivein termsof themassof competingstimuli, 
+butlimitsour abilityto keeptrackof allevents
+• Designrecommendation
+• Informationattheinterfaceshouldbe structuredto captureusers’
+attention,for example,useperceptualboundaries(windows),color ,
+reversevideo,sound,andflashinglights
+
+Activity: Find the price for adouble room at the Quality 
+Inn in Pennsylvania
+CP650 - Lec 5 8
+
+Activity: Find the price for adouble room at the Quality 
+Inn in Pennsylvania
+CP650 - Lec 5 9
+
+Activity - Results 
+CP650 - Lec 5 10
+• Tullis (1987) foundthatthetwo screensproducedquite  
+differentresults
+▪ 1st screen:T ookanaverageof 5.5secondsto search
+▪ 2nd screen:Took 3.2 seconds to search
+• Why ?   Since bothdisplays have thesamedensity
+of information(31percent)?
+• Spacing
+• In the1st screen,theinformationis bunchedup together ,makingit 
+hard to search
+• In the2nd screen,thecharactersaregroupedintoverticalcategories 
+of information makingit easier
+
+Multitasking and Attention
+CP650 - Lec 5 11
+•It is increasinglycommonfor workers to multitask
+•For example,hospitalworkershaveto attendto 
+multiplescreensin anoperatingroom thatprovide 
+new kinds of real-time information
+•This requiresclinician’ sconstantattentionto check
+if any datais unusualor anomalous
+•Need to developnewattentionandscanning 
+strategies
+
+Attention and scanning strategies
+CP650 - Lec 5 12
+
+
+Is it okay to usea phonewhen driving?
+CP650 - Lec 5 13
+
+No!
+CP650 - Lec 5 14
+• Drivingis very demanding
+• Drivers are prone to beingdistracted
+• Thereis a significantchanceof causingaccidents
+• Drivers’reactiontimesarelongerto externalevents
+when talkingon thephonein a car(Caird etal.,2018)
+• Drivers usingtheir phonesrely more on their  
+expectations about what is likely to happennextas  
+conductinga conversationtakesup theirattention
+
+Are hands-freephonessaferto usewhendriving?
+CP650 - Lec 5 15
+• No, as sametypeof cognitiveprocessingis happeningwhen 
+talking
+• The samethinghappenswhen talkingwith front seat  
+passenger
+• Butbothcan stopin mid-sentenceif a hazard is spotted allowing the
+driverto switchimmediatelyto theroad
+• So,it’ slessdangeroustalkingto a frontseatpassengerthana remote
+person
+• A remote person on the end of aphone is not privy to what the 
+driveris seeingandwillcarryon theconversation whenthereis a 
+hazard
+• This makesitdifficultfor thedriverto switchalltheirattentionto the
+road
+
+Design implications for attention
+CP650 - Lec 5 16
+• Context:Make informationsalientwhen it needsto be  
+attendedto ata given stage of a task
+• Use techniquesto achieve this:
+• For example,color ,ordering,spacing,underlining,sequencing,
+and animation
+• Avoidclutteringvisualinterfaceswithtoo much 
+information
+• Consider designingdifferentways to support effective
+switchingandreturningto aninterface
+
+Skyscanner: An example of a good design
+CP650 - Lec 5 17
+
+
+Perception
+CP650 - Lec 5 18
+•How information is acquiredfrom the world and  
+transformedintoexperiences
+•Obvious implicationis to designrepresentations 
+thatare readily perceivable,for instance:
+• Textshouldbe legible
+• Iconsshouldbe easyto distinguishandread
+
+Is color contrastgood? Find Italian
+CP650 - Lec 5 19
+
+
+Are bordersandwhite spacebetter?Find French
+CP650 - Lec 5 20
+
+Activity
+CP650 - Lec 5 21
+•Weller (2004) found people took less time to locate  
+items for information thatwas grouped
+• Usinga border(2ndscreen)comparedwithusingcolor
+contrast(1st screen)
+•Some arguethattoo muchwhite spaceon web  
+pagesis detrimentalto searchprocess
+• Makes it hard to findinformation
+•Do you agree?
+
+Activity:Which is the easiestto readandwhy?
+What is the time?
+CP650 - Lec 5 22
+Whatis the time?
+What is thetime?
+What is the time?
+What is the time?
+
+A bad website design: Too much white 
+CP650 - Lec 5 23
+https://colorlib.com/wp/bad-websites/ 
+
+A bad website design: Too much info
+CP650 - Lec 5 24
+https://colorlib.com/wp/bad-websites/ 
+
+Designimplications
+CP650 - Lec 5 25
+• Iconsshouldenableusersto d i s t i n g u is htheirmeaningreadily
+• Borderingandspacingareeffectivevisualwaysof grouping
+information
+• Sounds shouldbe audibleand distinguishable
+• Researchpropercolor contrasttechniqueswhendesigning 
+aninterface:
+• Yellow on blackor blueis fine
+• Yellow on greenor white is a no-no
+• Hapticfeedbackshouldbe usedjudiciously
+
+A good web design 
+CP650 - Lec 5 26
+
+
+Memory
+CP650 - Lec 5 27
+•Involvesrecallingvariouskindsof knowledge
+that allow people to actappropriately
+• For example,recognizingsomeone’sfaceor remembering 
+someone’s name
+•We don’tremembereverything−itinvolvesfiltering 
+andprocessing what is attendedto
+
+Memory
+CP650 - Lec 5 28
+•Context is importantas to how we remember
+(that  is,where,when,how,andso on)
+•We recognizethingsmuchbetterthanbeingable
+to recallthings
+•We remember less about objectsthatwe have  
+photographed thanwhen we observe them with
+the naked eye (Henkel,2014)
+
+Processingin memory
+CP650 - Lec 5 29
+• Encodingis firststage of memory
+• Determines which information is attendedto in the environmentand  
+how it is interpreted
+• The more attention paidto something…
+• The moreitis processedin termsof thinkingaboutitand
+comparingit with otherknowledge…
+• The more likely it is to be remembered
+• For example, when learning about HCI, it is better to reflect upon it, 
+carryout exercises,havediscussionsaboutit,andwritenotesthan 
+justpassivelyreada book,listento a lectureor watcha videoaboutit
+
+Activity
+CP650 - Lec 5 30
+• Try to rememberthedatesof your grandparents’birthday
+• Try to rememberthecover of thelast two books you read
+• Which was easiest?Why?
+• Peopleare very good atrememberingvisualcuesabout  
+things
+• For instance,thecolor of items,thelocationof objectsandmarkson
+anobject
+• Theyfinditmoredifficultto learnandrememberarbitrary 
+material
+• For example,birthdaysandphonenumbers
+
+Amazon’s web design
+CP650 - Lec 5 31
+https://www.nngroup.com/articles/recognition-and-recall/ 
+
+Recognitionversusrecall
+CP650 - Lec 5 32
+•Command-basedinterfacesrequire users to recall  
+frommemorya namefroma possiblesetof 100s of 
+names
+•Graphicalinterfacesprovidevisually-basedoptions 
+(menus,icons)thatusersneedonlybrowsethrough 
+untilthey recognizeone
+•Webbrowsers providetabsandhistory lists of  
+visitedURLs thatsupportrecognitionmemory
+
+The problem with the classic‘7,+ or −2’
+CP650 - Lec 5 33
+• George Miller’s (1956) theory of how muchinformation  
+peoplecanremember
+• People’simmediatememorycapacityis verylimitedto 7,+ 
+or −2
+• Has beenappliedin interactiondesignwhenconsideringhow 
+many optionsto display
+• But is it a good useof a theory in HCI?
+• Is it helpful?
+
+When creatinganinterface,shouldthedesigner…
+• Presentonly 7 optionson a menu
+• Display only 7 icons on a tool bar
+• Have no more than7 bullets in a list
+• Placeonly 7 itemson a pulldown menu
+• Placeonly7 tabson thetop of a websitepage?
+• Not necessarily…
+CP650 - Lec 5 34
+
+The reasonis…
+CP650 - Lec 5 35
+• Peoplecanscanlistsof bullets,tabs,andmenuitemsfor the 
+one they want
+• Theydon’thaveto recallthemfrommemory ,havingonly 
+briefly heard or seenthem
+• So you canhavemorethansevenattheinterface
+• For instance,historylistsof websitesvisited
+• Sometimesa small numberof items is good
+• For example,smart watchdisplays
+• Depends on taskand availablescreenestate
+
+PersonalInformationmanagement
+CP650 - Lec 5 36
+Is a growing problemfor many users:
+• Theyaccumulatea vastnumbersof documents,images,musicfiles,video
+clips,emails,attachments,bookmarks,andso forth
+• Where andhow to savethemall;thenrememberingwhattheywere 
+calledandwhere to find themagain
+• Namingmostcommonmeansof encodingthem
+• Butcanbedifficultto remember ,especiallywhenyou have10,000s
+• How mightsucha process befacilitatedtakinginto account people’s  
+memory abilities?
+
+PersonalInformationmanagement
+CP650 - Lec 5 37
+• Most common approach is to usefolders andnaming
+• Strongpreferencefor scanningacrossandwithinfolders 
+when lookingfor something
+• Searchenginesonlyhelpfulifyou know thenameof the
+file
+• Smartsearchengineshelpwithlistingrelevantfilesfor 
+partialname or when typein first letter
+
+Apple’s Spotlightsearch tool
+CP650 - Lec 5 38
+
+Memory load
+CP650 - Lec 5 39
+• Online/mobile andphonebankingnow require usersto  
+providemultiplepieces of informationto access their  
+account
+• For instance,ZIP code,birthplace,a memorabledate,firstschool
+attended
+• Known as multifactorauthentication(MFA)
+• Why?
+• Increasedsecurity concerns
+• Passwordmanagers,suchas LastPass,havebeendeveloped 
+thatrequire only one masterpassword
+• Reducesstress and memory load on users
+• Passwordscouldbecomeextinctwiththewidespreaduseof 
+biometrics andcomputervisionalgorithms
+• https://www.lastpass.com/ 
+
+Designimplications
+CP650 - Lec 5 40
+• Reduce cognitive load by avoidinglong and
+complicated  proceduresfor carryingout tasks
+• Designinterfaces thatpromote recognition ratherthan
+recall
+• Provideuserswithvariouswaysof labelling
+digital informationto helpthemeasily identify it
+again
+• For example,folders,categories,color ,flagging,andtimestamping
+
+Learning
+CP650 - Lec 5 41
+• Involves theaccumulationof skills and knowledgeinvolving  
+memory
+• Two main types:
+• Incidentallearning
+• (forexample,recognizingpeople’sfaces,whatyou didtoday)
+• Intentional learning 
+• (for instance, studying for an exam, learning to cook)
+• Intentionallearningis muchharder!
+• Manytechnologieshavebeendevelopedto help(forexample, 
+multimedia,animations,VR)
+• Peoplefindithardto learnby followinginstructionsin a
+manual
+• Peopleprefer to learnby doing
+
+Designimplications
+CP650 - Lec 5 42
+•Design interfacesthatencourageexploration
+•Designinterfacesthatconstrainandguide
+learners
+•Dynamically linking concepts and 
+representations canfacilitate the learning of
+complex material
+
+Reading,speaking,andlistening
+CP650 - Lec 5 43
+The easewithwhichpeoplecanread,listen,or speak 
+differs:
+• Manypreferlisteningto reading
+• Readingcanbequickerthanspeakingor listening
+• Listeningrequireslesscognitiveeffortthanreadingor
+speaking
+• Dyslexicshavedifficultiesunderstandingandrecognizing 
+written words
+
+Applications
+CP650 - Lec 5 44
+•Voiceuserinterfacesallowusersto interactwith 
+themby askingquestions
+• For example,GoogleVoice,Siri,andAlexa
+•Speech-output systems use artificially-generated  
+speech
+• For instance,written text-to-speech systemsfor the  
+visually impaired
+•Natural-language systems enableusers to typein  
+questions andgive text-basedresponses
+• Such as,chatbots
+
+Designimplications
+CP650 - Lec 5 45
+•Speech-basedmenusandinstructionsshouldbe 
+short
+•Accentuatethe intonation of artificially
+generated speech voices
+• They are harder to understand thanhuman voices
+•Provideopportunities for makingtext largeon
+a screen

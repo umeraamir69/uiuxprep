@@ -1,0 +1,327 @@
+Week 10
+         Lecture 13
+DiscoveringRequirements
+CP650 - Lec 12 1
+Dr. Usama Mir 
+umir@wlu.ca 
+
+Chapter 11
+CP650 - Lec 12 2
+
+Overview
+• The importanceof requirements
+• Differenttypesof requirements
+• Data gatheringfor requirements
+• Bringingrequirementsto life
+• Personas
+• Scenarios
+• Capturinginteractionwithuser cases
+CP650 - Lec 12 3
+
+What,how andwhy?
+CP650 - Lec 12 4
+• What is thepurposeoftherequirementsactivity?
+▪ Explorethe problemspace
+▪ Establisha descriptionof whatwillbe developed
+• How to capturerequirementsoncediscovered
+▪ In prototypesor operationalproduct
+▪ Throughstructuredor rigorousnotations
+▪ In all cases, capturing requirements explicitly 
+is beneficial in order to make sure that key 
+requirements aren't lost through the 
+iterations.
+
+Why bother?
+Requirementsactivityis thestagewheremiscommunication 
+occursmost commonly
+CP650 - Lec 12 5
+
+What arerequirements?
+CP650 - Lec 12 6
+• A statementaboutanintendedproductthatspecifieswhatitis expected
+to do or how itwillperform
+• Differentformsanddifferentlevelsof abstraction
+• User stories(mostprevalentinagiledevelopmentcontexts)
+• Format:
+• As a <role>,I want<behavior>so that<benefit>
+• Exampleuserstoriesfora travelorganizermightbe:
+• As a <traveler>,I want<to savemyfavoriteairlinefor allmyflights> 
+so that<I willbeableto collectairmiles>
+• As a <travelagent>,I want<my specialdiscountratesto bedisplayed
+to me> so that<I canoffermyclientscompetitiverates>
+
+Requirements: Volereshell – Req Example (1)
+CP650 - Lec 12 7
+
+Requirements: Volere shell – Req Example (2)
+CP650 - Lec 12 8
+
+
+Requirements: Thesevenproductdimensions
+S ou r c e :GottesdienerandGorman(2012),p.58.Used courtesyof EllenGottesdiener
+CP650 - Lec 12 9
+
+Requirements: Kinds/Types (1)
+CP650 - Lec 12 10
+1. Functional:
+▪ What thesystemshoulddo
+2. Data:
+▪ What kindsof dataneedto be stored?
+▪ How willtheybe stored
+▪ For example,database
+
+Requirements: Kinds/Types (2)
+CP650 - Lec 12 11
+3. Environmentor contextof use:
+• Physical:
+dusty?noisy?vibration?light?heat?humidity?…. (forexample,in a
+hospital)
+• Social:
+collaborationandco-ordination,datasharing,distributed,synchronous 
+or asynchronous,privacy
+• Organizational:
+user support,communicationsstructureandinfrastructure,availabilityof
+training
+• Technical:
+On whattechnologieswillitrun or needto becompatible?
+
+Requirements: Kinds/Types (3)
+CP650 - Lec 12 12
+4. Users — Who arethey?
+• Characteristics:
+nationality,educationalbackground,attitudeto computers
+• System use:
+• Novice: prompted,constrained,clear
+• Expert:flexibility,access/power
+• Frequent:shortcuts
+• Casual/infrequent:clearmenupaths
+• User profiling 
+
+Requirements: Kinds/Types (4)
+CP650 - Lec 12 13
+5 and 6. Usabilityand user experience goals
+•Differentproductshavedifferentrequirementsand
+maybeimplementedin differentways,for example,
+trustworthiness
+
+Requirements: Datagathering (DG) 
+CP650 - Lec 12 14
+• Interviews,observation,andquestionnaires
+• It is usual for more than one data gathering 
+techniques to be used in order to provide different 
+perspectives.
+• Studyingdocumentation:
+▪Proceduresandrulesareoftenwrittendown in
+manuals
+▪Good sourceof dataaboutthe stepsinvolvedin an
+activityandany regulationsgoverninga task
+▪Not to be used in isolation
+• Researchingsimilarproducts:
+▪Good for promptingrequirements
+
+Reqs: DG: Usingprobesto engagewithusers (1)
+• Manytypesof probe:
+▪ Designedto promptusersinto action
+▪ For researchersto learnaboutusers
+• Culturalprobe:
+▪ Walletcontainingpostcards,maps,camera,photoalbum,anddiary
+▪ Participantsaskedto answerquestionsusingwalletcontents
+• Design probe:
+▪ Formrelatesspecificallyto particularquestionandcontext
+Source:Wallaceetal.(2013)Figure6.ReproducedwithpermissionofACM Publications.
+CP650 - Lec 12 15
+
+Reqs: DG: Using probes to engage with users (2)
+• Technology/Provocative probe:
+▪ Toolkits, mobile phone apps, sensor-based monitoring, for example, M- 
+Kulinda to alert participants about unexpected movement at home.
+CP650 - Lec 12 16
+
+
+Reqs: DG: ContextualInquiry (1)
+CP650 - Lec 12 17
+• Partof ContextualDesign,butalsousedon itsown to 
+gatherrequirements
+• One-on-one fieldinterviews(contextualinterviews)
+▪ 1.5to 2 hourslong
+▪ Focuson dailylifeathomeor work relevantto theproject
+▪ Uses a modelof master(participant)andapprentice(researcher)
+
+Reqs: DG: ContextualInquiry (2)
+CP650 - Lec 12 18
+• Four mainprinciples:
+Context:
+Goingto theuser,wherevertheyare,andseeingwhattheydo asthey
+do it
+Partnership:
+User andinterviewerexploreuser ’slifetogether
+Interpretation:
+Observationsinterpretedbyuserandinterviewertogether
+Focus:
+Projectfocusto understandto whatshouldbepaidattention
+
+Reqs: DG: ContextualInquiry (3)
+CP650 - Lec 12 19
+• Interviewguidedby“cool concepts”dividedintotwo
+groups
+• Joyof lifeconcepts:
+▪ How productsmakeour livesricherandmore fulfilling
+▪ Connection/relationship with the user,sensation 
+(pleasurable moments), accomplish (empowers user)
+• Joyof useconcepts:
+▪ Describe impactof usingtheproduct
+▪ Directinaction,thehasslefactor,andthelearningdelta
+
+Reqs: DG: ContextualInquiry (4)
+CP650 - Lec 12 20
+• Followinginterview,interpretationsession
+▪ Contextual designmodelsarecreatedor consolidated
+▪ Most relevantmodelsarechosenbyteam
+
+Reqs: DG: Brainstormingfor innovation
+CP650 - Lec 12 21
+• Includeparticipantsfroma widerangeof disciplines,witha
+broadrangeof experience
+• Don't bansillystuff
+• Use catalystsfor furtherinspiration
+• Keeprecords.Captureeveryidea,withoutcensoring
+• Sharpenthefocus
+• Use warm-up exercisesandmakethesessionfun
+
+Bringingrequirementsto life (1)
+CP650 - Lec 12 22
+• Augmentingthebasicrequirementsexpressedas stories,in
+Voleretemplate,or in other form
+• Personas
+▪ Richdescriptionsof typicalusers,not specificpeople
+• Scenarios
+▪ An informalnarrativestory,simple,‘n a tu r a l’,personal,andnot
+generalizable
+
+Bringing requirements to life (2)
+CP650 - Lec 12 23
+
+
+Bringing requirements to life: Personas (1)
+CP650 - Lec 12 24
+•Capturea setof user characteristics(user
+profile)
+•Synthesizedfromrealpeoplebasedon
+user research
+•Typical,not idealized
+
+Bringing requirements to life: Personas (2)
+CP650 - Lec 12 25
+•Bringto lifewithna me,characteristics,goals,
+and personalbackground
+▪Relevantto productunderdevelopment
+•Good personahelpsdesignerwithdesigndecisions 
+andremindsteamaboutwho willusetheproduct
+•Developa smallsetof personaswithone primary
+
+Bringing requirements to life: Personas Example 1
+CP650 - Lec 12 26
+
+
+Bringing requirements to life: Personas Example 2
+DevelopedusingXtensioTemplates
+CP650 - Lec 12 27
+
+Bringing requirements to life: Scenariofor the navigation app of a large shopping center 
+CP650 - Lec 12 28
+Charlie wants to take his elderly mother, Freia, to his favorite home products 
+store, ComfortAtHome. He knows that the store has moved within the shopping 
+center, but he doesn't know where. He also needs to find a route that is suitable 
+for his mother who uses a walker but doesn't like elevators. He opens the 
+navigation app on his smartphone and enters the name of the store in the search 
+feature. Two different branches of the store are listed, and Charlie asks for 
+directions to the one nearest to their current location. A map of the shopping 
+center is displayed, showing their current location, the location of the nearest 
+store, and the suggested route. This route, however, includes a series of steps 
+that are unsuitable for his mother. So, he asks for an alternative route that uses 
+only ramps, which the app displays. They set off, following the new route 
+provided.
+
+Bringing requirements to l i f e : S ce n a r io  - Another Example (2)
+CP650 - Lec 12 29
+
+
+Bringing requirements to life: Scenario Example (3)
+CP650 - Lec 12 30
+
+
+Bringing requirements to life: Scenario Example (4)
+CP650 - Lec 12 31
+
+
+Capturing Interactions with Use cases
+CP650 - Lec 12 32
+• Focuson functionalrequirementsandcaptureinteraction
+• Can be usedin designor to capturerequirements
+• Use casesarestep-by-stepdescriptionsof interactions
+• Twostyles:
+• Essentialuse cases:divisionof tasks,no implementation
+details
+• Use casewithnormalandalternativecourses:more detailed
+
+Exampleessentialusecasefor travelorganizer (1)
+R e tr i e v e V i s a
+USER INTENTION
+CP650 - Lec 12 33
+SYSTEM RESPONSIBILITY
+Findvisarequirements Requestdestinationandnationality
+Supplyrequiredinformation Obtainappropriatevisainfo
+Obtaincopyof visainfo Offerinfoin differentformats
+Choose suitableformat Provideinfoin chosenformat
+Note:
+The userintentionandsystemresponsibilityareoffsetvertically, 
+showinga sequenceof interactions
+
+Example essential use case for travel organizer (2)
+CP650 - Lec 12 34
+1. The productasksfor thenameof thedestinationcountry
+2. The user providesthe country’sname
+3. The productchecksthatthecountryis valid
+4. The productaskstheuser for theirnationality
+5. The user providestheirnationality
+More detailed one
+
+Example essential use case for travel organizer (3)
+CP650 - Lec 12 35
+6. The productchecksthevisarequirementsof thatcountry
+for a passportholderof the user’snationality
+7. The productprovidesthevisarequirements
+8. The productaskswhethertheuser wantsto sharethe 
+visarequirementson socialmedia
+9. The user providesappropriatesocialmediainformation
+
+Example essential use case for travel organizer (4)
+CP650 - Lec 12 36
+Some alternativecourses:
+• 4.Ifthecountrynameis invalid:
+• 4.1:Theproductprovidesanerror message
+• 4.2:Theproductreturnsto step1
+• 6. Ifthenationalityis invalid:
+• 6.1:Theproductprovidesanerror message
+• 6.2:Theproductreturnsto step4
+• 7.Ifno informationaboutvisarequirementsis found:
+• 7.1:Theproductprovidesa suitablemessage
+• 7.2:Theproductreturnsto step1
+
+Summary
+CP650 - Lec 12 37
+• A requirementis a statementaboutanintendedproductthatspecifies
+whatitis expectedto do or how itwillperform.
+• Articulatingrequirementsavoidsmiscommunicationandsupports 
+technicaldevelopersandusersto contribute.
+• Differentkindsof requirements:functional,data,environmental(context
+of use),usercharacteristics,usabilitygoals,anduserexperiencegoals.
+• Requirementsdatagatheringuses:questionnaires,interviews, 
+observation,studyingdocumentation,andsimilarproducts
+• Scenariosarea story-basednarrativeto exploreexistingbehavior, 
+potentialof newproducts,andfuturisticvisionsof use.
+• Personascapturecharacteristicsof typicalusersthatarerelevantto the 
+productunderdevelopment.
+• Scenariosandpersonastogetherbringrequirementsto life.
+• Use casescapturedetailsaboutanexistingor imaginedinteraction
+betweenusersandtheproduct.
