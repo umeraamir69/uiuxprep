@@ -1,0 +1,438 @@
+================================================================================
+CP650 — MUST-REMEMBER LISTS (types, counts, definitions)
+Source: Lecture PDFs (Rogers, Sharp & Preece course). Use for flashcards / exams.
+================================================================================
+
+--------------------------------------------------------------------------------
+LECTURE 1 — Interaction design & UX
+--------------------------------------------------------------------------------
+
+WHAT TO DESIGN (3 Ws + optimization)
+  • Who the users are
+  • What activities are carried out
+  • Where interaction happens
+  → Optimize interactions to match users’ activities and needs.
+
+DEFINITIONS (remember authors)
+  • Interaction design (Sharp, Rogers, Preece): designing interactive products to
+    support how people communicate and interact in everyday and working lives.
+  • Winograd: design of spaces for human communication and interaction.
+
+GOALS OF INTERACTION DESIGN (2 main bullets)
+  • Develop usable products (usable = easy to learn, effective, enjoyable).
+  • Involve users in the design process.
+
+RELATED TERMS (umbrella): UI design, software design, user-centered design,
+  product design, web design, experience design (UX) — all under inter 
+ACADEMIC DISCIPLINES CONTRIBUTING TO ID — COUNT: 6
+  1. Psychology
+  2. Social sciences
+  3. Computing sciences
+  4. Engineering
+  5. Ergonomics
+  6. Informatics
+
+DESIGN PRACTICES CONTRIBUTING TO ID — COUNT: 5
+  1. Graphic design
+  2. Product design
+  3. Artist-design
+  4. Industrial design
+  5. Film industry
+
+INTERDISCIPLINARY FIELDS THAT “DO” INTERACTION DESIGN — COUNT: 5
+  1. HCI
+  2. Ubiquitous computing
+  3. Human factors
+  4. Cognitive ergonomics
+  5. Information systems
+
+MULTIDISCIPLINARY TEAMS — 2 sides
+  • Benefits: more ideas and designs
+  • Disadvantages: harder to communicate and move designs forward
+
+USER EXPERIENCE (ideas to remember)
+  • How product behaves in real world + feelings (Garrett: every used product has UX).
+  • Nielsen & Norman: all aspects of end-user interaction with company, services, products.
+  • You cannot fully “design” a user experience — you design FOR user experience.
+
+HASENZAHL (2010) UX MODEL — COUNT: 2 dimensions
+  • Pragmatic: simple, practical, obvious for achieving goals
+  • Hedonic: how stimulating the interaction is
+
+CHARACTERISTICS OF INTERACTION DESIGN — COUNT: 3
+  1. Users involved throughout development
+  2. Usability + UX goals identified, documented, agreed at start
+  3. Iteration through core activities
+
+USABILITY GOALS — COUNT: 6
+  1. Effective to use
+  2. Efficient to use
+  3. Safe to use
+  4. Good utility
+  5. Easy to learn
+  6. Easy to remember how to use
+
+COMPANIES (one phrase each)
+  • Nielsen Norman Group: human-centered products and services
+  • Cooper: goal-related design (research → product)
+  • IDEO: products, services, environments; new ways to provide value
+
+
+--------------------------------------------------------------------------------
+LECTURE 2 — Accessibility & design principles
+--------------------------------------------------------------------------------
+
+ACCESSIBILITY: extent product is usable by as many people as possible
+  (slide focus: disabilities, e.g. VoiceOver / TalkBack).
+
+INCLUSIVENESS: accommodate widest possible people (disability, education, age, income).
+
+DISABILITY TYPES — COUNT: 3 main classes
+  1. Sensory (vision, hearing, …)
+  2. Physical (e.g. after stroke, spinal injury)
+  3. Cognitive (learning, memory, aging)
+  → Each type can vary by capability (e.g. peripheral vision, color blindness).
+
+IMPAIRMENT TIMING — COUNT: 3
+  1. Permanent
+  2. Temporary (after accident/illness)
+  3. Situational (e.g. noisy room → can’t hear)
+
+DESIGN PRINCIPLES (core set from slides)
+  • Visibility — see state + possible actions
+  • Feedback — sound, highlight, animation, …
+  • Constraints — limit wrong actions
+  • Mapping — controls match layout/meaning (e.g. color-coded ports)
+  • Consistency — similar operations/elements for similar tasks
+  • Affordance (Norman) — attribute suggesting how to use object
+  • Perceived affordances — for UIs: learned conventions, not “physical” affordances
+  • Simplicity (Nielsen 1999) — remove what you can; balance with aesthetics
+
+TYPES OF CONSISTENCY — COUNT: 3
+  1. Aesthetic
+  2. Internal (within one app)
+  3. External (across apps/devices — often hard; e.g. phone vs calculator keypad)
+
+
+--------------------------------------------------------------------------------
+LECTURE 3 — Process & Agile UX
+--------------------------------------------------------------------------------
+
+WHAT ID INVOLVES (process)
+  • Discover requirements → design → prototype → evaluate
+  • Focus on users and goals; trade-offs; generate & choose alternatives
+
+DESIGN APPROACHES — COUNT: 3 named
+  1. User-centered design
+  2. Activity-centered design
+  3. Systems design
+  (+ Double Diamond process link on slides)
+
+PROBLEM SPACE — 3 explore questions
+  • Current user experience?
+  • Why change needed?
+  • How will change improve situation?
+
+INVOLVING USERS — 2 themes
+  • Expectation management: realistic expectations, training, no hype
+  • Ownership: users as stakeholders → more acceptance if problems
+
+USER-CENTERED APPROACH — COUNT: 3 pillars
+  1. Early focus on users/tasks — study 4 characteristic types:
+     cognitive, behavioral, anthropomorphic, attitudinal
+  2. Empirical measurement — scenarios, manuals, simulations, prototypes
+  3. Iterative design — fix problems from testing, test again
+
+FOUR BASIC ACTIVITIES OF INTERACTION DESIGN (title on slide; aligns with textbook)
+  Requirements → design alternatives → prototyping → evaluation
+  (Slides illustrate with Google Design Sprints.)
+
+PRACTICAL ISSUES — COUNT: 5 questions listed
+  Who are users? Needs? How generate alternatives? Choose among them?
+  Integrate ID with other lifecycle models?
+
+USER TYPES (cited): 382 distinct user types for smartphone apps (Sha Zhao et al., 2016).
+
+HOW TO CHOOSE AMONG ALTERNATIVES (topics)
+  Technical feasibility; evaluation with users/peers; prototypes (behavior matters);
+  A/B testing; quality thresholds differ by stakeholder; UX/usability goals → criteria.
+
+AGILE — sprint length: short timeboxes, typically ONE TO THREE WEEKS.
+  Methods named: XP, Scrum, Kanban.
+
+AGILE + ID integration reasons — COUNT: 4
+  Tight iterations; early/regular feedback; emergent requirements;
+  balance flexibility and structure.
+
+TECHNICAL / UX DEBT: short-term compromises → long-term problems; neglecting UX;
+  many independent products.
+
+AGILE UX: 3 practical areas
+  User research; aligning work practices; documentation
+
+PARALLEL TRACKS (Agile UX)
+  Vision before dev; design ~1 iteration ahead (sometimes 2).
+
+CHAPTER 13 PRACTICE TOPICS — COUNT: 4
+  Agile UX; design patterns; open-source resources; tools for ID
+
+TOOLS (examples of what they support)
+  Creativity, sketching, simulation, brainstorming, library search, mind mapping,
+  video capture; wireframes → high-fidelity prototypes with pattern libraries.
+
+OPEN-SOURCE EXAMPLES: pattern libraries (e.g. python-patterns.guide), Bootstrap.
+
+
+--------------------------------------------------------------------------------
+LECTURE 4 — Conceptualizing interaction design
+--------------------------------------------------------------------------------
+
+ASSUMPTION vs CLAIM
+  • Assumption: taken for granted, needs investigation
+  • Claim: stated as true but still open to question
+
+CONCEPTUAL MODEL (Johnson & Henderson)
+  High-level description of how system is organized and operates.
+
+BENEFITS OF CONCEPTUALIZING — COUNT: 3
+  Orientation; open-mindedness; common ground (shared terms)
+
+CONCEPTUAL MODEL COMPONENTS — COUNT: 4 areas
+  1. Metaphors and analogies
+  2. Concepts exposed through product
+  3. Task–domain objects, attributes, operations
+  4. Relationships and mappings between concepts
+
+INTERACTION TYPES — COUNT: 5
+  1. Instructing — commands/options (repetitive, efficient)
+  2. Conversing — dialogue (chatbots, voice, help)
+  3. Manipulating — direct manipulation of objects
+  4. Exploring — move through virtual/physical space or data
+  5. Responding — system initiates; user may respond (Lueg et al., 2018)
+
+INTERFACE STYLES (Lecture 4 list) — COUNT: 10 on slide
+  Command, speech, data-entry, form fill-in, query, graphical, web, pen,
+  augmented reality, gesture
+
+CONCEPTUAL KNOWLEDGE SOURCES — COUNT: 5
+  Paradigms, visions, theories, models, frameworks
+
+NEW PARADIGM EXAMPLES — COUNT: 4
+  Ubiquitous, pervasive, wearable computing, IoT
+
+THEORY helps with factors — COUNT: 3 kinds named
+  Cognitive, social, affective
+
+MODEL EXAMPLES CITED
+  Norman Seven Stages of Action; Hassenzahl UX model
+
+FRAMEWORK EXAMPLE: DiCoT (Furniss & Blandford, 2006) — team use of tech
+
+NORMAN (1988) CONCEPTUAL MODEL FRAMEWORK — COUNT: 3 parts
+  1. Designer’s model — how designer thinks system should work
+  2. System image — what user sees via UI, manuals, help
+  3. User’s model — how user thinks system works
+
+
+--------------------------------------------------------------------------------
+LECTURE 5 — COGNITIVE ASPECTS
+--------------------------------------------------------------------------------
+
+COGNITION (examples): thinking, remembering, learning, deciding, seeing,
+  reading, talking, writing, …
+
+HIGH-LEVEL CLASSIFICATIONS — COUNT: 2 pairs
+  • Experiential vs reflective cognition (Norman, 1993)
+  • Fast vs slow thinking (Kahneman, 2011)
+
+WHY COGNITION MATTERS FOR HCI — COUNT: 3 outcomes
+  What users can/can’t do; explain problems; theories/tools for better products
+
+COGNITIVE PROCESSES (main slide list) — COUNT: 5
+  1. Attention
+  2. Perception
+  3. Memory
+  4. Learning
+  5. Reading, speaking, and listening
+
+ATTENTION
+  • Focused vs divided; design: salience, grouping, avoid clutter
+  • Tullis (1987): same density (~31%) but spacing/grouping changed search time
+    ~5.5 s vs ~3.2 s (hotel rate task)
+
+DRIVING + PHONE
+  • Handheld or hands-free: conversation still competes for attention — risky
+  • Passenger can stop talking when hazard appears; remote caller often cannot
+
+PERCEPTION DESIGN NOTES
+  Legible text; distinguishable icons; borders/spacing group (Weller 2004)
+  Yellow on black/blue OK; yellow on green/white poor
+
+MEMORY
+  • Recognition easier than recall; encoding + attention → remembering
+  • Henkel (2014): photographed objects remembered less than observed live
+  • Miller 7±2: caution — scanning menus ≠ holding all in working memory
+  • PIM problem: many files — folders, naming, search, smart search
+
+LEARNING TYPES — COUNT: 2
+  • Incidental (e.g. recognize faces)
+  • Intentional (studying, cooking) — harder; people prefer learning by doing
+
+MODALITIES (slide comparison)
+  Many prefer listening; reading can be faster; listening can be less effort than
+  reading/speaking; dyslexia affects written words.
+
+APPLICATION TYPES NAMED: VUIs (Siri, Alexa, Google Voice); TTS; chatbots / NL systems
+
+
+--------------------------------------------------------------------------------
+LECTURE 6 — SOCIAL INTERACTION
+--------------------------------------------------------------------------------
+
+CONVERSATION MECHANISMS: greetings, turn-taking, back-channel, farewells,
+  repair (repeat/clarify).
+
+SACKS ET AL. (1978) — THREE BASIC TURN-TAKING RULES
+  Rule 1: Current speaker picks next (question, request, opinion)
+  Rule 2: Another person self-selects to speak
+  Rule 3: Current speaker continues
+
+REMOTE CONVERSATION MEDIA (examples): email, IM, video, chatrooms
+
+VIDEOWINDOW (Bellcore, 1989): ~3×8 ft video “window”; 50 miles apart;
+  findings (Kraut, 1990): talked about system; more talk to co-located people;
+  “lean in” broke AV pickup; hard to monitor
+
+PRESENCE / COLLABORATION IDEAS
+  • Social presence (e.g. VR social)
+  • Telepresence robots (e.g. Beam+)
+  • Co-presence: tabletops, whiteboards, shared spaces
+
+COORDINATION (co-located groups) — COUNT: 3 means
+  Verbal/non-verbal; schedules/rules/conventions; shared external representations
+
+AWARENESS (Dourish & Bly, 1992 area)
+  • Peripheral awareness — edge of attention, overhearing/overseeing
+  • Situational awareness — understand environment to act (ATC, surgery)
+
+REFLECTTABLE: LEDs showed how much each member spoke (microphones).
+
+SOCIAL ENGAGEMENT: participation in group; voluntary exchange; hubs/retweets
+
+ETHICS EXAMPLE: Eugenia Kuyda — chatbot from deceased friend’s texts
+
+
+--------------------------------------------------------------------------------
+LECTURE 7 — EMOTIONAL INTERACTION
+--------------------------------------------------------------------------------
+
+TOPICS: emotions & UX; expressive design; affective computing / emotional AI;
+  persuasive tech; anthropomorphism (pros/cons)
+
+EMOTIONS: automatic vs conscious (speed/duration differ)
+
+ORTONY ET AL. (2005): emotional state changes how we think (narrow focus when
+  fearful/angry vs relaxed when happy)
+
+NORMAN EMOTIONAL DESIGN — THREE LEVELS
+  1. Visceral — look, feel, sound
+  2. Behavioral — use, usability
+  3. Reflective — meaning, personal value
+
+
+--------------------------------------------------------------------------------
+LECTURE 8 — INTERFACES (big memorization item)
+--------------------------------------------------------------------------------
+
+INTERFACE TYPES COVERED — COUNT: 20
+  1. Command    2. Graphical    3. Multimedia    4. Virtual reality    5. Web
+  6. Mobile     7. Appliance    8. Voice         9. Pen               10. Touch
+  11. Gesture   12. Haptic      13. Multimodal   14. Shareable        15. Tangible
+  16. AR        17. Wearables  18. Robots/drones 19. Brain–computer   20. Smart
+
+WIMP (first GUIs, Xerox Star): Windows, Icons, Menus, Pointing device
+
+MENU STYLES — COUNT: 6
+  Flat list; drop-down; pop-up; contextual; collapsible; mega-menu
+
+ICON ↔ REFERENT MAPPINGS — COUNT: 3
+  Similar; analogical; arbitrary  (similar often most effective)
+
+VEEN (2001) THREE CORE WEB QUESTIONS
+  1. Where am I?
+  2. Where can I go?
+  3. What’s here?
+
+MOBILE HIT TARGET (slide): minimum ~44 × 44 points (Fitts’ law)
+
+VUI DIALOG TYPES
+  Directed dialog (system-controlled) vs flexible / user initiative
+  Barge-in: interrupt listing like in real conversation
+
+
+--------------------------------------------------------------------------------
+LECTURE 9 — DATA GATHERING
+--------------------------------------------------------------------------------
+
+FIVE KEY ISSUES
+  1. Setting goals (+ plan analysis before collecting)
+  2. Identifying participants (+ how many)
+  3. Relationship with participants (professional, informed consent)
+  4. Triangulation (multiple perspectives / data types)
+  5. Pilot studies (small trial first)
+
+DATA CAPTURE: notes, audio, video, photos (alone or combined)
+
+INTERVIEW TYPES
+  Unstructured (rich, not replicable)
+  Structured (scripted, replicable, less rich)
+  Semi-structured (balance)
+  Focus groups: usually 3–10 people; closed vs open questions
+
+RUNNING AN INTERVIEW — COUNT: 5 phases
+  Introduction → Warm-up → Main body → Cool-off → Closure
+
+QUESTIONNAIRE RESPONSE FORMATS (examples)
+  Yes/No, checkboxes, rating scales, Likert, semantic differential (3/5/7+ points),
+  open-ended at end
+
+RESPONSE RATES (slide): ~40% good; ~20% often acceptable
+
+
+--------------------------------------------------------------------------------
+LECTURE 13 — DISCOVERING REQUIREMENTS (Chapter 11)
+--------------------------------------------------------------------------------
+
+USER STORY FORMAT (Agile)
+  As a <role>, I want <behavior> so that <benefit>
+
+REQUIREMENT KINDS (summary slide) — COUNT: 6 areas
+  1. Functional — what system does
+  2. Data — what to store, how
+  3. Environment / context: physical, social, organizational, technical
+  4. Users — who; novice/expert/frequent/casual patterns
+  5. Usability goals
+  6. User experience goals
+
+SEVEN PRODUCT DIMENSIONS — Gottesdiener & Gorman (2012) [title on slide; memorize name]
+
+DATA GATHERING FOR REQUIREMENTS
+  Interviews, observation, questionnaires; often combine; documentation; similar products
+
+PROBE TYPES (examples): cultural probe; design probe; technology/provocative probe
+
+CONTEXTUAL INQUIRY
+  • Interviews ~1.5–2 h; master–apprentice model
+  • FOUR PRINCIPLES: Context; Partnership; Interpretation; Focus
+  • “Cool concepts”: joy of life vs joy of use (subtopics under each)
+
+BRINGING REQUIREMENTS TO LIFE
+  Personas (typical synthesized users); scenarios (stories); use cases
+
+USE CASE STYLES — COUNT: 2
+  Essential (intention/responsibility, no implementation detail)
+  Normal + alternative courses (more detailed)
+
+================================================================================
+END — Quiz yourself: cover the right column and recite counts + lists.
+================================================================================

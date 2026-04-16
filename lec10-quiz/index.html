@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CP650 — Lecture 10 Quiz (Data Gathering II)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>Lecture 10 — Data Gathering II</h1>
+      <p class="subtitle">CP650 · Practice MCQs (ontology, qualitative methods, validity, sampling, ethics)</p>
+    </header>
+
+    <section class="toolbar" aria-label="Quiz controls">
+      <label class="shuffle-label">
+        <input type="checkbox" id="shuffleToggle" checked />
+        Shuffle question order
+      </label>
+      <button type="button" id="restartBtn" class="btn btn-secondary">Restart</button>
+    </section>
+
+    <section class="stats" aria-live="polite">
+      <span id="progressText">Question 1 of —</span>
+      <span class="score" id="scoreText">Score: 0 / 0</span>
+    </section>
+
+    <main class="card" id="quizCard">
+      <p class="question" id="questionText">Loading…</p>
+      <div class="options" id="optionsRoot" role="radiogroup" aria-labelledby="questionText"></div>
+      <div class="feedback hidden" id="feedback" role="status"></div>
+      <div class="actions">
+        <button type="button" id="nextBtn" class="btn btn-primary hidden" disabled>Next question</button>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>Open <code>index.html</code> locally — data loads from <code>lec10-mcqs.js</code>. Regenerate with <code>generate_lec10_mcqs.py</code>.</p>
+    </footer>
+  </div>
+
+  <script src="lec10-mcqs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
