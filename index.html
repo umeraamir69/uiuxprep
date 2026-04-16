@@ -11,6 +11,15 @@
     <header class="header">
       <h1>CP650 — Practice MCQs</h1>
       <p class="subtitle">Choose a lecture (slides 1–15), then answer one question at a time.</p>
+      <p class="wrong-session-line" id="wrongSessionLine">
+        <span class="wrong-count-wrap"><strong id="wrongCount">0</strong> wrong saved this session</span>
+        <button type="button" id="btnWrongReview" class="btn btn-secondary btn-small">Review</button>
+        <button type="button" id="btnWrongClear" class="btn btn-secondary btn-small">Clear list</button>
+      </p>
+      <div id="wrongReviewPanel" class="wrong-review-panel hidden" aria-live="polite">
+        <p class="wrong-review-title">Wrong answers (this browser tab session)</p>
+        <ul class="wrong-review-list" id="wrongReviewList"></ul>
+      </div>
     </header>
 
     <section id="pickerView" class="picker" aria-label="Choose lecture">

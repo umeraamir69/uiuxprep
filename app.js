@@ -8,6 +8,8 @@
     return;
   }
 
+  const STORAGE_KEY_WRONG = "cp650_wrong_mcqs";
+
   const LECTURE_TITLES = {
     1: "Ch.1 — Multidisciplinary interaction design",
     2: "Design principles & accessibility",
@@ -49,6 +51,75 @@
   const shuffleToggle = document.getElementById("shuffleToggle");
   const filterAnalytical = document.getElementById("filterAnalytical");
   const restartBtn = document.getElementById("restartBtn");
+  const wrongCountEl = document.getElementById("wrongCount");
+  const btnWrongReview = document.getElementById("btnWrongReview");
+  const btnWrongClear = document.getElementById("btnWrongClear");
+  const wrongReviewPanel = document.getElementById("wrongReviewPanel");
+  const wrongReviewList = document.getElementById("wrongReviewList");
+
+  function loadWrongList() {
+    try {
+      const raw = sessionStorage.getItem(STORAGE_KEY_WRONG);
+      if (!raw) return [];
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function saveWrongList(list) {
+    sessionStorage.setItem(STORAGE_KEY_WRONG, JSON.stringify(list));
+  }
+
+  function wrongRecordKey(rec) {
+    return `${rec.lecture}\n${rec.question}\n${rec.correct}`;
+  }
+
+  function appendWrongRecord(item, selectedIdx) {
+    if (currentLecture == null) return;
+    const rec = {
+      lecture: currentLecture,
+      question: stripTags(item.q),
+      picked: item.options[selectedIdx],
+      correct: item.options[item.correct],
+      cat: item.cat || "recall",
+      at: new Date().toISOString(),
+    };
+    const list = loadWrongList();
+    const k = wrongRecordKey(rec);
+    if (list.some((r) => wrongRecordKey(r) === k)) {
+      updateWrongUI();
+      return;
+    }
+    list.push(rec);
+    saveWrongList(list);
+    updateWrongUI();
+  }
+
+  function updateWrongUI() {
+    const list = loadWrongList();
+    const n = list.length;
+    wrongCountEl.textContent = String(n);
+    btnWrongReview.disabled = n === 0;
+    wrongReviewList.innerHTML = "";
+    for (let i = list.length - 1; i >= 0; i--) {
+      const r = list[i];
+      const li = document.createElement("li");
+      const title = LECTURE_TITLES[r.lecture] || "Lecture " + r.lecture;
+      li.innerHTML = `<span class="wrong-li-meta">L${r.lecture} · ${escapeHtml(r.cat)} · ${escapeHtml(title)}</span>` +
+        `<span class="wrong-li-q">${escapeHtml(r.question)}</span>` +
+        `<span class="wrong-li-picked">You: ${escapeHtml(r.picked)}</span>` +
+        `<span class="wrong-li-correct">Correct: ${escapeHtml(r.correct)}</span>`;
+      wrongReviewList.appendChild(li);
+    }
+  }
+
+  function escapeHtml(s) {
+    const d = document.createElement("div");
+    d.textContent = s;
+    return d.innerHTML;
+  }
 
   function shuffleArray(arr) {
     const a = arr.slice();
@@ -169,6 +240,7 @@
       feedback.classList.remove("ok");
       const rightLabel = item.options[item.correct];
       feedback.textContent = `Wrong. The best answer is: ${rightLabel}`;
+      appendWrongRecord(item, selectedIdx);
     }
 
     scoreText.textContent = `Score: ${correctCount} / ${attempted}`;
@@ -237,6 +309,20 @@
     }
   });
 
+  btnWrongReview.addEventListener("click", () => {
+    wrongReviewPanel.classList.toggle("hidden");
+    if (!wrongReviewPanel.classList.contains("hidden")) {
+      updateWrongUI();
+    }
+  });
+
+  btnWrongClear.addEventListener("click", () => {
+    saveWrongList([]);
+    updateWrongUI();
+    wrongReviewPanel.classList.add("hidden");
+  });
+
   initPicker();
+  updateWrongUI();
   showPicker();
 })();

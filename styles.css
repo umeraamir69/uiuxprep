@@ -121,6 +121,79 @@ body {
   margin: 0 0 0.5rem;
 }
 
+.wrong-session-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  margin: 0.85rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.wrong-count-wrap strong {
+  color: var(--bad);
+  font-variant-numeric: tabular-nums;
+}
+
+.btn-small {
+  padding: 0.35rem 0.65rem;
+  font-size: 0.8rem;
+}
+
+.wrong-review-panel {
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  background: rgba(248, 113, 113, 0.08);
+  border: 1px solid rgba(248, 113, 113, 0.25);
+  border-radius: var(--radius);
+  max-height: 280px;
+  overflow: auto;
+}
+
+.wrong-review-title {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.wrong-review-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wrong-review-list li {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.82rem;
+}
+
+.wrong-review-list li:last-child {
+  border-bottom: none;
+}
+
+.wrong-li-meta {
+  font-size: 0.72rem;
+  color: var(--accent);
+}
+
+.wrong-li-q {
+  color: var(--text);
+}
+
+.wrong-li-picked {
+  color: var(--bad);
+}
+
+.wrong-li-correct {
+  color: var(--ok);
+}
+
 .header h1 {
   font-size: 1.35rem;
   font-weight: 600;
